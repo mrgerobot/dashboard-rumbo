@@ -40,6 +40,7 @@ function SupportBlock() {
 export default function DashboardLayout({ activeTab, onTabChange, children }: DashboardLayoutProps) {
   const isMobile = useIsMobile();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const { logout } = useAuth();
 
   if (isMobile) {
     return (
