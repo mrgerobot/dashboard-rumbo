@@ -1,11 +1,35 @@
 import { useState, useMemo } from "react";
-import { Search, Download, ExternalLink, ChevronLeft, ChevronRight, CheckCircle2, MessageSquare, AlertCircle } from "lucide-react";
+import { Search, Download, ExternalLink, ChevronLeft, ChevronRight, CheckCircle2, MessageSquare, AlertCircle, Filter, ChevronDown, X } from "lucide-react";
 import { students } from "@/data/students";
 import type { Estado, Interaccion } from "@/data/students";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { cn } from "@/lib/utils";
 
 const PAGE_SIZE = 10;
+
+const AREAS = [
+  "Todas las áreas",
+  "Lengua, Literatura y Comunicación",
+  "Lenguas y Culturas Extranjeras",
+  "Individuos, Sociedad y Humanidades",
+  "Ciencias Naturales y Experimentales",
+  "Matemáticas y Pensamiento Lógico",
+  "Artes, Expresión y Creatividad",
+];
+
+const ESTADOS = ["Todos los estados", "Sin comenzar", "En progreso", "Finalizado"];
+const COACH = ["Todos", "Interactuó", "No interactuó"];
+const CAMPUSES = [
+  "Todos los campus",
+  "Monterrey",
+  "Guadalajara",
+  "Ciudad de México",
+  "Puebla",
+  "Querétaro",
+  "San Luis Potosí",
+  "Tijuana",
+  "Chihuahua",
+];
 
 function StatusBadge({ estado }: { estado: Estado }) {
   const cls = estado === "Finalizado" ? "badge-status-green" : estado === "En progreso" ? "badge-status-blue" : "badge-status-gray";
@@ -17,24 +41,94 @@ function InteraccionBadge({ interaccion }: { interaccion: Interaccion }) {
   return <span className={cls}>{interaccion}</span>;
 }
 
+interface FilterDropdownProps {
+  label: string;
+  value: string;
+  options: string[];
+  onChange: (v: string) => void;
+  defaultValue: string;
+}
+
+function FilterDropdown({ label, value, options, onChange, defaultValue }: FilterDropdownProps) {
+  const isActive = value !== defaultValue;
+  return (
+    <div className="flex flex-col gap-1.5 min-w-[180px]">
+      <label className="text-xs font-medium text-muted-foreground">{label}</label>
+      <div className="relative">
+        {isActive && (
+          <span className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-primary z-10" />
+        )}
+        <select
+          value={value}
+          onChange={(e) => onChange(e.target.value)}
+          className={cn(
+            "w-full appearance-none rounded-lg border bg-white px-3 py-2.5 pr-8 text-sm text-secondary cursor-pointer focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary transition-colors",
+            isActive ? "border-primary" : "border-[hsl(220,13%,91%)]"
+          )}
+        >
+          {options.map((opt) => (
+            <option key={opt} value={opt}>{opt}</option>
+          ))}
+        </select>
+        <ChevronDown size={14} className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground pointer-events-none" />
+      </div>
+    </div>
+  );
+}
+
 export default function SeguimientoTab() {
   const [search, setSearch] = useState("");
   const [page, setPage] = useState(0);
+  const [area, setArea] = useState(AREAS[0]);
+  const [estado, setEstado] = useState(ESTADOS[0]);
+  const [coach, setCoach] = useState(COACH[0]);
+  const [campus, setCampus] = useState(CAMPUSES[0]);
+  const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const isMobile = useIsMobile();
+
+  const hasActiveFilters = area !== AREAS[0] || estado !== ESTADOS[0] || coach !== COACH[0] || campus !== CAMPUSES[0];
+
+  const clearFilters = () => {
+    setArea(AREAS[0]);
+    setEstado(ESTADOS[0]);
+    setCoach(COACH[0]);
+    setCampus(CAMPUSES[0]);
+    setPage(0);
+  };
+
+  const handleFilterChange = (setter: (v: string) => void) => (v: string) => {
+    setter(v);
+    setPage(0);
+  };
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase();
-    return students.filter(
-      (s) => s.nombre.toLowerCase().includes(q) || s.correo.toLowerCase().includes(q) || s.campus.toLowerCase().includes(q)
-    );
-  }, [search]);
+    return students.filter((s) => {
+      if (q && !s.nombre.toLowerCase().includes(q) && !s.correo.toLowerCase().includes(q) && !s.campus.toLowerCase().includes(q)) return false;
+      if (area !== AREAS[0] && !s.areas.includes(area as any)) return false;
+      if (estado !== ESTADOS[0] && s.estado !== estado) return false;
+      if (coach !== COACH[0] && s.interaccion !== coach) return false;
+      if (campus !== CAMPUSES[0] && s.campus !== campus) return false;
+      return true;
+    });
+  }, [search, area, estado, coach, campus]);
 
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
   const pageData = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
 
+  // Global KPIs — always from full dataset
   const finalizados = students.filter((s) => s.estado === "Finalizado").length;
   const conCoach = students.filter((s) => s.interaccion === "Interactuó").length;
   const sinComenzar = students.filter((s) => s.estado === "Sin comenzar").length;
+
+  const filterControls = (
+    <>
+      <FilterDropdown label="Área de estudio" value={area} options={AREAS} onChange={handleFilterChange(setArea)} defaultValue={AREAS[0]} />
+      <FilterDropdown label="Estado del test" value={estado} options={ESTADOS} onChange={handleFilterChange(setEstado)} defaultValue={ESTADOS[0]} />
+      <FilterDropdown label="Uso del coach" value={coach} options={COACH} onChange={handleFilterChange(setCoach)} defaultValue={COACH[0]} />
+      <FilterDropdown label="Campus" value={campus} options={CAMPUSES} onChange={handleFilterChange(setCampus)} defaultValue={CAMPUSES[0]} />
+    </>
+  );
 
   return (
     <div>
@@ -74,6 +168,44 @@ export default function SeguimientoTab() {
         </div>
       </div>
 
+      {/* Filters */}
+      {isMobile ? (
+        <div className="mb-4">
+          <button
+            onClick={() => setMobileFiltersOpen(!mobileFiltersOpen)}
+            className={cn(
+              "inline-flex items-center gap-2 px-4 py-2.5 rounded-lg border text-sm font-medium transition-colors",
+              hasActiveFilters
+                ? "border-primary text-primary bg-primary/5"
+                : "border-[hsl(220,13%,91%)] text-secondary"
+            )}
+          >
+            <Filter size={16} />
+            Filtros
+            {hasActiveFilters && <span className="w-2 h-2 rounded-full bg-primary" />}
+          </button>
+          {mobileFiltersOpen && (
+            <div className="mt-3 p-4 card-dashboard space-y-4">
+              {filterControls}
+              {hasActiveFilters && (
+                <button onClick={clearFilters} className="text-sm font-medium text-primary hover:underline">
+                  Limpiar filtros
+                </button>
+              )}
+            </div>
+          )}
+        </div>
+      ) : (
+        <div className="flex items-end gap-4 mb-4 flex-wrap">
+          {filterControls}
+          {hasActiveFilters && (
+            <button onClick={clearFilters} className="text-sm font-medium text-primary hover:underline pb-2.5">
+              Limpiar filtros
+            </button>
+          )}
+        </div>
+      )}
+
       {/* Search + Export */}
       <div className="flex flex-col sm:flex-row gap-3 mb-4">
         <div className="relative flex-1">
@@ -83,7 +215,7 @@ export default function SeguimientoTab() {
             placeholder="Buscar por nombre, correo electrónico o campus..."
             value={search}
             onChange={(e) => { setSearch(e.target.value); setPage(0); }}
-            className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-input bg-card text-foreground text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+            className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-[hsl(220,13%,91%)] bg-white text-foreground text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary"
           />
         </div>
         <button className="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg border-2 border-primary text-primary text-sm font-medium hover:bg-accent transition-colors flex-shrink-0">
@@ -150,7 +282,7 @@ export default function SeguimientoTab() {
               {pageData.length === 0 && (
                 <tr>
                   <td colSpan={8} className="py-12 text-center text-muted-foreground">
-                    No se encontraron resultados.
+                    No se encontraron estudiantes con los filtros seleccionados.
                   </td>
                 </tr>
               )}
@@ -160,7 +292,7 @@ export default function SeguimientoTab() {
 
         {/* Pagination */}
         {totalPages > 1 && (
-          <div className="flex items-center justify-between px-4 py-3 border-t border-border">
+          <div className="flex items-center justify-between px-4 py-3 border-t border-border bg-white">
             <span className="text-xs text-muted-foreground">
               Mostrando {page * PAGE_SIZE + 1}–{Math.min((page + 1) * PAGE_SIZE, filtered.length)} de {filtered.length}
             </span>

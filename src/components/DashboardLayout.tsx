@@ -44,15 +44,18 @@ export default function DashboardLayout({ activeTab, onTabChange, children }: Da
     return (
       <div className="flex flex-col min-h-screen bg-[hsl(0,0%,0%)]">
         {/* Mobile top header */}
-        <header className="sticky top-0 z-30 flex items-center justify-between px-4 h-14 bg-white border-b border-[hsl(220,13%,91%)]">
+        <header className="sticky top-0 z-30 flex items-center px-4 h-14 bg-white border-b border-[hsl(220,13%,91%)]">
+          <div className="flex-1" />
           <img
             src={rumboLogo}
             alt="RUMBO"
             className="h-8 mix-blend-multiply"
           />
-          <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="text-secondary">
-            {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-          </button>
+          <div className="flex-1 flex justify-end">
+            <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="text-secondary">
+              {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+            </button>
+          </div>
         </header>
 
         {/* Mobile dropdown menu */}
@@ -114,7 +117,7 @@ export default function DashboardLayout({ activeTab, onTabChange, children }: Da
     <div className="flex min-h-screen bg-[hsl(0,0%,0%)]">
       {/* Sidebar */}
       <aside className="w-60 flex-shrink-0 bg-white flex flex-col sticky top-0 h-screen border-r border-[hsl(220,13%,91%)]">
-        <div className="px-4 py-5">
+        <div className="flex items-center justify-center px-4 py-6">
           <img
             src={rumboLogo}
             alt="RUMBO"
