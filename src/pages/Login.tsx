@@ -14,8 +14,17 @@ export default function Login() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
+  const ADMIN_EMAILS = ["lucia@geroeducacion.com", "lucas@geroeducacion.com"];
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    const normalizedEmail = email.trim().toLowerCase();
+
+    if (ADMIN_EMAILS.includes(normalizedEmail)) {
+      login({ email: normalizedEmail, role: "admin", campus: null, nombre: "Administrador" });
+      return;
+    }
+
     setError("");
     setLoading(true);
 
@@ -23,18 +32,13 @@ export default function Login() {
       const res = await fetch(API_URL, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email: email.trim().toLowerCase() }),
+        body: JSON.stringify({ email: normalizedEmail }),
       });
 
       const data = await res.json();
 
       if (data.authorized) {
-        login({
-          email: email.trim().toLowerCase(),
-          role: data.role,
-          campus: data.campus,
-          nombre: data.nombre,
-        });
+        login({ email: normalizedEmail, role: data.role, campus: data.campus, nombre: data.nombre });
       } else {
         setError("Este correo no está autorizado para acceder.");
       }
