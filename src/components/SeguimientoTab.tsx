@@ -77,7 +77,12 @@ function FilterDropdown({ label, value, options, onChange, defaultValue }: Filte
   );
 }
 
-export default function SeguimientoTab() {
+interface SeguimientoProps {
+  role: Role;
+  campus: string | null;
+}
+
+export default function SeguimientoTab({ role, campus: userCampus }: SeguimientoProps) {
   const [search, setSearch] = useState("");
   const [page, setPage] = useState(0);
   const [area, setArea] = useState(AREAS[0]);
