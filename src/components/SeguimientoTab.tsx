@@ -83,6 +83,11 @@ interface SeguimientoProps {
 }
 
 export default function SeguimientoTab({ role, campus: userCampus }: SeguimientoProps) {
+  const students = useMemo(() => {
+    if (role === "admin") return allStudents;
+    return allStudents.filter((s) => s.campus === userCampus);
+  }, [role, userCampus]);
+
   const [search, setSearch] = useState("");
   const [page, setPage] = useState(0);
   const [area, setArea] = useState(AREAS[0]);
@@ -92,13 +97,14 @@ export default function SeguimientoTab({ role, campus: userCampus }: Seguimiento
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const isMobile = useIsMobile();
 
-  const hasActiveFilters = area !== AREAS[0] || estado !== ESTADOS[0] || coach !== COACH[0] || campus !== CAMPUSES[0];
+  const isMentor = role === "mentor";
+  const hasActiveFilters = area !== AREAS[0] || estado !== ESTADOS[0] || coach !== COACH[0] || (!isMentor && campus !== CAMPUSES[0]);
 
   const clearFilters = () => {
     setArea(AREAS[0]);
     setEstado(ESTADOS[0]);
     setCoach(COACH[0]);
-    setCampus(CAMPUSES[0]);
+    if (!isMentor) setCampus(CAMPUSES[0]);
     setPage(0);
   };
 
@@ -114,15 +120,15 @@ export default function SeguimientoTab({ role, campus: userCampus }: Seguimiento
       if (area !== AREAS[0] && !s.areas.includes(area as any)) return false;
       if (estado !== ESTADOS[0] && s.estado !== estado) return false;
       if (coach !== COACH[0] && s.interaccion !== coach) return false;
-      if (campus !== CAMPUSES[0] && s.campus !== campus) return false;
+      if (!isMentor && campus !== CAMPUSES[0] && s.campus !== campus) return false;
       return true;
     });
-  }, [search, area, estado, coach, campus]);
+  }, [search, area, estado, coach, campus, students, isMentor]);
 
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
   const pageData = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
 
-  // Global KPIs — always from full dataset
+  // KPIs from role-scoped dataset
   const finalizados = students.filter((s) => s.estado === "Finalizado").length;
   const conCoach = students.filter((s) => s.interaccion === "Interactuó").length;
   const sinComenzar = students.filter((s) => s.estado === "Sin comenzar").length;
@@ -132,7 +138,9 @@ export default function SeguimientoTab({ role, campus: userCampus }: Seguimiento
       <FilterDropdown label="Área de estudio" value={area} options={AREAS} onChange={handleFilterChange(setArea)} defaultValue={AREAS[0]} />
       <FilterDropdown label="Estado del test" value={estado} options={ESTADOS} onChange={handleFilterChange(setEstado)} defaultValue={ESTADOS[0]} />
       <FilterDropdown label="Uso del coach" value={coach} options={COACH} onChange={handleFilterChange(setCoach)} defaultValue={COACH[0]} />
-      <FilterDropdown label="Campus" value={campus} options={CAMPUSES} onChange={handleFilterChange(setCampus)} defaultValue={CAMPUSES[0]} />
+      {!isMentor && (
+        <FilterDropdown label="Campus" value={campus} options={CAMPUSES} onChange={handleFilterChange(setCampus)} defaultValue={CAMPUSES[0]} />
+      )}
     </>
   );
 
