@@ -154,6 +154,14 @@ export default function DashboardLayout({ activeTab, onTabChange, children }: Da
 
         <SupportBlock />
 
+        <button
+          onClick={logout}
+          className="flex items-center gap-2 w-full px-4 py-2 text-xs text-muted-foreground hover:text-foreground transition-colors"
+        >
+          <LogOut size={14} />
+          Cerrar sesión
+        </button>
+
         <div className="px-6 py-4 text-xs text-muted-foreground">
           © 2025 RUMBO · PrepaTEC
         </div>
