@@ -117,7 +117,7 @@ export default function DashboardLayout({ activeTab, onTabChange, children }: Da
     <div className="flex min-h-screen bg-[hsl(0,0%,0%)]">
       {/* Sidebar */}
       <aside className="w-60 flex-shrink-0 bg-white flex flex-col sticky top-0 h-screen border-r border-[hsl(220,13%,91%)]">
-        <div className="px-4 py-5">
+        <div className="flex items-center justify-center px-4 py-6">
           <img
             src={rumboLogo}
             alt="RUMBO"
