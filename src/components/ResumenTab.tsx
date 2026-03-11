@@ -16,7 +16,7 @@ const coachData = [
 export default function ResumenTab() {
   return (
     <div>
-      <h1 className="text-2xl font-bold text-foreground mb-6">Resumen</h1>
+      <h1 className="text-2xl font-bold text-white mb-6">Resumen</h1>
 
       {/* KPI Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">

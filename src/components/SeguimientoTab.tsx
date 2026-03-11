@@ -38,7 +38,7 @@ export default function SeguimientoTab() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold text-foreground mb-6">Seguimiento</h1>
+      <h1 className="text-2xl font-bold text-white mb-6">Seguimiento</h1>
 
       {/* KPI Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
@@ -116,7 +116,7 @@ export default function SeguimientoTab() {
             </thead>
             <tbody>
               {pageData.map((s, i) => (
-                <tr key={s.correo} className={cn("border-b border-border last:border-0 transition-colors", i % 2 === 1 && "bg-muted/30")}>
+                <tr key={s.correo} className={cn("border-b border-border last:border-0 transition-colors", i % 2 === 1 ? "bg-[hsl(0,0%,98%)]" : "bg-white")}>
                   <td className="py-3 px-4 font-semibold text-foreground whitespace-nowrap">{s.nombre}</td>
                   {!isMobile && (
                     <>
