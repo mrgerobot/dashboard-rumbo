@@ -82,6 +82,13 @@ export default function DashboardLayout({ activeTab, onTabChange, children }: Da
             </div>
             <div className="mt-4 pt-4 border-t border-[hsl(220,13%,91%)]">
               <SupportBlock />
+              <button
+                onClick={() => { logout(); setMobileMenuOpen(false); }}
+                className="flex items-center gap-2 w-full px-4 py-2 text-xs text-muted-foreground hover:text-foreground transition-colors mt-2"
+              >
+                <LogOut size={14} />
+                Cerrar sesión
+              </button>
             </div>
           </div>
         )}
