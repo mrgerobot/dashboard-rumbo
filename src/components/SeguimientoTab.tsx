@@ -116,7 +116,7 @@ export default function SeguimientoTab() {
             </thead>
             <tbody>
               {pageData.map((s, i) => (
-                <tr key={s.correo} className={cn("border-b border-border last:border-0 transition-colors", i % 2 === 1 && "bg-muted/30")}>
+                <tr key={s.correo} className={cn("border-b border-border last:border-0 transition-colors", i % 2 === 1 ? "bg-[hsl(0,0%,98%)]" : "bg-white")}>
                   <td className="py-3 px-4 font-semibold text-foreground whitespace-nowrap">{s.nombre}</td>
                   {!isMobile && (
                     <>
