@@ -1,9 +1,10 @@
 import { useState, useMemo } from "react";
 import { Search, Download, ExternalLink, ChevronLeft, ChevronRight, CheckCircle2, MessageSquare, AlertCircle, Filter, ChevronDown, X } from "lucide-react";
-import { students } from "@/data/students";
+import { students as allStudents } from "@/data/students";
 import type { Estado, Interaccion } from "@/data/students";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { cn } from "@/lib/utils";
+import type { Role } from "@/contexts/AuthContext";
 
 const PAGE_SIZE = 10;
 
