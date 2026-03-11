@@ -105,7 +105,7 @@ export default function SeguimientoTab() {
     const q = search.toLowerCase();
     return students.filter((s) => {
       if (q && !s.nombre.toLowerCase().includes(q) && !s.correo.toLowerCase().includes(q) && !s.campus.toLowerCase().includes(q)) return false;
-      if (area !== AREAS[0] && !s.areas.includes(area)) return false;
+      if (area !== AREAS[0] && !s.areas.includes(area as any)) return false;
       if (estado !== ESTADOS[0] && s.estado !== estado) return false;
       if (coach !== COACH[0] && s.interaccion !== coach) return false;
       if (campus !== CAMPUSES[0] && s.campus !== campus) return false;
