@@ -1,7 +1,8 @@
 import { useState } from "react";
-import { LayoutDashboard, Users, Menu, X, MessageCircle } from "lucide-react";
+import { LayoutDashboard, Users, Menu, X, MessageCircle, LogOut } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { useAuth } from "@/contexts/AuthContext";
 import rumboLogo from "@/assets/rumbo-logo.png";
 
 type Tab = "resumen" | "seguimiento";
