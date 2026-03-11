@@ -38,7 +38,7 @@ export default function SeguimientoTab() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold text-foreground mb-6">Seguimiento</h1>
+      <h1 className="text-2xl font-bold text-white mb-6">Seguimiento</h1>
 
       {/* KPI Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
