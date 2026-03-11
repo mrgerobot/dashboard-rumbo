@@ -1,7 +1,8 @@
 import { useState } from "react";
-import { LayoutDashboard, Users, Menu, X, MessageCircle } from "lucide-react";
+import { LayoutDashboard, Users, Menu, X, MessageCircle, LogOut } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { useAuth } from "@/contexts/AuthContext";
 import rumboLogo from "@/assets/rumbo-logo.png";
 
 type Tab = "resumen" | "seguimiento";
@@ -39,6 +40,7 @@ function SupportBlock() {
 export default function DashboardLayout({ activeTab, onTabChange, children }: DashboardLayoutProps) {
   const isMobile = useIsMobile();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const { logout } = useAuth();
 
   if (isMobile) {
     return (
@@ -80,6 +82,13 @@ export default function DashboardLayout({ activeTab, onTabChange, children }: Da
             </div>
             <div className="mt-4 pt-4 border-t border-[hsl(220,13%,91%)]">
               <SupportBlock />
+              <button
+                onClick={() => { logout(); setMobileMenuOpen(false); }}
+                className="flex items-center gap-2 w-full px-4 py-2 text-xs text-muted-foreground hover:text-foreground transition-colors mt-2"
+              >
+                <LogOut size={14} />
+                Cerrar sesión
+              </button>
             </div>
           </div>
         )}
@@ -144,6 +153,14 @@ export default function DashboardLayout({ activeTab, onTabChange, children }: Da
         </nav>
 
         <SupportBlock />
+
+        <button
+          onClick={logout}
+          className="flex items-center gap-2 w-full px-4 py-2 text-xs text-muted-foreground hover:text-foreground transition-colors"
+        >
+          <LogOut size={14} />
+          Cerrar sesión
+        </button>
 
         <div className="px-6 py-4 text-xs text-muted-foreground">
           © 2025 RUMBO · PrepaTEC

@@ -1,46 +1,73 @@
+import { useMemo } from "react";
 import KpiCard from "./KpiCard";
 import DonutChart from "./DonutChart";
 import HBarChart from "./HBarChart";
+import { students } from "@/data/students";
+import type { Role } from "@/contexts/AuthContext";
 
-const actividadData = [
-  { name: "Finalizado", value: 520, color: "#4CAF50" },
-  { name: "En progreso", value: 218, color: "#2196F3" },
-  { name: "Sin comenzar", value: 109, color: "#9E9E9E" },
-];
+interface Props {
+  role: Role;
+  campus: string | null;
+}
 
-const coachData = [
-  { name: "Comenzó", value: 389, color: "#FF6B35" },
-  { name: "No comenzó", value: 458, color: "#9E9E9E" },
-];
+export default function ResumenTab({ role, campus }: Props) {
+  const filteredStudents = useMemo(() => {
+    if (role === "admin") return students;
+    return students.filter((s) => s.campus === campus);
+  }, [role, campus]);
 
-export default function ResumenTab() {
+  const total = filteredStudents.length;
+  const finalizados = filteredStudents.filter((s) => s.estado === "Finalizado").length;
+  const enProgreso = filteredStudents.filter((s) => s.estado === "En progreso").length;
+  const sinComenzar = filteredStudents.filter((s) => s.estado === "Sin comenzar").length;
+  const tasaRespuesta = total > 0 ? ((finalizados / total) * 100).toFixed(1) : "0";
+
+  const coachSi = filteredStudents.filter((s) => s.interaccion === "Interactuó").length;
+  const coachNo = filteredStudents.filter((s) => s.interaccion === "No interactuó").length;
+
+  const actividadData = [
+    { name: "Finalizado", value: finalizados, color: "#4CAF50" },
+    { name: "En progreso", value: enProgreso, color: "#2196F3" },
+    { name: "Sin comenzar", value: sinComenzar, color: "#9E9E9E" },
+  ];
+
+  const coachData = [
+    { name: "Comenzó", value: coachSi, color: "#FF6B35" },
+    { name: "No comenzó", value: coachNo, color: "#9E9E9E" },
+  ];
+
+  const maxActividad = Math.max(finalizados, enProgreso, sinComenzar, 10);
+  const maxCoach = Math.max(coachSi, coachNo, 10);
+
+  const title =
+    role === "mentor" && campus
+      ? `Resumen — Campus ${campus}`
+      : "Resumen";
+
   return (
     <div>
-      <h1 className="text-2xl font-bold text-white mb-6">Resumen</h1>
+      <h1 className="text-2xl font-bold text-white mb-6">{title}</h1>
 
-      {/* KPI Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
-        <KpiCard title="Estudiantes encuestados" value="847" subtitle="Total de estudiantes en el programa" icon="users" />
-        <KpiCard title="Tasa de respuesta" value="61.3%" subtitle="Estudiantes que completaron el test" icon="chart" />
+        <KpiCard title="Estudiantes encuestados" value={String(total)} subtitle="Total de estudiantes en el programa" icon="users" />
+        <KpiCard title="Tasa de respuesta" value={`${tasaRespuesta}%`} subtitle="Estudiantes que completaron el test" icon="chart" />
       </div>
 
-      {/* Charts row */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mb-4">
-        <DonutChart />
+        <DonutChart students={filteredStudents} />
         <HBarChart
           title="Avance de actividades por estado"
           subtitle="Distribución del progreso de los estudiantes en la plataforma"
           data={actividadData}
-          maxValue={600}
+          maxValue={Math.ceil(maxActividad * 1.2)}
         />
       </div>
 
-      {/* Coach chart full width */}
       <HBarChart
         title="Avance de interacción con el coach"
         subtitle="Proporción de estudiantes que iniciaron sesiones con su coach RUMBO"
         data={coachData}
-        maxValue={500}
+        maxValue={Math.ceil(maxCoach * 1.2)}
       />
     </div>
   );
