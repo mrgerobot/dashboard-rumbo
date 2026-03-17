@@ -25,6 +25,8 @@ export default function Login() {
         body: JSON.stringify({ email: normalizedEmail, url_origen: window.location.href }),
       });
 
+      console.log(res);
+
       const data = await res.json();
 
       if (data.status === "allowed") {
