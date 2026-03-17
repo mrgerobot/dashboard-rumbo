@@ -6,41 +6,36 @@ import rumboLogo from "@/assets/rumbo-logo.png";
 const WHATSAPP_URL =
   "https://api.whatsapp.com/send/?phone=5491162204594&text=Hola%2C+soy+lucia%40geroeducacion.com+y+necesito+asistencia+con+el+dashboard.&type=phone_number&app_absent=0";
 
-const API_URL = "/api/auth/validate-email";
-
 export default function Login() {
   const { login } = useAuth();
   const [email, setEmail] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
-  const ADMIN_EMAILS = ["lucia@geroeducacion.com", "lucas@geroeducacion.com"];
-
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     const normalizedEmail = email.trim().toLowerCase();
-
-    if (ADMIN_EMAILS.includes(normalizedEmail)) {
-      login({ email: normalizedEmail, role: "admin", campus: null, nombre: "Administrador" });
-      return;
-    }
-
     setError("");
     setLoading(true);
 
     try {
-      const res = await fetch(API_URL, {
+      const res = await fetch("/api/validar-email", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email: normalizedEmail }),
+        body: JSON.stringify({ email: normalizedEmail, url_origen: window.location.href }),
       });
 
       const data = await res.json();
 
-      if (data.authorized) {
-        login({ email: normalizedEmail, role: data.role, campus: data.campus, nombre: data.nombre });
+      if (data.status === "allowed") {
+        login({
+          email: normalizedEmail,
+          role: data.campus ? "mentor" : "admin",
+          campus: data.campus ?? null,
+          nombre: data.nombre ?? "Usuario",
+        });
       } else {
-        setError("Este correo no está autorizado para acceder.");
+        setError(data.message || "Este correo no está autorizado para acceder.");
       }
     } catch {
       setError("Error de conexión. Intenta nuevamente.");
@@ -52,47 +47,31 @@ export default function Login() {
   return (
     <div className="min-h-screen bg-black flex items-center justify-center p-4">
       <div className="w-full max-w-[420px] bg-white rounded-2xl p-10 shadow-lg">
-        {/* Logo */}
         <div className="flex justify-center mb-3">
-          <img
-            src={rumboLogo}
-            alt="RUMBO"
-            className="h-14 mix-blend-multiply"
-          />
+          <img src={rumboLogo} alt="RUMBO" className="h-14 mix-blend-multiply" />
         </div>
 
-        {/* Subtitle */}
         <p className="text-center text-sm text-muted-foreground mb-4">
           Dashboard · PrepaTEC
         </p>
 
-        {/* Divider */}
         <div className="border-t border-border mb-6" />
 
-        {/* Form */}
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
-            <label
-              htmlFor="email"
-              className="block text-sm font-medium text-foreground mb-1.5"
-            >
+            <label htmlFor="email" className="block text-sm font-medium text-foreground mb-1.5">
               Correo electrónico
             </label>
             <input
               id="email"
               type="email"
               required
-              placeholder="ejemplo@correo.com"
+              placeholder="tu@correo.com"
               value={email}
-              onChange={(e) => {
-                setEmail(e.target.value);
-                setError("");
-              }}
+              onChange={(e) => { setEmail(e.target.value); setError(""); }}
               className="w-full rounded-lg border border-border bg-white px-3 py-3 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary transition-colors"
             />
-            {error && (
-              <p className="mt-2 text-sm text-destructive">{error}</p>
-            )}
+            {error && <p className="mt-2 text-sm text-destructive">{error}</p>}
           </div>
 
           <button
@@ -100,19 +79,12 @@ export default function Login() {
             disabled={loading}
             className="w-full h-11 rounded-lg bg-primary text-primary-foreground font-medium text-sm hover:bg-primary/90 transition-colors disabled:opacity-70 flex items-center justify-center gap-2"
           >
-            {loading ? (
-              <Loader2 size={18} className="animate-spin" />
-            ) : (
-              "Ingresar"
-            )}
+            {loading ? <Loader2 size={18} className="animate-spin" /> : "Ingresar"}
           </button>
         </form>
 
-        {/* Support */}
         <div className="mt-6 pt-4 border-t border-border text-center">
-          <p className="text-xs text-muted-foreground mb-2">
-            ¿Necesitas asistencia?
-          </p>
+          <p className="text-xs text-muted-foreground mb-2">¿Necesitas asistencia?</p>
           <a
             href={WHATSAPP_URL}
             target="_blank"
