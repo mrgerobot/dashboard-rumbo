@@ -82,7 +82,7 @@ export default function Login() {
               id="email"
               type="email"
               required
-              placeholder="tu@correo.com"
+              placeholder="ejemplo@correo.com"
               value={email}
               onChange={(e) => {
                 setEmail(e.target.value);
