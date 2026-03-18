@@ -28,19 +28,20 @@ export default function Login() {
       const data = await res.json();
 
       if (data.status === "allowed") {
-        if (!data.campus) {
-          // Email is recognized but has no campus assigned — block entry
-          setError("Tu correo no tiene un campus asignado. Contáctanos para que podamos agregarlo.");
-          return;
-        }
-        login({
-          email: normalizedEmail,
-          campus: data.campus,
-          nombre: data.nombre ?? "Usuario",
-        });
-      } else {
-        setError(data.message || "Este correo no está autorizado para acceder.");
-      }
+  const isAdmin = data.campus === null || data.campus === "";
+  
+  if (!isAdmin && !data.campus) {
+    setError("Tu correo no tiene un campus asignado. Contáctanos para que podamos agregarlo.");
+    return;
+  }
+
+  login({
+    email: normalizedEmail,
+    role: isAdmin ? "admin" : "mentor",
+    campus: data.campus ?? null,
+    nombre: data.nombre ?? "Usuario",
+  });
+}
     } catch {
       setError("Error de conexión. Intenta nuevamente.");
     } finally {
