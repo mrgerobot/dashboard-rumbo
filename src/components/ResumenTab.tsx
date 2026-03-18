@@ -5,13 +5,14 @@ import HBarChart from "./HBarChart";
 import { students } from "@/data/students";
 
 interface Props {
-  campus: string;
+  campus: string | null;  // null = admin
+  role: "admin" | "mentor";
 }
 
-export default function ResumenTab({ campus }: Props) {
+export default function ResumenTab({ campus, role }: Props) {
   const filteredStudents = useMemo(
-    () => students.filter((s) => s.campus === campus),
-    [campus]
+    () => role === "admin" ? students : students.filter((s) => s.campus === campus),
+    [campus, role]
   );
 
   const total = filteredStudents.length;

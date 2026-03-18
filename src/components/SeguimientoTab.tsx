@@ -51,14 +51,16 @@ function FilterDropdown({ label, value, options, onChange, defaultValue }: Filte
   );
 }
 
+
 interface SeguimientoProps {
-  campus: string;
+  campus: string | null;  // null = admin
+  role: "admin" | "mentor";
 }
 
-export default function SeguimientoTab({ campus: userCampus }: SeguimientoProps) {
+export default function SeguimientoTab({ campus: userCampus, role }: SeguimientoProps) {
   const students = useMemo(
-    () => allStudents.filter((s) => s.campus === userCampus),
-    [userCampus]
+    () => role === "admin" ? allStudents : allStudents.filter((s) => s.campus === userCampus),
+    [userCampus, role]
   );
 
   // --- Derive filter options from the scoped population ---

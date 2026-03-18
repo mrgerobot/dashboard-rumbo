@@ -2,8 +2,9 @@ import { createContext, useContext, useState, useCallback } from "react";
 
 export interface AuthSession {
   email: string;
-  campus: string;   // always present — no campus = no entry
+  campus: string | null;  // null = admin
   nombre: string;
+  role: "admin" | "mentor";
 }
 
 interface AuthContextType {
