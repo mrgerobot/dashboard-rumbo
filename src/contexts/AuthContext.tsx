@@ -1,11 +1,8 @@
 import { createContext, useContext, useState, useCallback } from "react";
 
-export type Role = "admin" | "mentor";
-
 export interface AuthSession {
   email: string;
-  role: Role;
-  campus: string | null;
+  campus: string;   // always present — no campus = no entry
   nombre: string;
 }
 

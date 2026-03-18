@@ -1,36 +1,10 @@
 import { useState, useMemo } from "react";
-import { Search, Download, ExternalLink, ChevronLeft, ChevronRight, CheckCircle2, MessageSquare, AlertCircle, Filter, ChevronDown, X } from "lucide-react";
+import { Search, Download, ExternalLink, ChevronLeft, ChevronRight, CheckCircle2, MessageSquare, AlertCircle, Filter, ChevronDown } from "lucide-react";
 import { students as allStudents } from "@/data/students";
 import type { Estado, Interaccion } from "@/data/students";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { exportAllColumnsToExcel, cn } from "@/lib/utils";
-import type { Role } from "@/contexts/AuthContext";
-
 const PAGE_SIZE = 10;
-
-const AREAS = [
-  "Todas las áreas",
-  "Lengua, Literatura y Comunicación",
-  "Lenguas y Culturas Extranjeras",
-  "Individuos, Sociedad y Humanidades",
-  "Ciencias Naturales y Experimentales",
-  "Matemáticas y Pensamiento Lógico",
-  "Artes, Expresión y Creatividad",
-];
-
-const ESTADOS = ["Todos los estados", "Sin comenzar", "En progreso", "Finalizado"];
-const COACH = ["Todos", "Interactuó", "No interactuó"];
-const CAMPUSES = [
-  "Todos los campus",
-  "Monterrey",
-  "Guadalajara",
-  "Ciudad de México",
-  "Puebla",
-  "Querétaro",
-  "San Luis Potosí",
-  "Tijuana",
-  "Chihuahua",
-];
 
 function StatusBadge({ estado }: { estado: Estado }) {
   const cls = estado === "Finalizado" ? "badge-status-green" : estado === "En progreso" ? "badge-status-blue" : "badge-status-gray";
@@ -78,33 +52,65 @@ function FilterDropdown({ label, value, options, onChange, defaultValue }: Filte
 }
 
 interface SeguimientoProps {
-  role: Role;
-  campus: string | null;
+  campus: string;
 }
 
-export default function SeguimientoTab({ role, campus: userCampus }: SeguimientoProps) {
-  const students = useMemo(() => {
-    if (role === "admin") return allStudents;
-    return allStudents.filter((s) => s.campus === userCampus);
-  }, [role, userCampus]);
+export default function SeguimientoTab({ campus: userCampus }: SeguimientoProps) {
+  const students = useMemo(
+    () => allStudents.filter((s) => s.campus === userCampus),
+    [userCampus]
+  );
 
+  // --- Derive filter options from the scoped population ---
+  const ALL_AREAS = "Todas las áreas";
+  const ALL_ESTADOS = "Todos los estados";
+  const ALL_COACH = "Todos";
+  const ALL_CAMPUSES = "Todos los campus";
+
+  const areaOptions = useMemo(() => {
+    const set = new Set<string>();
+    students.forEach((s) => s.areas.forEach((a) => set.add(a)));
+    return [ALL_AREAS, ...Array.from(set).sort()];
+  }, [students]);
+
+  const estadoOptions = useMemo(() => {
+    const set = new Set<string>();
+    students.forEach((s) => set.add(s.estado));
+    // Preserve logical order
+    return [ALL_ESTADOS, ...["Sin comenzar", "En progreso", "Finalizado"].filter((e) => set.has(e))];
+  }, [students]);
+
+  const coachOptions = useMemo(() => {
+    const set = new Set<string>();
+    students.forEach((s) => set.add(s.interaccion));
+    return [ALL_COACH, ...Array.from(set).sort()];
+  }, [students]);
+
+  const campusOptions = useMemo(() => {
+    const set = new Set<string>();
+    students.forEach((s) => set.add(s.campus));
+    return [ALL_CAMPUSES, ...Array.from(set).sort()];
+  }, [students]);
+
+  // --- Filter state ---
   const [search, setSearch] = useState("");
   const [page, setPage] = useState(0);
-  const [area, setArea] = useState(AREAS[0]);
-  const [estado, setEstado] = useState(ESTADOS[0]);
-  const [coach, setCoach] = useState(COACH[0]);
-  const [campus, setCampus] = useState(CAMPUSES[0]);
+  const [area, setArea] = useState(ALL_AREAS);
+  const [estado, setEstado] = useState(ALL_ESTADOS);
+  const [coach, setCoach] = useState(ALL_COACH);
+  const [campus, setCampus] = useState(ALL_CAMPUSES);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const isMobile = useIsMobile();
 
-  const isMentor = role === "mentor";
-  const hasActiveFilters = area !== AREAS[0] || estado !== ESTADOS[0] || coach !== COACH[0] || (!isMentor && campus !== CAMPUSES[0]);
+  const hasActiveFilters =
+    area !== ALL_AREAS ||
+    estado !== ALL_ESTADOS ||
+    coach !== ALL_COACH;
 
   const clearFilters = () => {
-    setArea(AREAS[0]);
-    setEstado(ESTADOS[0]);
-    setCoach(COACH[0]);
-    if (!isMentor) setCampus(CAMPUSES[0]);
+    setArea(ALL_AREAS);
+    setEstado(ALL_ESTADOS);
+    setCoach(ALL_COACH);
     setPage(0);
   };
 
@@ -117,42 +123,34 @@ export default function SeguimientoTab({ role, campus: userCampus }: Seguimiento
     const q = search.toLowerCase();
     return students.filter((s) => {
       if (q && !s.nombre.toLowerCase().includes(q) && !s.correo.toLowerCase().includes(q) && !s.campus.toLowerCase().includes(q)) return false;
-      if (area !== AREAS[0] && !s.areas.includes(area as any)) return false;
-      if (estado !== ESTADOS[0] && s.estado !== estado) return false;
-      if (coach !== COACH[0] && s.interaccion !== coach) return false;
-      if (!isMentor && campus !== CAMPUSES[0] && s.campus !== campus) return false;
+      if (area !== ALL_AREAS && !s.areas.includes(area as any)) return false;
+      if (estado !== ALL_ESTADOS && s.estado !== estado) return false;
+      if (coach !== ALL_COACH && s.interaccion !== coach) return false;
       return true;
     });
-  }, [search, area, estado, coach, campus, students, isMentor]);
+  }, [search, area, estado, coach, campus, students]);
 
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
   const pageData = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
 
-  // KPIs from role-scoped dataset
+  // KPIs from role-scoped dataset (not from filtered — always reflect full scope)
   const finalizados = students.filter((s) => s.estado === "Finalizado").length;
   const conCoach = students.filter((s) => s.interaccion === "Interactuó").length;
   const sinComenzar = students.filter((s) => s.estado === "Sin comenzar").length;
 
   const filterControls = (
     <>
-      <FilterDropdown label="Área de estudio" value={area} options={AREAS} onChange={handleFilterChange(setArea)} defaultValue={AREAS[0]} />
-      <FilterDropdown label="Estado del test" value={estado} options={ESTADOS} onChange={handleFilterChange(setEstado)} defaultValue={ESTADOS[0]} />
-      <FilterDropdown label="Uso del coach" value={coach} options={COACH} onChange={handleFilterChange(setCoach)} defaultValue={COACH[0]} />
-      {!isMentor && (
-        <FilterDropdown label="Campus" value={campus} options={CAMPUSES} onChange={handleFilterChange(setCampus)} defaultValue={CAMPUSES[0]} />
-      )}
+      <FilterDropdown label="Área de estudio" value={area} options={areaOptions} onChange={handleFilterChange(setArea)} defaultValue={ALL_AREAS} />
+      <FilterDropdown label="Estado del test" value={estado} options={estadoOptions} onChange={handleFilterChange(setEstado)} defaultValue={ALL_ESTADOS} />
+      <FilterDropdown label="Uso del coach" value={coach} options={coachOptions} onChange={handleFilterChange(setCoach)} defaultValue={ALL_COACH} />
     </>
   );
 
   const handleExport = () => {
     exportAllColumnsToExcel(
-      filtered, // ✅ all filtered rows
+      filtered,
       `seguimiento_${new Date().toISOString().slice(0, 10)}.xlsx`,
-      {
-        // optional: if you want to exclude internal keys
-        excludeKeys: [], // e.g. ["id"] as any
-        sheetName: "Seguimiento",
-      }
+      { excludeKeys: [], sheetName: "Seguimiento" }
     );
   };
 
@@ -244,8 +242,13 @@ export default function SeguimientoTab({ role, campus: userCampus }: Seguimiento
             className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-[hsl(220,13%,91%)] bg-white text-foreground text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary"
           />
         </div>
-        <button onClick={handleExport} disabled={!filtered.length} variant="outline" className="border-border">
-          <Download className="h-4 w-4 mr-2" />
+        {/* ✅ Fixed export button — orange border + orange text, no broken variant prop */}
+        <button
+          onClick={handleExport}
+          disabled={!filtered.length}
+          className= "inline-flex items-center gap-2 px-4 py-2.5 rounded-lg border-2 border-primary text-primary text-sm font-medium hover:bg-accent transition-colors flex-shrink-0"
+        >
+          <Download size={16} />
           Exportar datos
         </button>
       </div>
@@ -296,7 +299,7 @@ export default function SeguimientoTab({ role, campus: userCampus }: Seguimiento
                   <td className="py-3 px-4"><InteraccionBadge interaccion={s.interaccion} /></td>
                   <td className="py-3 px-4">
                     <a
-                      href="#"
+                      href={s.reporte}
                       className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 transition-colors"
                     >
                       Ver reporte

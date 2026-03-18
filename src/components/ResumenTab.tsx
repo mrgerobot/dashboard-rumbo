@@ -3,18 +3,16 @@ import KpiCard from "./KpiCard";
 import DonutChart from "./DonutChart";
 import HBarChart from "./HBarChart";
 import { students } from "@/data/students";
-import type { Role } from "@/contexts/AuthContext";
 
 interface Props {
-  role: Role;
-  campus: string | null;
+  campus: string;
 }
 
-export default function ResumenTab({ role, campus }: Props) {
-  const filteredStudents = useMemo(() => {
-    if (role === "admin") return students;
-    return students.filter((s) => s.campus === campus);
-  }, [role, campus]);
+export default function ResumenTab({ campus }: Props) {
+  const filteredStudents = useMemo(
+    () => students.filter((s) => s.campus === campus),
+    [campus]
+  );
 
   const total = filteredStudents.length;
   const finalizados = filteredStudents.filter((s) => s.estado === "Finalizado").length;
@@ -39,14 +37,11 @@ export default function ResumenTab({ role, campus }: Props) {
   const maxActividad = Math.max(finalizados, enProgreso, sinComenzar, 10);
   const maxCoach = Math.max(coachSi, coachNo, 10);
 
-  const title =
-    role === "mentor" && campus
-      ? `Resumen — Campus ${campus}`
-      : "Resumen";
-
   return (
     <div>
-      <h1 className="text-2xl font-bold text-white mb-6">{title}</h1>
+      <h1 className="text-2xl font-bold text-white mb-6">
+        Resumen — Campus {campus}
+      </h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
         <KpiCard title="Estudiantes encuestados" value={String(total)} subtitle="Total de estudiantes en el programa" icon="users" />

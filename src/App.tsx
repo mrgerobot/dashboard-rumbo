@@ -10,30 +10,33 @@ import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
 
+// ✅ BrowserRouter must wrap everything — including AppRoutes —
+//    so that useAuth (inside AuthProvider) and the router hooks
+//    are always available in the same tree.
 function AppRoutes() {
   const { session } = useAuth();
 
   if (!session) return <Login />;
 
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Index />} />
-        <Route path="*" element={<NotFound />} />
-      </Routes>
-    </BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Index />} />
+      <Route path="*" element={<NotFound />} />
+    </Routes>
   );
 }
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
-    <AuthProvider>
-      <TooltipProvider>
-        <Toaster />
-        <Sonner />
-        <AppRoutes />
-      </TooltipProvider>
-    </AuthProvider>
+    <BrowserRouter>
+      <AuthProvider>
+        <TooltipProvider>
+          <Toaster />
+          <Sonner />
+          <AppRoutes />
+        </TooltipProvider>
+      </AuthProvider>
+    </BrowserRouter>
   </QueryClientProvider>
 );
 

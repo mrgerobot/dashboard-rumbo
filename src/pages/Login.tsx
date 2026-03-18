@@ -25,15 +25,17 @@ export default function Login() {
         body: JSON.stringify({ email: normalizedEmail, url_origen: window.location.href }),
       });
 
-      console.log(res);
-
       const data = await res.json();
 
       if (data.status === "allowed") {
+        if (!data.campus) {
+          // Email is recognized but has no campus assigned — block entry
+          setError("Tu correo no tiene un campus asignado. Contáctanos para que podamos agregarlo.");
+          return;
+        }
         login({
           email: normalizedEmail,
-          role: data.campus ? "mentor" : "admin",
-          campus: data.campus ?? null,
+          campus: data.campus,
           nombre: data.nombre ?? "Usuario",
         });
       } else {
@@ -73,7 +75,9 @@ export default function Login() {
               onChange={(e) => { setEmail(e.target.value); setError(""); }}
               className="w-full rounded-lg border border-border bg-white px-3 py-3 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary transition-colors"
             />
-            {error && <p className="mt-2 text-sm text-destructive">{error}</p>}
+            {error && (
+              <p className="mt-2 text-sm text-destructive">{error}</p>
+            )}
           </div>
 
           <button

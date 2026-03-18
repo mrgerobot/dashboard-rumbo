@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CSV → students.json</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, sans-serif; background: #f5f5f7; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px; }
+  .card { background: white; border-radius: 16px; padding: 32px; width: 100%; max-width: 640px; box-shadow: 0 2px 16px rgba(0,0,0,.08); }
+  h1 { font-size: 1.25rem; font-weight: 700; color: #111; margin-bottom: 4px; }
+  p.sub { font-size: .85rem; color: #666; margin-bottom: 24px; }
+
+  #drop-zone {
+    border: 2px dashed #d1d5db;
+    border-radius: 12px;
+    padding: 48px 24px;
+    text-align: center;
+    cursor: pointer;
+    transition: all .2s;
+    background: #fafafa;
+  }
+  #drop-zone.drag-over { border-color: #f97316; background: #fff7ed; }
+  #drop-zone svg { margin-bottom: 12px; }
+  #drop-zone p { font-size: .9rem; color: #555; }
+  #drop-zone span { font-size: .8rem; color: #999; }
+  #file-input { display: none; }
+
+  .badge { display: inline-flex; align-items: center; gap: 6px; font-size: .8rem; background: #fff7ed; color: #f97316; border: 1px solid #fed7aa; padding: 4px 10px; border-radius: 999px; margin-top: 12px; }
+
+  #output-section { display: none; margin-top: 24px; }
+  #output-section h2 { font-size: .95rem; font-weight: 600; color: #111; margin-bottom: 8px; }
+  #preview { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; font-size: .75rem; color: #334155; font-family: monospace; max-height: 220px; overflow-y: auto; white-space: pre; }
+
+  .actions { display: flex; gap: 10px; margin-top: 14px; }
+  button.primary { flex: 1; padding: 10px; border-radius: 8px; border: none; background: #f97316; color: white; font-weight: 600; font-size: .875rem; cursor: pointer; transition: background .15s; }
+  button.primary:hover { background: #ea6d0f; }
+  button.secondary { flex: 1; padding: 10px; border-radius: 8px; border: 2px solid #f97316; color: #f97316; background: white; font-weight: 600; font-size: .875rem; cursor: pointer; transition: background .15s; }
+  button.secondary:hover { background: #fff7ed; }
+
+  .stats { display: flex; gap: 10px; margin-top: 14px; }
+  .stat { flex: 1; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 10px 12px; }
+  .stat .n { font-size: 1.4rem; font-weight: 700; color: #111; }
+  .stat .l { font-size: .75rem; color: #666; }
+
+  .error { background: #fef2f2; border: 1px solid #fecaca; border-radius: 8px; padding: 12px; font-size: .8rem; color: #dc2626; margin-top: 12px; display: none; }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>CSV → students.json</h1>
+  <p class="sub">Arrastra el TSV exportado de Google Sheets o haz clic para seleccionarlo.<br><small style="color:#f97316">📌 En Google Sheets: Archivo → Descargar → <strong>Valores separados por tabulaciones (.tsv)</strong></small></p>
+
+  <div id="drop-zone" onclick="document.getElementById('file-input').click()">
+    <svg width="40" height="40" fill="none" viewBox="0 0 24 24" stroke="#f97316" stroke-width="1.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5m-13.5-9L12 3m0 0l4.5 4.5M12 3v13.5"/>
+    </svg>
+    <p>Arrastra tu archivo <strong>.tsv</strong> aquí</p>
+    <span>o haz clic para buscar</span>
+    <div id="file-badge" style="display:none">
+      <div class="badge">
+        <svg width="12" height="12" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+        <span id="file-name"></span>
+      </div>
+    </div>
+  </div>
+  <input type="file" id="file-input" accept=".tsv,.csv,text/tab-separated-values,text/plain" />
+
+  <div class="error" id="error-box"></div>
+
+  <div id="output-section">
+    <div class="stats">
+      <div class="stat"><div class="n" id="stat-total">0</div><div class="l">Estudiantes</div></div>
+      <div class="stat"><div class="n" id="stat-fin">0</div><div class="l">Finalizados</div></div>
+      <div class="stat"><div class="n" id="stat-prog">0</div><div class="l">En progreso</div></div>
+      <div class="stat"><div class="n" id="stat-no">0</div><div class="l">Sin comenzar</div></div>
+    </div>
+    <h2 style="margin-top:20px">Vista previa</h2>
+    <div id="preview"></div>
+    <div class="actions">
+      <button class="secondary" onclick="copyJSON()">Copiar JSON</button>
+      <button class="primary" onclick="downloadJSON()">Descargar students.json</button>
+    </div>
+  </div>
+</div>
+
+<script>
+let jsonOutput = "";
+
+// Drag & drop
+const zone = document.getElementById("drop-zone");
+zone.addEventListener("dragover", e => { e.preventDefault(); zone.classList.add("drag-over"); });
+zone.addEventListener("dragleave", () => zone.classList.remove("drag-over"));
+zone.addEventListener("drop", e => {
+  e.preventDefault();
+  zone.classList.remove("drag-over");
+  const file = e.dataTransfer.files[0];
+  if (file) processFile(file);
+});
+document.getElementById("file-input").addEventListener("change", e => {
+  if (e.target.files[0]) processFile(e.target.files[0]);
+});
+
+function showError(msg) {
+  const el = document.getElementById("error-box");
+  el.textContent = msg;
+  el.style.display = "block";
+}
+function clearError() {
+  document.getElementById("error-box").style.display = "none";
+}
+
+function processFile(file) {
+  clearError();
+  document.getElementById("file-badge").style.display = "block";
+  document.getElementById("file-name").textContent = file.name;
+
+  const reader = new FileReader();
+  reader.onload = e => {
+    try {
+      const json = csvToStudents(e.target.result);
+      jsonOutput = JSON.stringify(json, null, 2);
+
+      // Stats
+      document.getElementById("stat-total").textContent = json.length;
+      document.getElementById("stat-fin").textContent = json.filter(s => s.estado === "Finalizado").length;
+      document.getElementById("stat-prog").textContent = json.filter(s => s.estado === "En progreso").length;
+      document.getElementById("stat-no").textContent = json.filter(s => s.estado === "Sin comenzar").length;
+
+      // Preview (first 3 entries)
+      document.getElementById("preview").textContent = JSON.stringify(json.slice(0, 3), null, 2) + (json.length > 3 ? "\n// ... " + (json.length - 3) + " más" : "");
+      document.getElementById("output-section").style.display = "block";
+    } catch(err) {
+      showError("Error al parsear el CSV: " + err.message);
+    }
+  };
+  reader.readAsText(file, "UTF-8");
+}
+
+function parseCSV(text) {
+  // Handle \r\n and \r
+  const lines = text.replace(/\r\n/g, "\n").replace(/\r/g, "\n").split("\n").filter(l => l.trim());
+  // Detect delimiter: tab if first line has tabs, else comma
+  const delim = lines[0].includes("\t") ? "\t" : ",";
+  return lines.map(line => line.split(delim).map(c => c.trim().replace(/^"|"$/g, "")));
+}
+
+// Normalize header key
+function norm(s) { return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim(); }
+
+function csvToStudents(text) {
+  const rows = parseCSV(text);
+  if (rows.length < 2) throw new Error("El archivo está vacío o solo tiene encabezados.");
+
+  const headers = rows[0].map(norm);
+
+  // Expected columns (normalized)
+  const colMap = {
+    nombre:      ["nombre"],
+    correo:      ["correo", "email", "mail"],
+    campus:      ["campus"],
+    mentor:      ["mentor"],
+    area1:       ["area1", "area 1"],
+    area2:       ["area2", "area 2"],
+    estado:      ["estado"],
+    interaccion: ["interaccion", "interacción"],
+    reporte:     ["reporte", "link", "url"],
+  };
+
+  // Find column index for each key
+  const idx = {};
+  for (const [key, aliases] of Object.entries(colMap)) {
+    const found = aliases.findIndex(a => headers.includes(a));
+    if (found === -1) {
+      const directIdx = headers.findIndex(h => aliases.includes(h));
+      idx[key] = directIdx;
+    } else {
+      idx[key] = headers.indexOf(aliases[found]);
+    }
+  }
+
+  const missing = Object.entries(idx).filter(([k, v]) => v === -1).map(([k]) => k);
+  if (missing.length) throw new Error("Columnas no encontradas: " + missing.join(", ") + ". Revisa los encabezados del CSV.");
+
+  const get = (row, key) => (row[idx[key]] || "").trim();
+
+  return rows.slice(1).filter(r => r.some(c => c.trim())).map(row => {
+    const reporte = get(row, "reporte");
+    const areas = [get(row, "area1"), get(row, "area2")].filter(Boolean);
+
+    // Derive estado: if reporte URL exists → Finalizado, else use the cell value
+    let estado = get(row, "estado");
+    if (!estado) {
+      estado = reporte ? "Finalizado" : "Sin comenzar";
+    }
+
+    // Normalize interaccion
+    let interaccion = get(row, "interaccion");
+    if (!interaccion) interaccion = "No interactuó";
+
+    return {
+      nombre: get(row, "nombre"),
+      correo: get(row, "correo"),
+      campus: get(row, "campus"),
+      mentor: get(row, "mentor"),
+      estado,
+      areas,
+      interaccion,
+      reporte: reporte || null,
+    };
+  });
+}
+
+function downloadJSON() {
+  const blob = new Blob([jsonOutput], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "students.json";
+  a.click();
+}
+
+function copyJSON() {
+  navigator.clipboard.writeText(jsonOutput).then(() => {
+    const btn = document.querySelector("button.secondary");
+    btn.textContent = "¡Copiado!";
+    setTimeout(() => btn.textContent = "Copiar JSON", 2000);
+  });
+}
+</script>
+</body>
+</html>
