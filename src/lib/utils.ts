@@ -26,7 +26,10 @@ export function exportAllColumnsToExcel<T extends Record<string, any>>(
 
   const data = rows.map((row) => {
     const out: Record<string, any> = {};
-    for (const h of headers) out[String(h)] = row[h];
+    for (const h of headers) {
+      const val = row[h];
+      out[String(h)] = Array.isArray(val) ? val.join(", ") : val;
+    }
     return out;
   });
 
