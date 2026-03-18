@@ -28,7 +28,7 @@ export default function Login() {
       const data = await res.json();
 
       if (data.status === "allowed") {
-  const isAdmin = data.campus === null || data.campus === "";
+  const isAdmin = data.campus === null || data.campus === "" || data.email === "lucia@geroeducacion.com";
   
   if (!isAdmin && !data.campus) {
     setError("Tu correo no tiene un campus asignado. Contáctanos para que podamos agregarlo.");
