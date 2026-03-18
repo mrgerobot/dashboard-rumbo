@@ -1,10 +1,19 @@
 import { useState, useMemo } from "react";
-import { Search, Download, ExternalLink, ChevronLeft, ChevronRight, CheckCircle2, MessageSquare, AlertCircle, Filter, ChevronDown } from "lucide-react";
+import { Search, Download, ExternalLink, ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight, CheckCircle2, MessageSquare, AlertCircle, Filter, ChevronDown } from "lucide-react";
 import { students as allStudents } from "@/data/students";
 import type { Estado, Interaccion } from "@/data/students";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { exportAllColumnsToExcel, cn } from "@/lib/utils";
+
 const PAGE_SIZE = 10;
+
+function getPageWindow(page: number, totalPages: number): number[] {
+  if (totalPages <= 7) return Array.from({ length: totalPages }, (_, i) => i);
+  const isNearEnd = page >= totalPages - 4;
+  if (isNearEnd) return Array.from({ length: 4 }, (_, i) => totalPages - 4 + i);
+  const end = Math.min(page + 6, totalPages - 1);
+  return Array.from({ length: end - page + 1 }, (_, i) => page + i);
+}
 
 function StatusBadge({ estado }: { estado: Estado }) {
   const cls = estado === "Finalizado" ? "badge-status-green" : estado === "En progreso" ? "badge-status-blue" : "badge-status-gray";
@@ -30,9 +39,7 @@ function FilterDropdown({ label, value, options, onChange, defaultValue }: Filte
     <div className="flex flex-col gap-1.5 min-w-[180px]">
       <label className="text-xs font-medium text-muted-foreground">{label}</label>
       <div className="relative">
-        {isActive && (
-          <span className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-primary z-10" />
-        )}
+        {isActive && <span className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-primary z-10" />}
         <select
           value={value}
           onChange={(e) => onChange(e.target.value)}
@@ -41,9 +48,7 @@ function FilterDropdown({ label, value, options, onChange, defaultValue }: Filte
             isActive ? "border-primary" : "border-[hsl(220,13%,91%)]"
           )}
         >
-          {options.map((opt) => (
-            <option key={opt} value={opt}>{opt}</option>
-          ))}
+          {options.map((opt) => <option key={opt} value={opt}>{opt}</option>)}
         </select>
         <ChevronDown size={14} className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground pointer-events-none" />
       </div>
@@ -51,9 +56,8 @@ function FilterDropdown({ label, value, options, onChange, defaultValue }: Filte
   );
 }
 
-
 interface SeguimientoProps {
-  campus: string | null;  // null = admin
+  campus: string | null;
   role: "admin" | "mentor";
 }
 
@@ -63,7 +67,6 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
     [userCampus, role]
   );
 
-  // --- Derive filter options from the scoped population ---
   const ALL_AREAS = "Todas las áreas";
   const ALL_ESTADOS = "Todos los estados";
   const ALL_COACH = "Todos";
@@ -78,7 +81,6 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
   const estadoOptions = useMemo(() => {
     const set = new Set<string>();
     students.forEach((s) => set.add(s.estado));
-    // Preserve logical order
     return [ALL_ESTADOS, ...["Sin comenzar", "En progreso", "Finalizado"].filter((e) => set.has(e))];
   }, [students]);
 
@@ -94,7 +96,6 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
     return [ALL_CAMPUSES, ...Array.from(set).sort()];
   }, [students]);
 
-  // --- Filter state ---
   const [search, setSearch] = useState("");
   const [page, setPage] = useState(0);
   const [area, setArea] = useState(ALL_AREAS);
@@ -104,22 +105,10 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const isMobile = useIsMobile();
 
-  const hasActiveFilters =
-    area !== ALL_AREAS ||
-    estado !== ALL_ESTADOS ||
-    coach !== ALL_COACH;
+  const hasActiveFilters = area !== ALL_AREAS || estado !== ALL_ESTADOS || coach !== ALL_COACH;
 
-  const clearFilters = () => {
-    setArea(ALL_AREAS);
-    setEstado(ALL_ESTADOS);
-    setCoach(ALL_COACH);
-    setPage(0);
-  };
-
-  const handleFilterChange = (setter: (v: string) => void) => (v: string) => {
-    setter(v);
-    setPage(0);
-  };
+  const clearFilters = () => { setArea(ALL_AREAS); setEstado(ALL_ESTADOS); setCoach(ALL_COACH); setPage(0); };
+  const handleFilterChange = (setter: (v: string) => void) => (v: string) => { setter(v); setPage(0); };
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase();
@@ -135,7 +124,6 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
   const pageData = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE);
 
-  // KPIs from role-scoped dataset (not from filtered — always reflect full scope)
   const finalizados = students.filter((s) => s.estado === "Finalizado").length;
   const conCoach = students.filter((s) => s.interaccion === "Interactuó").length;
   const sinComenzar = students.filter((s) => s.estado === "Sin comenzar").length;
@@ -149,18 +137,13 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
   );
 
   const handleExport = () => {
-    exportAllColumnsToExcel(
-      filtered,
-      `seguimiento_${new Date().toISOString().slice(0, 10)}.xlsx`,
-      { excludeKeys: [], sheetName: "Seguimiento" }
-    );
+    exportAllColumnsToExcel(filtered, `seguimiento_${new Date().toISOString().slice(0, 10)}.xlsx`, { excludeKeys: [], sheetName: "Seguimiento" });
   };
 
   return (
     <div>
       <h1 className="text-2xl font-bold text-white mb-6">Seguimiento</h1>
 
-      {/* KPI Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
         <div className="card-dashboard p-5 flex items-start gap-3">
           <div className="w-10 h-10 rounded-xl bg-accent flex items-center justify-center flex-shrink-0">
@@ -194,16 +177,13 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
         </div>
       </div>
 
-      {/* Filters */}
       {isMobile ? (
         <div className="mb-4">
           <button
             onClick={() => setMobileFiltersOpen(!mobileFiltersOpen)}
             className={cn(
               "inline-flex items-center gap-2 px-4 py-2.5 rounded-lg border text-sm font-medium transition-colors",
-              hasActiveFilters
-                ? "border-primary text-primary bg-primary/5"
-                : "border-[hsl(220,13%,91%)] text-secondary"
+              hasActiveFilters ? "border-primary text-primary bg-primary/5" : "border-[hsl(220,13%,91%)] text-secondary"
             )}
           >
             <Filter size={16} />
@@ -213,26 +193,17 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
           {mobileFiltersOpen && (
             <div className="mt-3 p-4 card-dashboard space-y-4">
               {filterControls}
-              {hasActiveFilters && (
-                <button onClick={clearFilters} className="text-sm font-medium text-primary hover:underline">
-                  Limpiar filtros
-                </button>
-              )}
+              {hasActiveFilters && <button onClick={clearFilters} className="text-sm font-medium text-primary hover:underline">Limpiar filtros</button>}
             </div>
           )}
         </div>
       ) : (
         <div className="flex items-end gap-4 mb-4 flex-wrap">
           {filterControls}
-          {hasActiveFilters && (
-            <button onClick={clearFilters} className="text-sm font-medium text-primary hover:underline pb-2.5">
-              Limpiar filtros
-            </button>
-          )}
+          {hasActiveFilters && <button onClick={clearFilters} className="text-sm font-medium text-primary hover:underline pb-2.5">Limpiar filtros</button>}
         </div>
       )}
 
-      {/* Search + Export */}
       <div className="flex flex-col sm:flex-row gap-3 mb-4">
         <div className="relative flex-1">
           <Search size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" />
@@ -244,18 +215,16 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
             className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-[hsl(220,13%,91%)] bg-white text-foreground text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary"
           />
         </div>
-        {/* ✅ Fixed export button — orange border + orange text, no broken variant prop */}
         <button
           onClick={handleExport}
           disabled={!filtered.length}
-          className= "inline-flex items-center gap-2 px-4 py-2.5 rounded-lg border-2 border-primary text-primary text-sm font-medium hover:bg-accent transition-colors flex-shrink-0"
+          className="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg border-2 border-primary text-primary text-sm font-medium hover:bg-accent transition-colors flex-shrink-0"
         >
           <Download size={16} />
           Exportar datos
         </button>
       </div>
 
-      {/* Table */}
       <div className="card-dashboard overflow-hidden">
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
@@ -271,8 +240,11 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
                 )}
                 <th className="text-left py-3 px-4 font-semibold text-foreground">Estado</th>
                 {!isMobile && (
-                  <th className="text-left py-3 px-4 font-semibold text-foreground">Áreas del BI</th>
-                )}
+                  <>
+                    <th className="text-left py-3 px-4 font-semibold text-foreground">Área 1</th>
+                    <th className="text-left py-3 px-4 font-semibold text-foreground">Área 2</th>
+                  </>
+                )}                
                 <th className="text-left py-3 px-4 font-semibold text-foreground whitespace-nowrap">Interacción con el coach</th>
                 <th className="text-left py-3 px-4 font-semibold text-foreground">Reporte</th>
               </tr>
@@ -290,24 +262,25 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
                   )}
                   <td className="py-3 px-4"><StatusBadge estado={s.estado} /></td>
                   {!isMobile && (
-                    <td className="py-3 px-4">
-                      <div className="flex flex-wrap gap-1">
-                        {s.areas.map((a) => (
-                          <span key={a} className="area-tag">{a}</span>
-                        ))}
-                      </div>
-                    </td>
+                    <>
+                      <td className="py-3 px-4 text-foreground">{s.areas[0]}</td>
+                      <td className="py-3 px-4 text-foreground">{s.areas[1]}</td>
+                    </>
                   )}
                   <td className="py-3 px-4"><InteraccionBadge interaccion={s.interaccion} /></td>
-                  <td className="py-3 px-4">
+                  <td className="py-3 px-4"> {s.reporte && (
                     <a
                       href={s.reporte}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 transition-colors"
                     >
                       Ver reporte
                       <ExternalLink size={12} />
+                  
                     </a>
-                  </td>
+                    )}
+                    </td>
                 </tr>
               ))}
               {pageData.length === 0 && (
@@ -321,21 +294,20 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
           </table>
         </div>
 
-        {/* Pagination */}
         {totalPages > 1 && (
           <div className="flex items-center justify-between px-4 py-3 border-t border-border bg-white">
             <span className="text-xs text-muted-foreground">
               Mostrando {page * PAGE_SIZE + 1}–{Math.min((page + 1) * PAGE_SIZE, filtered.length)} de {filtered.length}
             </span>
             <div className="flex items-center gap-1">
-              <button
-                disabled={page === 0}
-                onClick={() => setPage(page - 1)}
-                className="p-1.5 rounded-md hover:bg-muted disabled:opacity-30 transition-colors"
-              >
+              <button disabled={page === 0} onClick={() => setPage(0)} className="p-1.5 rounded-md hover:bg-muted disabled:opacity-30 transition-colors" title="Primera página">
+                <ChevronsLeft size={16} />
+              </button>
+              <button disabled={page === 0} onClick={() => setPage(page - 1)} className="p-1.5 rounded-md hover:bg-muted disabled:opacity-30 transition-colors">
                 <ChevronLeft size={16} />
               </button>
-              {Array.from({ length: totalPages }, (_, i) => (
+
+              {getPageWindow(page, totalPages).map((i) => (
                 <button
                   key={i}
                   onClick={() => setPage(i)}
@@ -347,12 +319,12 @@ export default function SeguimientoTab({ campus: userCampus, role }: Seguimiento
                   {i + 1}
                 </button>
               ))}
-              <button
-                disabled={page === totalPages - 1}
-                onClick={() => setPage(page + 1)}
-                className="p-1.5 rounded-md hover:bg-muted disabled:opacity-30 transition-colors"
-              >
+
+              <button disabled={page === totalPages - 1} onClick={() => setPage(page + 1)} className="p-1.5 rounded-md hover:bg-muted disabled:opacity-30 transition-colors">
                 <ChevronRight size={16} />
+              </button>
+              <button disabled={page === totalPages - 1} onClick={() => setPage(totalPages - 1)} className="p-1.5 rounded-md hover:bg-muted disabled:opacity-30 transition-colors" title="Última página">
+                <ChevronsRight size={16} />
               </button>
             </div>
           </div>
