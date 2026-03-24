@@ -4,20 +4,26 @@
     "correo": "A01826682@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1elGUMqqBmus3Xirpynaa2vw7MV4XFao3/view?usp=drivesdk"
   },
   {
     "nombre": "Melania Renata Farfán Bracamontes",
     "correo": "A01669652@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Artes, Expresión y Creatividad"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1t7U7Eg6OxIFoZJ7ZLlt_lTaK7ElCWynh/view?usp=drivesdk"
   },
   {
     "nombre": "Luis Diego Sánchez Rodríguez",
@@ -34,10 +40,13 @@
     "correo": "A01825493@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1RwPgpj4nnluXL51YQR6mdpTqCIO_PNK5/view?usp=drivesdk"
   },
   {
     "nombre": "Rebeca Peralta Cortés",
@@ -57,20 +66,26 @@
     "correo": "A01825163@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/13JcY3E86aYTNTICoePfv21uLdWB9NAOj/view?usp=drivesdk"
   },
   {
     "nombre": "Abril Peña Moncada",
     "correo": "A01669799@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1TbFoV2eJRi47rgiHBz9wrm207WwRtcza/view?usp=drivesdk"
   },
   {
     "nombre": "Jazhiel Martinez Navarro",
@@ -82,7 +97,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1hy9SK7Ew2weNY1dcX39oNe874e1KhnCU/view?usp=drivesdk"
   },
   {
@@ -90,10 +105,13 @@
     "correo": "A01825076@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1wEd_NxGndWeHOBhRHtb3uYPNWNKim04b/view?usp=drivesdk"
   },
   {
     "nombre": "Sebastián Gómez Lozada",
@@ -113,40 +131,52 @@
     "correo": "A01669836@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JFMgMEWXHKmC4hqHowzamV-bCmEtkncx/view?usp=drivesdk"
   },
   {
     "nombre": "Maya Valentina Meráz Noriega",
     "correo": "A01826714@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1c5hGVF09zMlaBCy3qx-YLQ-ZejGdyeP7/view?usp=drivesdk"
   },
   {
     "nombre": "Ian Franco Romero Larrazolo",
     "correo": "A01826088@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/12H6zlTHGtJKh2_v1iMYGhkSjBKfHP0fy/view?usp=drivesdk"
   },
   {
     "nombre": "Aarón García Rodríguez",
     "correo": "A01669945@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1_ZqvJ7xQSlm0nDRKONbdoBwF3RF3f4sn/view?usp=drivesdk"
   },
   {
     "nombre": "Isau Rocho Luis Castillo",
@@ -158,7 +188,7 @@
       "Artes, Expresión y Creatividad",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1O3iIAoYLe1SMj1T_onK774SPgB2vp2uW/view?usp=drivesdk"
   },
   {
@@ -171,7 +201,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1wvX91x-owvO6OwSdUchEEmrwnaMSLU2S/view?usp=drivesdk"
   },
   {
@@ -179,50 +209,65 @@
     "correo": "A01825750@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Artes, Expresión y Creatividad"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1bB-pPW1X_K7GVdK-DH54l4LffF_z1RhA/view?usp=drivesdk"
   },
   {
     "nombre": "Leonardo David Zimbrón Dávila",
     "correo": "A01669653@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1qYJyTFT6-CgSrMDArrd_w_PkZqwHGY6Q/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Guarneros Sánchez",
     "correo": "A01825408@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1H0Qcmx5cDep6rSwonXBmzOdyypjHfDtz/view?usp=drivesdk"
   },
   {
     "nombre": "Hyerin Son",
     "correo": "A01825496@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1xA8WCgqqBRgQgqv6XPuunAc6gUCwJnzG/view?usp=drivesdk"
   },
   {
     "nombre": "Daniel Alejandro Pereira Barragán",
     "correo": "A01825588@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1GO32nLLPOCHmyndDEYS3lngLcDWJXVJH/view?usp=drivesdk"
   },
   {
     "nombre": "Zenya Gómez Aragón",
@@ -247,7 +292,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1m_2zcNakXur6Vl7J8WD8YkXmO22aEY37/view?usp=drivesdk"
   },
   {
@@ -286,7 +331,7 @@
       "Artes, Expresión y Creatividad",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Nj3DDoOIUd0ptIaHwMlYVoyjUp561amN/view?usp=drivesdk"
   },
   {
@@ -346,10 +391,13 @@
     "correo": "A01825570@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1t2NRJOmoqqCSFIfnYGR6VdEaTUF7-2NA/view?usp=drivesdk"
   },
   {
     "nombre": "Mimi Alcocer de la Torre",
@@ -374,7 +422,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1x89HgzLX4-0tTT0OXWHDe_df-6OUdO_J/view?usp=drivesdk"
   },
   {
@@ -387,7 +435,7 @@
       "Ciencias Naturales y Experimentales",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1knG6tgzIlNh91uNZ1S5nac2OHuVA5pu7/view?usp=drivesdk"
   },
   {
@@ -413,7 +461,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1T3twBs9SN5gsmFdwbH9FpmjyjnXK94r6/view?usp=drivesdk"
   },
   {
@@ -426,7 +474,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1lEgXd6fVFMMpbIu-lv9IAMR30O3sAdha/view?usp=drivesdk"
   },
   {
@@ -470,10 +518,13 @@
     "correo": "A01825152@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ddRkds0WrTMbFWtcQiiqZCwBqg3Layho/view?usp=drivesdk"
   },
   {
     "nombre": "Ricardo Daniel Ramírez Leon",
@@ -519,10 +570,13 @@
     "correo": "A01825637@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Valeria Delgado Jardines",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/10bnhGIRseoR8lmS1useH46lWTxaw27VA/view?usp=drivesdk"
   },
   {
     "nombre": "Natalia Sofía Méndez García",
@@ -542,10 +596,13 @@
     "correo": "A01826087@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Valeria Delgado Jardines",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1DWeu2tlMcTlpd-WUIj924_OHvYbU64tQ/view?usp=drivesdk"
   },
   {
     "nombre": "Isaac Martínez Medina",
@@ -604,20 +661,26 @@
     "correo": "A01669831@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Valeria Delgado Jardines",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1aFlIiIolDKpM9TeMnxTiYUN3CF_x4JL3/view?usp=drivesdk"
   },
   {
     "nombre": "Regina Arguelles Nava",
     "correo": "A01825058@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Valeria Delgado Jardines",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1BZqDWcvLF_JGQg500oPh5rQxlqw66DhS/view?usp=drivesdk"
   },
   {
     "nombre": "Arantza Soria Gallegos",
@@ -655,7 +718,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1_1AtRB2Oz8Ey23OwK8FYMQ36DI2eiAul/view?usp=drivesdk"
   },
   {
@@ -7194,10 +7257,13 @@
     "correo": "A01648703@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Artes, Expresión y Creatividad"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1RrKvFL46PQAZg8tiXpoohGHOysgetA80/view?usp=drivesdk"
   },
   {
     "nombre": "Alexa Montserrat Jáuregui Martínez",
@@ -7243,10 +7309,13 @@
     "correo": "A01648316@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1OqgJf7yXE-ZjlqiLi6OlZuEkOHmiqJWZ/view?usp=drivesdk"
   },
   {
     "nombre": "Ciara Camila Torres Ramírez",
@@ -7292,10 +7361,13 @@
     "correo": "A01649392@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1RHRrVa979QkjC4ngfu_b8MKWFidA-GNS/view?usp=drivesdk"
   },
   {
     "nombre": "Héctor Acosta Russel",
@@ -7315,20 +7387,26 @@
     "correo": "A01648066@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1VprF7K83LsK6dq3WWbQf3YjiOsV4zBbc/view?usp=drivesdk"
   },
   {
     "nombre": "Lorenzo Sandoval Domínguez",
     "correo": "A01647769@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1CXAKxz_3frrimK9bC6q_Mu711UhH6vja/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Valdés Gracian",
@@ -7361,23 +7439,26 @@
     "correo": "A01647762@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "En progreso",
+    "estado": "Finalizado",
     "areas": [
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1sFFfUjVF51i7r4Fo9I31KlbCaY0MnXpu/view?usp=drivesdk"
   },
   {
     "nombre": "Rebeca Abril Rosales Jerónimo",
     "correo": "A01648931@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1GmflJv85roFVIsuqOThjrSNCyRs18_B7/view?usp=drivesdk"
   },
   {
     "nombre": "Sabrina Kay Fotinakis Jáuregui",
@@ -7404,10 +7485,13 @@
     "correo": "A01648064@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/13btXySErFWYjBLP1ViKF08FIf-JWETj_/view?usp=drivesdk"
   },
   {
     "nombre": "Sofía Sánchez Sosa",
@@ -7427,10 +7511,13 @@
     "correo": "A01649543@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1ph5_x41Gi1Vs0bLOYpQ8zTNdRXwL64pB/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Bello Aguilar Lugo",
@@ -7442,7 +7529,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Q9No8awQl2PWP-gAhwoI5kV3DFe6p5Gh/view?usp=drivesdk"
   },
   {
@@ -7463,20 +7550,26 @@
     "correo": "A01647887@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1kI5QO1qPGK9oM-phfdtAMuuLeX3tbdTe/view?usp=drivesdk"
   },
   {
     "nombre": "Julieta de la Ossa Galvis",
     "correo": "A01649020@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1o8awL8i3cONNI8F7teBjePxn58hmlUyU/view?usp=drivesdk"
   },
   {
     "nombre": "Julieta Díaz de Sandi Miranda",
@@ -7488,7 +7581,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1urzF83o0NcjHV65X59lbO-qGXh-zTaSh/view?usp=drivesdk"
   },
   {
@@ -7516,20 +7609,26 @@
     "correo": "A01648650@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1TYHPyuK9gclvT4ph361vc60dj9Ttd6rB/view?usp=drivesdk"
   },
   {
     "nombre": "María José Chávez Martín",
     "correo": "A01648786@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1LU1Xaetzbf_NU93QY9O58A_t337sn_gD/view?usp=drivesdk"
   },
   {
     "nombre": "Natalie Santos de Oliveira",
