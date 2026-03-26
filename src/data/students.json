@@ -9,7 +9,7 @@
       "Artes, Expresión y Creatividad",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1elGUMqqBmus3Xirpynaa2vw7MV4XFao3/view?usp=drivesdk"
   },
   {
@@ -30,10 +30,13 @@
     "correo": "A01825013@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1-nic43LyQgAegX_BdvpaiHwIFwm7OYz3/view?usp=drivesdk"
   },
   {
     "nombre": "Ibi Elizabeth Fuenzalida Boll",
@@ -136,7 +139,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1JFMgMEWXHKmC4hqHowzamV-bCmEtkncx/view?usp=drivesdk"
   },
   {
@@ -162,7 +165,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/12H6zlTHGtJKh2_v1iMYGhkSjBKfHP0fy/view?usp=drivesdk"
   },
   {
@@ -482,10 +485,13 @@
     "correo": "A01825265@tec.mx",
     "campus": "Ciudad de México - Tec",
     "mentor": "Argelia Noemi Ibarra Ibañez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1M1GxkxTgK_4Zpm1dtBQd8sgVah6QVR9x/view?usp=drivesdk"
   },
   {
     "nombre": "Hannia Vanessa Sánchez Pedraza",
@@ -523,7 +529,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ddRkds0WrTMbFWtcQiiqZCwBqg3Layho/view?usp=drivesdk"
   },
   {
@@ -7314,7 +7320,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1OqgJf7yXE-ZjlqiLi6OlZuEkOHmiqJWZ/view?usp=drivesdk"
   },
   {
@@ -7568,7 +7574,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1o8awL8i3cONNI8F7teBjePxn58hmlUyU/view?usp=drivesdk"
   },
   {
