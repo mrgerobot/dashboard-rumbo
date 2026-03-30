@@ -7471,10 +7471,13 @@
     "correo": "A01648832@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1BC2lAi0spKjWFS7gElK8UuG-MLRgsY-d/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Daniel Beas Muñoz",
