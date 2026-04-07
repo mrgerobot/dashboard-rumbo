@@ -1014,10 +1014,13 @@
     "correo": "A01774261@tec.mx",
     "campus": "Esmeralda - Tec",
     "mentor": "José Luis González Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1jGI9H8xSpY64ct_sB2ZsgvCraNuI8eVQ/view?usp=drivesdk"
   },
   {
     "nombre": "Sara Valeria Rosales Benítez",
@@ -7385,7 +7388,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/17L5IzgDHc-asGFcfP2RPHU-2Q4ZKZlPJ/view?usp=drivesdk"
   },
   {
