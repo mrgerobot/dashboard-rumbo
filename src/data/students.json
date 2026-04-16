@@ -1076,340 +1076,442 @@
     "correo": "A01726111@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1wK7qTn6jfRFF1OT-mbHr8geG8kpE5d9m/view?usp=drivesdk"
   },
   {
     "nombre": "Valentina Perera Ayala",
     "correo": "A01726126@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1eHpn6Vo0QCMzJo_62EObQx2h4OdP30Yy/view?usp=drivesdk"
   },
   {
     "nombre": "Carlos Charur Mendoza",
     "correo": "A01726140@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1PKMS9ty8yRGt2uOPsuBy8ycxQSSjqcs4/view?usp=drivesdk"
   },
   {
     "nombre": "David Alejandro Álvarez Rodríguez",
     "correo": "A01726143@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1S2nJR525Wljt7l5zoGkkjD7m-0-Rbsmt/view?usp=drivesdk"
   },
   {
     "nombre": "Javier Charur Mendoza",
     "correo": "A01726145@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1gDDMv2rYi3TE0EOaxtk4-ttAbvhVdPyo/view?usp=drivesdk"
   },
   {
     "nombre": "Viviana De Los Santos Rosales",
     "correo": "A01726154@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1-LX-cjnzmumonP_9o3wx8f3PFaXD9x0s/view?usp=drivesdk"
   },
   {
     "nombre": "Yolanda Daniela Cuicar Domínguez",
     "correo": "A01726155@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1I7myGwbZTlev6CawR94dsEdSvxG8w1RR/view?usp=drivesdk"
   },
   {
     "nombre": "Fátima Sophia Garza Guajardo",
     "correo": "A01726168@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/19J-Opg0jSUDEvEpcNbedCjUA9ltfTCff/view?usp=drivesdk"
   },
   {
     "nombre": "Lucca Guillé Martínez",
     "correo": "A01726176@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1w3bb1nV95CH9PodPxHY6--EWSvoowryr/view?usp=drivesdk"
   },
   {
     "nombre": "Ivanna Jamesson Chavarría",
     "correo": "A01726183@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1HhGImJdyN4Ghjr4yPvEMUK8jiwahsfEU/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Guillé Martínez",
     "correo": "A01726184@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1LldJSvt23rhGO6droKOHe4wsxkQCBaAW/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandra De Los Santos Rosales",
     "correo": "A01726185@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1o2-UssOk0x_C3Vqpio5q6YVlWBjFIPDA/view?usp=drivesdk"
   },
   {
     "nombre": "Amelia Ivonne Garza Garza",
     "correo": "A01726239@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1SxeVBKTMO4EVwblpfwmOI3k0hnsvmzzp/view?usp=drivesdk"
   },
   {
     "nombre": "Eduardo López Cristóbal",
     "correo": "A01726245@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1RP57NRxmHFYKnZDQJ9Hk_5yxhqc_ymlI/view?usp=drivesdk"
   },
   {
     "nombre": "Mia Nicole Leal Villalobos",
     "correo": "A01726259@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1TW2CAyHeNeIo_vTNJX9Bikmq95IJQW6u/view?usp=drivesdk"
   },
   {
     "nombre": "Carlos Adrián Pérez González",
     "correo": "A01726268@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1uTiBtJptYgU635tRTklXUqUzLrPHj-2y/view?usp=drivesdk"
   },
   {
     "nombre": "Giuliana Amaïa Ortega Huiban",
     "correo": "A01726283@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1kXA58EyEowYlEMc3un3VZw5TzE9-zYjQ/view?usp=drivesdk"
   },
   {
     "nombre": "Maria Fernanda De Maddalena Villela",
     "correo": "A01726308@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1SuU1dNQTTUDeFkgh0byiMD5UFdP6ub4N/view?usp=drivesdk"
   },
   {
     "nombre": "Natalia Cruz Castro",
     "correo": "A01726312@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1zBXd9-CFy2fgstSjA0GhaC7qgeptroob/view?usp=drivesdk"
   },
   {
     "nombre": "Emma Mari Serna Rodríguez",
     "correo": "A01726344@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1RxFjvkWyuuN5wL_v7OrlMQchDGeWJdtT/view?usp=drivesdk"
   },
   {
     "nombre": "Guillermo Almazo Sepulveda",
     "correo": "A01726439@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_f19nOeyePE-jFvZFbK02AduudRR6xbR/view?usp=drivesdk"
   },
   {
     "nombre": "Darío Martínez Villaseñor",
     "correo": "A01726441@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1pVZ9LwjwB1zHD9m3DMAKE-LROqLsyFWa/view?usp=drivesdk"
   },
   {
     "nombre": "Marcelo Gascón Martínez",
     "correo": "A01726443@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1XvWcCGWAoJRwS_TTpn6SSPguwx_oqFLo/view?usp=drivesdk"
   },
   {
     "nombre": "Daniela Martínez Arellano",
     "correo": "A01726487@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ng7vMUpSq3KUlJmDvd5OjLwIA9Q2lWt4/view?usp=drivesdk"
   },
   {
     "nombre": "Hyunseong Jun Park",
     "correo": "A01726496@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1VWuhOExce7UQ-hWzGf5hJcf9DP5fEtBn/view?usp=drivesdk"
   },
   {
     "nombre": "Oscar Arreola Sierra",
     "correo": "A01726498@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1fHDGaVcwK279p4ia-Wh2VHkdX1Vl0UnS/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Garza Palacios",
     "correo": "A01726552@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1xs_I1ehjZe7BYc-7OMGBJ2VlS27ld0tC/view?usp=drivesdk"
   },
   {
     "nombre": "Montserrat Treviño Garza",
     "correo": "A01726737@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1-lZkCpSp1gS3kM_BAvuH8JwoghcB9OSU/view?usp=drivesdk"
   },
   {
     "nombre": "Juan Xavier Ordeñana Sánchez",
     "correo": "A01726806@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1EpYJI6fUOsml-PKH9b84LOuBYlvANjYR/view?usp=drivesdk"
   },
   {
     "nombre": "María Victoria Wilmking Lazos",
     "correo": "A01726873@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1zEEFxMzh58_39e66AfTHD3wF2Sg5b2-7/view?usp=drivesdk"
   },
   {
     "nombre": "Adrián Gómez Gutiérrez Welsh",
     "correo": "A01726230@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1aCdhgB_hSjz_ke-xBMYZYKxyyzy7Ep7U/view?usp=drivesdk"
   },
   {
     "nombre": "Ethan George Warren",
     "correo": "A01726859@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1XYoqKVI3Cmxv60KMM_qBy4oLywc--s2q/view?usp=drivesdk"
   },
   {
     "nombre": "Cecilia Zambelli",
     "correo": "A01726880@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/15U96PECCQt4N6og6QETwSNODKFpxAAqE/view?usp=drivesdk"
   },
   {
     "nombre": "Valentina Galozzi Tobías",
     "correo": "A01726108@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1H6C4yH_zpCOMVOeSyl4hXgw-XHlAIhOg/view?usp=drivesdk"
   },
   {
     "nombre": "Humberto Castellanos Alanís",
@@ -1456,30 +1558,39 @@
     "correo": "A01726227@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/16yDP7gUF6u4BMyZ0425vC4RnJe8aJi46/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Camargo Garza",
     "correo": "A01726243@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1wRVnLGQgjS1A-BFTvGeXN9avsoACYUxS/view?usp=drivesdk"
   },
   {
     "nombre": "Mariana Pascual Pérez",
     "correo": "A01726250@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1hh2juODMe2zDURKyKWWRWKTL1ujNRHfT/view?usp=drivesdk"
   },
   {
     "nombre": "Loreto Pérez Robles",
@@ -1496,10 +1607,13 @@
     "correo": "A01726307@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1VKRfnUdNs_gFqFyYPrqqc9qmISrOBJbo/view?usp=drivesdk"
   },
   {
     "nombre": "Erika Miaritis Caballero",
@@ -1536,10 +1650,13 @@
     "correo": "A01726449@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1XHOF3zb8N-sFhgbf54ky6aKt6lXXa9A1/view?usp=drivesdk"
   },
   {
     "nombre": "Dulce Marcela Oyervides Perdomo",
@@ -1556,20 +1673,26 @@
     "correo": "A01726468@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_vGFk1iOjd1FdFuQDFLZSXOxg3IwHYm2/view?usp=drivesdk"
   },
   {
     "nombre": "Francisco Gabriel Garza Gomez",
     "correo": "A01726469@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/17B6vIolGPHl720xE_mg2fgpcdw_UwKuJ/view?usp=drivesdk"
   },
   {
     "nombre": "Mia González de la Garza",
@@ -1586,30 +1709,39 @@
     "correo": "A01726516@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1X9Igf_70sV1gA-Sys7oc3moURVfzZr2O/view?usp=drivesdk"
   },
   {
     "nombre": "Loretta Reens Guerra",
     "correo": "A01726554@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/135mJbIa6mTbL4uv5akepkUR1s5Ea0tyc/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenio Escamilla Campos",
     "correo": "A01726604@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1GUlhcUgd_IWSTLpTui3jCbu5UcwRCNun/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Vargas Alvarez",
@@ -1626,20 +1758,26 @@
     "correo": "A01726620@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1oxz-FwGWyqFiCyGFsqTBh5H2Y70yToRt/view?usp=drivesdk"
   },
   {
     "nombre": "Isabela Rodríguez Cavazos",
     "correo": "A01726632@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1dhyczRuDrLxAeXzHrSZrb0u2yyzBs6KR/view?usp=drivesdk"
   },
   {
     "nombre": "Ana Karen Cazares Guajardo",
@@ -1666,10 +1804,13 @@
     "correo": "A01726792@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/19-m7q2pMeVn3aTJtrVPykOh4rUO5_U5A/view?usp=drivesdk"
   },
   {
     "nombre": "Patricio Eugenio Pérez Rodríguez",
@@ -1696,70 +1837,91 @@
     "correo": "A01815997@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1gtNxK3W1CvVNE5xvwKSdP8j6Exf2rhaN/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Stratmann Storojev",
     "correo": "A01726125@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1q0K3BoyRvH7UW-XdTz3RCNAr1_ZOkio4/view?usp=drivesdk"
   },
   {
     "nombre": "Catalina Cera Chapa",
     "correo": "A01726166@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1FygTA4wBJznmvVW_YML0SBBxavvkrK48/view?usp=drivesdk"
   },
   {
     "nombre": "Óscar Barrera Garza",
     "correo": "A01726190@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1pB7k7eX4kzW8CXqakvs1W--XPCcWxrSw/view?usp=drivesdk"
   },
   {
     "nombre": "Fernando Pérez Maldonado García",
     "correo": "A01726202@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/110h4F_RLya-_GH0BAmBc-CzoZ4H0HQxn/view?usp=drivesdk"
   },
   {
     "nombre": "Nicolás Rodriguez Peinado",
     "correo": "A01726252@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1nq6LlJve4vgL_GlArKSwQxWpzln31nVl/view?usp=drivesdk"
   },
   {
     "nombre": "Bárbara Farías Ortiz",
     "correo": "A01726265@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ttE7YcS6F0spAhCz_zOdSNW1F_Ry2MD_/view?usp=drivesdk"
   },
   {
     "nombre": "Leopoldo Rodríguez Breceda",
@@ -1776,190 +1938,247 @@
     "correo": "A01726303@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/14vS-k0uUJC2OqpLRUM7vjUU448oOy25G/view?usp=drivesdk"
   },
   {
     "nombre": "Ana Sofia Martinez Ortiz",
     "correo": "A01726328@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1fbOVQCHEGaMHuo5JWxfhVoH_Cy6LG4TX/view?usp=drivesdk"
   },
   {
     "nombre": "María Sofía Ramos Cárdenas",
     "correo": "A01726363@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1bG9T9tEGLe9EO9_1bRw86oDoJyFhauNE/view?usp=drivesdk"
   },
   {
     "nombre": "Javier Eugenio Quijano Ibarra",
     "correo": "A01726386@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1CwzOIqNwJ4C1L1WKg8exUxKjYxV5E8mG/view?usp=drivesdk"
   },
   {
     "nombre": "Roberto Salgado Elizondo",
     "correo": "A01726397@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1K_dM_7Nng2qynFuWPixBkOLdFLVMYGC3/view?usp=drivesdk"
   },
   {
     "nombre": "Samantha Correa Irias",
     "correo": "A01726440@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1M2dxoLLZ3ADOjMYe8AksYBMejviCVNOa/view?usp=drivesdk"
   },
   {
     "nombre": "Sebastián Nouhad Saliba Cruz",
     "correo": "A01726476@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1t7vE1eVrWuRyTUUX7I8dPAJiM481ipMa/view?usp=drivesdk"
   },
   {
     "nombre": "Pablo Iglesias Rodríguez",
     "correo": "A01726479@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/13P5RwB0t1yvA3l5mfUgSIXeqXZ2IkSyn/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenia Letayf Celis",
     "correo": "A01726482@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1leScaxrFAt6jcg_hDQOMk5PvbKGyPFfD/view?usp=drivesdk"
   },
   {
     "nombre": "Ana Gabriela García Baqueiro",
     "correo": "A01726490@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1lJ86kMhVsKMp0G9l1WPY60gbROJzPHxi/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Larios Rodríguez",
     "correo": "A01726520@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1U5jad0l0nlt04V4AtfIs7dkjhQyW-OvC/view?usp=drivesdk"
   },
   {
     "nombre": "Mauro De la Torre Carrillo",
     "correo": "A01726543@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1xvL_0UoVifQTunAj6XGgrvzoBTUKE2mz/view?usp=drivesdk"
   },
   {
     "nombre": "Marcelo Foster Peña",
     "correo": "A01726612@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1a8MUb72f_g-n3jlYdaQX-vzY7Eapnz1d/view?usp=drivesdk"
   },
   {
     "nombre": "Isabella Dovalina Guajardo",
     "correo": "A01726648@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1uwEBF-EscCejJpZ-ao73TihITjwzbksl/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenio De León Sáenz",
     "correo": "A01726688@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1tzjrVgY4qPfpdWblWF8O0dtUzJrVPPjR/view?usp=drivesdk"
   },
   {
     "nombre": "Roberto Carrillo Naranjo",
     "correo": "A01726698@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1OsAmaLEOe1-1in-SKCr7M_e2QhJ2s1mr/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago González Gutiérrez",
     "correo": "A01726723@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ANZsQADIPJcMMHR4v_gJ-lZBz-uln2TF/view?usp=drivesdk"
   },
   {
     "nombre": "Katia Alvarez Tostado Matar",
     "correo": "A01726731@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1kwz6EFhsJyPY9y7AFvLKYTT5TCQozFM9/view?usp=drivesdk"
   },
   {
     "nombre": "Andrea Fernanda Cantú Pereyra",
     "correo": "A01726778@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1n_Ia4qzcg8mI0cD36HRhaicHQrwa2bLh/view?usp=drivesdk"
   },
   {
     "nombre": "Samantha Lozano Rubalcava",
@@ -1986,410 +2205,533 @@
     "correo": "A01815903@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1dIuf355FrO5AK3CIce4l9lbnz8rrF8hH/view?usp=drivesdk"
   },
   {
     "nombre": "Margarita González Ochoa",
     "correo": "A01726121@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1bS6-57vX4GVpeH29_b2XE9Qi_QOmYTT6/view?usp=drivesdk"
   },
   {
     "nombre": "Emilia Haro García",
     "correo": "A01726132@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1c07lrDW_bm_mTk88VzyQRfMtBZte5Th7/view?usp=drivesdk"
   },
   {
     "nombre": "Miguel Treviño Guereca",
     "correo": "A01726148@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1S44BxiDQZeV8hnnXLrN-D3O533VaI943/view?usp=drivesdk"
   },
   {
     "nombre": "Gonzalo Boesch Camelo",
     "correo": "A01726174@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Zm-Trd14M_qIF3dkDeszjusgKVr8tcHu/view?usp=drivesdk"
   },
   {
     "nombre": "Camila Chacón García",
     "correo": "A01726188@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1uEbxpUWob8WQBRd3cGoQeeSn-EwRvCQX/view?usp=drivesdk"
   },
   {
     "nombre": "Sebastián Fernández Villarreal",
     "correo": "A01726195@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1fGkpB0haW1XQsc2LdB3LBGhVWcEYiQFw/view?usp=drivesdk"
   },
   {
     "nombre": "Marcelo Chapa Silva",
     "correo": "A01726224@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Z9SqXf0-8u5Nfhygx5g4XMTpyZopiy7d/view?usp=drivesdk"
   },
   {
     "nombre": "Michelle González Romero",
     "correo": "A01726251@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1YLrio1RnMmFQ5t1z0HhmD7w7s386jEnj/view?usp=drivesdk"
   },
   {
     "nombre": "Viviana Dávila Garza",
     "correo": "A01726325@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/18gFqijWRszcMBNlWZqFYKAp5H2YxxREK/view?usp=drivesdk"
   },
   {
     "nombre": "Camila González Hoyo",
     "correo": "A01726331@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1F0bTEL5kyLgaRhpsx9L6s5-AxgIubq93/view?usp=drivesdk"
   },
   {
     "nombre": "Diego González Durán",
     "correo": "A01726391@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1y_VAsNVGDoNiABvg6pid-hsltu7KEqFl/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Padilla Sada",
     "correo": "A01726492@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1R6Bfmm3VZaHfVt43_C5ItQz9ynVfr-Ie/view?usp=drivesdk"
   },
   {
     "nombre": "Marijose Arellano Tabares",
     "correo": "A01726588@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1s5Zo_LtfgancTvBmVBT_BjKSHze-LM-y/view?usp=drivesdk"
   },
   {
     "nombre": "Gerónimo Guajardo Villarreal",
     "correo": "A01726631@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/19Sv5ZEC0YDLOfZ8kGcIBR1OvT9PDojd4/view?usp=drivesdk"
   },
   {
     "nombre": "Alonzo Bortoni Hernández",
     "correo": "A01726642@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/19wJS4YiT8Oe3Tc4I8S83no-rGOP2aiyO/view?usp=drivesdk"
   },
   {
     "nombre": "Paulina Garza Chapa",
     "correo": "A01726670@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1wO3vRy8k2ZmQ9Bv0j-3YUxhR0TL4PUDg/view?usp=drivesdk"
   },
   {
     "nombre": "Maya Martínez Vázquez",
     "correo": "A01726675@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/16j2IrnWjXjuZpTK0bsVSOzvbBiDHSK3-/view?usp=drivesdk"
   },
   {
     "nombre": "Emiliano Garcia Arenas",
     "correo": "A01726700@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1rryVcL7jkPQDW74VeLYyOxQBsOEshpkw/view?usp=drivesdk"
   },
   {
     "nombre": "Ximena Esqueda Numata",
     "correo": "A01726752@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1KATvMK36sbVIo2frhr7OOz5SMOgVBrsC/view?usp=drivesdk"
   },
   {
     "nombre": "Cordelia María Rodríguez Garza",
     "correo": "A01726795@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1WQ2OsMuZwOsNt0zbczaPQ3BTfYcBNypV/view?usp=drivesdk"
   },
   {
     "nombre": "Rafaela Martínez González",
     "correo": "A01726800@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1tc7GcwvRWRoteIczTu2ETto4s4LqVeHO/view?usp=drivesdk"
   },
   {
     "nombre": "Balbina Pérez Garza",
     "correo": "A01726817@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/10MZMY9VMHG2j7pdZv4kbW11KhDRXsA_f/view?usp=drivesdk"
   },
   {
     "nombre": "Rafael Lozano-Buenfil",
     "correo": "A01726172@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JUsIOS5D-TpUmYYMh4h0l4n0BTWVZ625/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Rafael Minjares Torres",
     "correo": "A01726179@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1MWkcOCmynqBJ67KlkgKzfQGJKUlYPrBl/view?usp=drivesdk"
   },
   {
     "nombre": "Patricio Benítez Torres",
     "correo": "A01726180@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1MnkBF4_sbVsYenqRLrTpxX6ISdhNDjYN/view?usp=drivesdk"
   },
   {
     "nombre": "Anisa Morales Suárez",
     "correo": "A01726206@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1AuQK7s01o932iQdspNT8cYp5l5Uycfo_/view?usp=drivesdk"
   },
   {
     "nombre": "Marian Flores Cedillo",
     "correo": "A01726213@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/195vMrxpgIMS-ZEpLNxL2F3mrE0cAk10M/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Bortoni Navarro",
     "correo": "A01726215@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JX6bM-mpTV5UztGo_Be9bgjdxhOsC4-e/view?usp=drivesdk"
   },
   {
     "nombre": "Michelle Serrano Garza",
     "correo": "A01726218@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/17HbtV35h35XSXzhCFtWn5L9sHqeZyyMc/view?usp=drivesdk"
   },
   {
     "nombre": "Gala Dovalina Núñez",
     "correo": "A01726219@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1d3yUy6dY93HuQeWypUTDSVWqLQ33k_tE/view?usp=drivesdk"
   },
   {
     "nombre": "Moises Federico Hernández Huaracha",
     "correo": "A01726311@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ooUUBhfFnNEuC6PxgUu_8g5WaQUNr-CI/view?usp=drivesdk"
   },
   {
     "nombre": "Adrián Garza Gámez",
     "correo": "A01726366@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ejVyM_VpyMCd2woOANRdT86f7EyYv_gq/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Acevedo Martínez",
     "correo": "A01726421@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1a4t0yzI8H6XtoGEKDSugVsOLhMMWZ4wD/view?usp=drivesdk"
   },
   {
     "nombre": "Isabella Quintana Martínez",
     "correo": "A01726463@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1qsRwv2oskSERbKm84rqCUjgD2MnMCQRf/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Andonie Cantú",
     "correo": "A01726471@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1L9olav-mfkE91QTbSkOScjlXNHSRZ0iO/view?usp=drivesdk"
   },
   {
     "nombre": "Emiliano Quiñones Arroyo",
     "correo": "A01726481@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1SBDLI011krZ0tkDJu9Ir9OGksvpRVe1x/view?usp=drivesdk"
   },
   {
     "nombre": "Iván Edward Sevilla Amoroto",
     "correo": "A01726505@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1jyZGg2ac0gDMwfwT5DSng3Pg32B8BYK6/view?usp=drivesdk"
   },
   {
     "nombre": "Juan Pablo Lebrija Flores",
     "correo": "A01726536@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1HWvR51aXG55GlCuIelhS4Scs8wItNVK_/view?usp=drivesdk"
   },
   {
     "nombre": "Lorenzo Villarreal Páez",
     "correo": "A01726559@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1zOIPUhkkd193nvmQzXGXY2OMI21WR313/view?usp=drivesdk"
   },
   {
     "nombre": "José Pablo Avalos Fernández",
     "correo": "A01726565@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1kD0W1o01rW8nmMtlX5cgBnDBc2QefN_f/view?usp=drivesdk"
   },
   {
     "nombre": "Regina Sánchez González",
@@ -2406,120 +2748,156 @@
     "correo": "A01726625@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JPmABnKZ3JcOz7B1k2CtH8Gr_dz_2Y57/view?usp=drivesdk"
   },
   {
     "nombre": "Camila Miramontes Rodríguez",
     "correo": "A01726665@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1nDNC3xmVJwnpRq1ypjLu4IJr0vhQvZM6/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago González",
     "correo": "A01726667@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/16clsR0Q53jf8eFxsl-gcXq8wWtKr6mlD/view?usp=drivesdk"
   },
   {
     "nombre": "Carlos Daniel Rodríguez Cetina",
     "correo": "A01726699@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/18Ir8exfl_L_KXCONttFpD8AtKrp161oS/view?usp=drivesdk"
   },
   {
     "nombre": "Ginger Ibarra Sada",
     "correo": "A01726725@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1COIIl_YQCROZMSRpGatwBAGnGTN_XeaG/view?usp=drivesdk"
   },
   {
     "nombre": "Víctor Andrés González Elizondo",
     "correo": "A01726743@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1nXzEkiPqMsvM62hE8ndN3TCGK4GKo6W7/view?usp=drivesdk"
   },
   {
     "nombre": "Bernardo Serrano Fernández",
     "correo": "A01726764@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1fm9bd-AWxuowCeyT5n3l5e88D1_J9_ft/view?usp=drivesdk"
   },
   {
     "nombre": "José María Lombard Hinojosa",
     "correo": "A01726772@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1eBhlP1ZUBUnTM7L_75zIm-pElDT2pnLV/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Herrero Gálvez",
     "correo": "A01726818@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Hs-A-OodFU1JtqsIq5JT6OVtKYoXfbHk/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandro Hadjopulos González",
     "correo": "A01726848@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1A_nGcBaK0sxw-os5Jjprr2guxg2mlwXB/view?usp=drivesdk"
   },
   {
     "nombre": "Adrian Marcelo Garza Cantú",
     "correo": "A01726854@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1xZJy-_TrC5OsL-_PIGzFa59z-B7pBI9w/view?usp=drivesdk"
   },
   {
     "nombre": "Mariana Elizondo González",
     "correo": "A01726122@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1xBc64h9mfLjQWnOQOcHFF-dXUS7az-6T/view?usp=drivesdk"
   },
   {
     "nombre": "Pablo Zambrano Paredes",
@@ -2536,30 +2914,39 @@
     "correo": "A01726196@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1mIiSFeETqe_IfTW9c5JI3JwrtRlOa43g/view?usp=drivesdk"
   },
   {
     "nombre": "Mauricio Olguín Vargas",
     "correo": "A01726198@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1gemITY-SmYg0-9R5KNpsNA3_WWH2UwpQ/view?usp=drivesdk"
   },
   {
     "nombre": "Regina Alanis Martínez",
     "correo": "A01726228@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1d6oN0ltDu5vUtwK1lmNjCsf2sdpsJEkx/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandro Sarre Menchaca",
@@ -2586,40 +2973,52 @@
     "correo": "A01726286@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1OgIjkSC9f1negx41pQ7MkRGGDYyUqtMW/view?usp=drivesdk"
   },
   {
     "nombre": "Raquel Mogas Garza",
     "correo": "A01726299@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/10HSwZP5Xi2Noo2PCqNmen3_n7Q38bLmh/view?usp=drivesdk"
   },
   {
     "nombre": "Rebeca Hernández Ley",
     "correo": "A01726302@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1gU134kkiekTOkLBECG9_zRm-SFhlqB-w/view?usp=drivesdk"
   },
   {
     "nombre": "Fernanda Siller Cantú",
     "correo": "A01726347@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1VPSb7kt-a9XUfO5F-h-XGJJcw4FNIe81/view?usp=drivesdk"
   },
   {
     "nombre": "Mikel Guadiana Rodríguez",
@@ -2646,10 +3045,13 @@
     "correo": "A01726375@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1dw5q7eh4jCGFRT69p57W75bmxwQ7gpqp/view?usp=drivesdk"
   },
   {
     "nombre": "Daniel Palacios Plascencia",
@@ -2666,40 +3068,52 @@
     "correo": "A01726381@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1F4sx2OumNKKMNVkZ4fXO8NUH-qdFHRsz/view?usp=drivesdk"
   },
   {
     "nombre": "Jimena Arizpe Álvarez",
     "correo": "A01726387@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ylajOVbi4k9fqUVs7R-q5M5jevstEuJG/view?usp=drivesdk"
   },
   {
     "nombre": "Daniela Guerra Cantú",
     "correo": "A01726410@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1YF4eBQLYshBOD-vdG67zgmI5L2uVVnWQ/view?usp=drivesdk"
   },
   {
     "nombre": "Mariana Tamez Martínez",
     "correo": "A01726420@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1xuMBcIJbpZD1_o_3KBtA_JDLEc5U_Mah/view?usp=drivesdk"
   },
   {
     "nombre": "Minis Lankenau Palau",
@@ -2716,50 +3130,65 @@
     "correo": "A01726448@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/158TBx64Udy-Ey2UkltLf5acswYGXFWN8/view?usp=drivesdk"
   },
   {
     "nombre": "Viviana Martínez Ramírez",
     "correo": "A01726452@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/12Y1L6TVXaYrCAbrDwupnzZkS4hBMKA9r/view?usp=drivesdk"
   },
   {
     "nombre": "Darío Martínez Erhard",
     "correo": "A01726582@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1MpK7g4ItPYTUsPWNForyAEPzUSNU6Zar/view?usp=drivesdk"
   },
   {
     "nombre": "Montserrat García Martínez",
     "correo": "A01726587@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1YZomkjNMnc-JyCLZLOrJPmtaTBZg20An/view?usp=drivesdk"
   },
   {
     "nombre": "Gilberto Gerardo Villarreal García",
     "correo": "A01726647@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Di2mWrYgk74hinzbFVPSOaCD5fksLHBQ/view?usp=drivesdk"
   },
   {
     "nombre": "Patricio De la Garza Vásquez",
@@ -2776,10 +3205,13 @@
     "correo": "A01726753@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1lzOFwZvUt0tRMHp3EBhSublz66utftB1/view?usp=drivesdk"
   },
   {
     "nombre": "Silvia Murillo Torres",
@@ -2811,7 +3243,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1JgycBNJymDIj5-vLq0Im5mGz4asHbfrp/view?usp=drivesdk"
   },
   {
@@ -2850,7 +3282,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1DSgq7RArDjgkcVng0HS657UiK8PcQheG/view?usp=drivesdk"
   },
   {
@@ -2899,7 +3331,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1OMaBOTG4JwMTSIXY-YAL3avjJFiiyzMb/view?usp=drivesdk"
   },
   {
@@ -2912,7 +3344,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1EW7QQj-aq6lzGwvvguMFx5917jhj5CbQ/view?usp=drivesdk"
   },
   {
@@ -2925,7 +3357,7 @@
       "Artes, Expresión y Creatividad",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1tf7V77eGyzDK-iHbpk3TrwhWTjk7cPER/view?usp=drivesdk"
   },
   {
@@ -2951,7 +3383,7 @@
       "Individuos, Sociedad y Humanidades",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1bMSukeuhWbftAjQAu2pbJOYUQOjjg9vP/view?usp=drivesdk"
   },
   {
@@ -2964,7 +3396,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1zXQEqHRwCdhEniyeafjHy5PJvaA4PSTh/view?usp=drivesdk"
   },
   {
@@ -3010,7 +3442,7 @@
       "Artes, Expresión y Creatividad",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1keMEkqDVjnECvCYkn7sG8kpXiFVYrjTL/view?usp=drivesdk"
   },
   {
@@ -3036,7 +3468,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1NZfayOPZM1frHVNpea7dFOzMcfss6v2Y/view?usp=drivesdk"
   },
   {
@@ -3059,7 +3491,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/16hsTfi1fT2JIhucwD8foM--5PIESnW0R/view?usp=drivesdk"
   },
   {
@@ -3067,10 +3499,13 @@
     "correo": "A01726756@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ukNwb3deBqeqlSO2xgsVSYmT91KtyzwI/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Obregón Lagunes",
@@ -3115,7 +3550,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1BbVHGWHs_90ISu0o_HDIpXD6ttU3fuat/view?usp=drivesdk"
   },
   {
@@ -3128,7 +3563,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/17jPs6qmKTSddTzu0ylJoYIL382WEm72s/view?usp=drivesdk"
   },
   {
@@ -3141,7 +3576,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1kiPksiOuqcXWmjaqQk6R15Prdg_ptHLb/view?usp=drivesdk"
   },
   {
@@ -3164,7 +3599,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1KUwYg9QNHD1SkBEoAh_7u28XGS1aE063/view?usp=drivesdk"
   },
   {
@@ -3182,70 +3617,91 @@
     "correo": "A01726146@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1ucbh7H5jeSMjGioAD_XyoV9z_elkRbCQ/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria Rodríguez Hinojosa",
     "correo": "A01726167@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ayEig1DVxoMiInO3MesICTjz7dMcVn1Q/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandro Pérez Moreno",
     "correo": "A01726238@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1plmltbH30Yr-c-_wHf05z6liWAcxDYbw/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Elizondo Sánchez",
     "correo": "A01726244@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1u-J1myNXFhv5fV9MCvKfmXacLCET13Yn/view?usp=drivesdk"
   },
   {
     "nombre": "Paulina Benítez Hernández",
     "correo": "A01726248@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ySfdyeYHrdVB1VUyj3jmlHlrmdVKdmrk/view?usp=drivesdk"
   },
   {
     "nombre": "Renata Pérez Moreno",
     "correo": "A01726285@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1jZGpKfaggcNWavA1EIYHdFuNL9NVSLaa/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Naranjo Abud",
     "correo": "A01726292@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ZDeo2y84iOtlUu1ENWQw7qmPbRcGhlEs/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Fernández Sandoval",
@@ -3262,20 +3718,26 @@
     "correo": "A01726395@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1Td8LP32HvwgR17mIwSSS1Klrku7m9Yyn/view?usp=drivesdk"
   },
   {
     "nombre": "Julián Murillo Carrillo",
     "correo": "A01726413@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1nSYu4KgRXo9OnmQHi_VNQtWJ6DBex8SP/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria Aguilar Beltrán",
@@ -3292,30 +3754,39 @@
     "correo": "A01726475@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1gJ4q1nXCMhABZ46mjSA9jCeZtIeWXYnn/view?usp=drivesdk"
   },
   {
     "nombre": "Simón Alejandro Alvarado Martínez",
     "correo": "A01726504@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/14MUqQpwqncsZzUnBhDvR6h0UIz1SmFV9/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Treviño Molano",
     "correo": "A01726508@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/19fwcHWIiM4lwDWMcc4Wm7VJrz7n2Y3ZF/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Garcia Miloslavich",
@@ -3342,120 +3813,156 @@
     "correo": "A01726600@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1RG-61xrQUTrzYYUadeyhVgrNYVocQEie/view?usp=drivesdk"
   },
   {
     "nombre": "Eliseo Martínez Gaytán",
     "correo": "A01726623@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/16bPRYYeURgQkHM47H3N4Gzuqv4V48zTP/view?usp=drivesdk"
   },
   {
     "nombre": "José Alonso Cantú Dávila",
     "correo": "A01726651@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1WV1w2KryhPJIC-ntOqR5Lg_L7X9kUoIl/view?usp=drivesdk"
   },
   {
     "nombre": "Lucía Palacios Miselem",
     "correo": "A01726652@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JUzDpXdV2DYhxsQ-yOMl_dkLkl5xkMw7/view?usp=drivesdk"
   },
   {
     "nombre": "Patricio Moreno Domínguez",
     "correo": "A01726689@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1wlhB77ih8tKbpurlNjcjQ77KA_53WNF8/view?usp=drivesdk"
   },
   {
     "nombre": "Catalina Castro Flores",
     "correo": "A01726707@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1yUsHr3V_0Kja5sQzMN-JSOquN_hBTgrN/view?usp=drivesdk"
   },
   {
     "nombre": "Miguel Ángel Garza Leal",
     "correo": "A01726720@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1IAnI25_M4-Fh3JHIZP8YHtw7Rq-W5nT-/view?usp=drivesdk"
   },
   {
     "nombre": "Romina Flores Camarillo",
     "correo": "A01726722@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1e_uCoNDGpWAEU9amSwRfmhzFMR5ppKUp/view?usp=drivesdk"
   },
   {
     "nombre": "Roberta Garza Garza",
     "correo": "A01726727@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1y9_Z4Rprwh7j4mt-MQuI00nAfkTUYjJG/view?usp=drivesdk"
   },
   {
     "nombre": "Marcelo Kian Elizondo Mack",
     "correo": "A01726748@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1CZo9_Jh8Ub3r5NqLT38eZGcfz342zqp0/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriel Gorena Porte",
     "correo": "A01726856@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1WWrSbqBANGxhKQuGyf9GbTsMsP4Hh86t/view?usp=drivesdk"
   },
   {
     "nombre": "Raymundo Martínez Flores",
     "correo": "A01815768@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1bj9QeeTP_9LAT5aglFbvHh5b7HdujkFp/view?usp=drivesdk"
   },
   {
     "nombre": "Ivanna Giselle Acero Villarreal",
@@ -3472,30 +3979,39 @@
     "correo": "A01288906@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1cO5oE9J9iBLUaF8h9_jBvLlONB0cYeua/view?usp=drivesdk"
   },
   {
     "nombre": "Mariano Gil Flores",
     "correo": "A01288949@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1vYm-Z6KO9jfuz-DhZXmwgI4jXQm6kJC3/view?usp=drivesdk"
   },
   {
     "nombre": "Estefanía Ylizaliturri Musa",
     "correo": "A01386280@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1sxSAqWuHIsEtLeuzvkrSQRQ-LfER64Yl/view?usp=drivesdk"
   },
   {
     "nombre": "María Mena Salinas",
@@ -3522,10 +4038,13 @@
     "correo": "A01726165@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/14QNVvr_LI1a32MzUHEIrpSTjEvFxHkvO/view?usp=drivesdk"
   },
   {
     "nombre": "Aleksandra Sigrist González",
@@ -3542,10 +4061,13 @@
     "correo": "A01726173@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1tQRiZG8q8IgQNyd5jHvDEL4XyDsfpdTu/view?usp=drivesdk"
   },
   {
     "nombre": "Cristina Margáin Montemayor",
@@ -3572,10 +4094,13 @@
     "correo": "A01726256@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/111O85c49Twt4cLNKlUwubF4dJ_z6VYZz/view?usp=drivesdk"
   },
   {
     "nombre": "Victoria Williams García",
@@ -3592,30 +4117,39 @@
     "correo": "A01726318@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1YOaKzV4780dnyBiwNhdQsgBtlBL6nh-x/view?usp=drivesdk"
   },
   {
     "nombre": "Camila Castillo Villa",
     "correo": "A01726546@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/11eNopftGDBkVCmvL-kKaEiO7r6WZLheV/view?usp=drivesdk"
   },
   {
     "nombre": "Ivanna Saide Franco",
     "correo": "A01726579@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1-mTyusXj2qozi8I8xxpqI63-wTLViUB3/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriel Robles Treviño",
@@ -3632,20 +4166,26 @@
     "correo": "A01726682@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1wBaIryHBk7pMbdibGn0BfPktMku2OTSd/view?usp=drivesdk"
   },
   {
     "nombre": "Madison Isabella Salas Nava",
     "correo": "A01726692@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1zjqdhOLK0bqt5P_WGBdi6KaIt_5jgYy4/view?usp=drivesdk"
   },
   {
     "nombre": "Roberta Flores Camarillo",
@@ -3722,10 +4262,13 @@
     "correo": "A01726882@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JY1dZhz0sWy-8pWiAZoCOEqjoe2YpbYz/view?usp=drivesdk"
   },
   {
     "nombre": "Mariel Perales Chapa",
@@ -3737,7 +4280,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1mQM9EhPLLCsucocaF27nbWhQBMuR3uDx/view?usp=drivesdk"
   },
   {
@@ -3908,10 +4451,13 @@
     "correo": "A01726770@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Qkt4qYqCz5LBiztBx6u0zT7EvStypU1w/view?usp=drivesdk"
   },
   {
     "nombre": "Emilio Jamín García",
@@ -3928,10 +4474,13 @@
     "correo": "A01726797@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1m7GZPmk6_kMp_FPlAwGTpZPN6lZMQW0c/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Pérez Mendoza",
@@ -3968,10 +4517,13 @@
     "correo": "A01726831@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1D9D_HRW8WeFa7PfIT6FS29ekQLNobAER/view?usp=drivesdk"
   },
   {
     "nombre": "Arnau García Garza",
@@ -4008,10 +4560,13 @@
     "correo": "A01726887@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1CRt2mMn3pRsAuhjtNsYH7GI_jCKeMxqT/view?usp=drivesdk"
   },
   {
     "nombre": "Regina González Treviño",
@@ -4062,7 +4617,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1hw3d6bfP94Fv2GQQ2NWJEow0Ahsvw9nu/view?usp=drivesdk"
   },
   {
@@ -4119,10 +4674,13 @@
     "correo": "A01726365@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1oIXF9PiO-zEk182KUgnxs7dbktN3mwUm/view?usp=drivesdk"
   },
   {
     "nombre": "Alberto Furber Álvarez",
@@ -4155,10 +4713,13 @@
     "correo": "A01726533@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1PBMqK9KXDh5LFhhh7N0dM5Mjb5UaTvh9/view?usp=drivesdk"
   },
   {
     "nombre": "Rodrigo Treviño Zambrano",
@@ -4274,20 +4835,26 @@
     "correo": "A01726796@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1w_Mg5TnLoe9Po2_5rNE8nRLPGqXQduKX/view?usp=drivesdk"
   },
   {
     "nombre": "Jorge Pérez Maldonado Treviño",
     "correo": "A01726811@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1eNxA7kmMgYhi0ilBe_EcMsN1Mgn4mLE9/view?usp=drivesdk"
   },
   {
     "nombre": "Daniela Guadalupe Morales Mejia",
@@ -4304,10 +4871,13 @@
     "correo": "A01726852@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/11zyH01FKuh3J7-tHbeb43TdLcJtYCYTz/view?usp=drivesdk"
   },
   {
     "nombre": "Diego L. Corcuera Vega",
@@ -4337,250 +4907,325 @@
     "correo": "A01726114@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1jVbaFm2A-2PlmzF-qtPDcmnAkXOcGpH3/view?usp=drivesdk"
   },
   {
     "nombre": "Alana Bulnes González",
     "correo": "A01726138@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1B0Dic34PZhL1vxE3ffjfcZv5lIZCkyA5/view?usp=drivesdk"
   },
   {
     "nombre": "Emilio Leal De La Garza",
     "correo": "A01726141@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1rOYEGbfcIVAeSg5yh_kqLKAjLq8gKpxE/view?usp=drivesdk"
   },
   {
     "nombre": "Pablo Elizondo Almaguer",
     "correo": "A01726253@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1EegSD3VD1NucnXHeEd_ZIvVIxd9fyvWX/view?usp=drivesdk"
   },
   {
     "nombre": "Gerardo Nicolás Cantú Rodríguez",
     "correo": "A01726282@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1hZmsufjqKD_HgBgZtmkYDLwE2h5LkNIB/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria Treviño Navarro",
     "correo": "A01726296@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1rEMdeIWXEIep8SRWmwv86FD0J5mP8BMS/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandro Hermida Rivera",
     "correo": "A01726327@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/11f26JW2N7VediH4cjZmhIHQby69qcv_A/view?usp=drivesdk"
   },
   {
     "nombre": "Cristina Aguirre García",
     "correo": "A01726334@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1E-dL07pwma9iTBvAA9SZ1skH2NhgdzK3/view?usp=drivesdk"
   },
   {
     "nombre": "Guillermo Gallegos Treviño",
     "correo": "A01726341@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1FXKFVScq4dImFu_qoDBZMtc5OL4pKJ18/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Gómez Garza",
     "correo": "A01726364@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1x4q_lLKEsxeZrmGsaxDJ0TVo4LQXCpzE/view?usp=drivesdk"
   },
   {
     "nombre": "Juan Pablo Pazos Escotto",
     "correo": "A01726389@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/19JQw_Ou4_WgJITjlsIqu3wPYTdf3un64/view?usp=drivesdk"
   },
   {
     "nombre": "Karla Acuña Luévano",
     "correo": "A01726390@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/18Vqq9er9cnnjnCDgm_stJXbXRqzQKAdH/view?usp=drivesdk"
   },
   {
     "nombre": "Rodolfo Ayala Gómez",
     "correo": "A01726398@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1XGFw9G3XdlTu4UHPX-KsWXcVuUMlm84r/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandro Alanís García",
     "correo": "A01726427@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1il9g-ZtFnUGKZ168jZdFktJ0eLh_jA7q/view?usp=drivesdk"
   },
   {
     "nombre": "David Ramirez Garza",
     "correo": "A01726451@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1UusD2NR8AAc7A3ALVeNeG4O2C5gRqxF7/view?usp=drivesdk"
   },
   {
     "nombre": "José Andrés Cantú Quintanilla",
     "correo": "A01726460@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/158-TFlbYRzh-_-HdDPTRD918a7C8Wxd_/view?usp=drivesdk"
   },
   {
     "nombre": "Rodrigo Paioletti Martinez",
     "correo": "A01726467@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1C_TOI_dYHp3I9aA5yKzL3lL5oFAyUh36/view?usp=drivesdk"
   },
   {
     "nombre": "Nicole Parga Siller",
     "correo": "A01726480@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1DB_BBmGPCCkQDJWS-JWlhtIUkjPtuE5j/view?usp=drivesdk"
   },
   {
     "nombre": "Nico Elizondo Katimi",
     "correo": "A01726503@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1XRqO1mvgyihfeE3DQqCR1JYix3I7gDMI/view?usp=drivesdk"
   },
   {
     "nombre": "Jorge Karam Diego",
     "correo": "A01726512@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ySTYdcN2rK1L13JU3_Lirek63cv3cdb_/view?usp=drivesdk"
   },
   {
     "nombre": "Carlos Eugenio Cedeño Rodríguez",
     "correo": "A01726521@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/14nduKg8mWL3Bdi53MM3h9LaL4QEEf5Xb/view?usp=drivesdk"
   },
   {
     "nombre": "Isabella Gámez De la Rosa",
     "correo": "A01726526@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JfHVnQ81VqtChCOJYVZ7t0hbsTl-ofg4/view?usp=drivesdk"
   },
   {
     "nombre": "Darío Gómez Gutiérrez Welsh",
     "correo": "A01726540@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1KEjurt1J3JvEU2KdjiWQrfDjw_0RD7BJ/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Salazar Torres",
     "correo": "A01726564@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1C4ZnIHgiPrFgXK1g7DckIa4IdrKPWD91/view?usp=drivesdk"
   },
   {
     "nombre": "Emiliano Mejía Salazar",
     "correo": "A01726598@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/17a0MIu7iOgRjWzRxIXFNTf2W0Biu9rOm/view?usp=drivesdk"
   },
   {
     "nombre": "Enrique Villarreal Quiroga",
@@ -4597,40 +5242,52 @@
     "correo": "A01726783@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1V7Ar4RhGfj1Q2YOuwGnFZ557LPrRwNOQ/view?usp=drivesdk"
   },
   {
     "nombre": "Federico Gil Treviño",
     "correo": "A01726788@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1EKiSZxbgivvv7jrb_JfoFbSRKiKsitg1/view?usp=drivesdk"
   },
   {
     "nombre": "José Miguel Hinojosa Campos",
     "correo": "A01726837@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/108In4He01YQyn8-6NqDJ2Ivk9fzwbVD2/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenio Ramonfaur Gracía",
     "correo": "A01726885@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/19nF3cFle135yhBTpS8SMGWzkprU7V4g-/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenia Sofía Lascurain Vanegas",
@@ -4677,10 +5334,13 @@
     "correo": "A01726232@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ZKM59ZuiDFPdMs1xLRzmVY4qJb4vEfkX/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Ayala Villarreal",
@@ -4717,20 +5377,26 @@
     "correo": "A01726322@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1uUZH56OOCsVqtB3f4TblxntdctaaWzkT/view?usp=drivesdk"
   },
   {
     "nombre": "Carola Caballero Ballester",
     "correo": "A01726332@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1i8oRg2EjFGb1Wb99exQBcLkwN6WJUgDN/view?usp=drivesdk"
   },
   {
     "nombre": "Adrián Sandoval Romero",
@@ -4747,20 +5413,26 @@
     "correo": "A01726380@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Zfrc5cDP6gv3fvIyzP78_fbW5Uj-7Iw3/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Piccolo Clariond",
     "correo": "A01726407@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1uaTiL5DgNLTgidJEALH3AZ7pW_JDHwi6/view?usp=drivesdk"
   },
   {
     "nombre": "Claudia Berchelmann Margain",
@@ -4777,10 +5449,13 @@
     "correo": "A01726445@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1uFQ2--KIGyq19WW0hhR0SllREJb_9X67/view?usp=drivesdk"
   },
   {
     "nombre": "César Alejandro Sánchez García",
@@ -4807,10 +5482,13 @@
     "correo": "A01726489@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1zWyCEHyfyULEQ1yupETmVswGOwZIHVn-/view?usp=drivesdk"
   },
   {
     "nombre": "Patricio Gómez Vizcaíno",
@@ -4827,10 +5505,13 @@
     "correo": "A01726577@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1mNMuW2wBYbmX_L4J5omFaic4tKnoRFij/view?usp=drivesdk"
   },
   {
     "nombre": "Marcelo Nájera Compeán",
@@ -4927,10 +5608,13 @@
     "correo": "A01726829@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ut7Q5H3UCsmTwZGVwS9wqp5UJxDfqrxa/view?usp=drivesdk"
   },
   {
     "nombre": "Adrián Edú Garza Hernández",
@@ -4978,7 +5662,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1-FQMngwWgT2KqcaoZse3NilL4FWtxy7u/view?usp=drivesdk"
   },
   {
@@ -4991,7 +5675,7 @@
       "Artes, Expresión y Creatividad",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1g2RnCsdszSqG0jujrJTjBzA7uUZlMpQi/view?usp=drivesdk"
   },
   {
@@ -5043,7 +5727,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/16bVMaAjOku8EVKH47cNES9Iq9EcrgwB9/view?usp=drivesdk"
   },
   {
@@ -5095,7 +5779,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1H9DmxhiWW66sRFR9zqidNdo6mwCMnqJ8/view?usp=drivesdk"
   },
   {
@@ -5134,7 +5818,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Sh2T49pHD57II5cYDMhv_13GhBvLYcm8/view?usp=drivesdk"
   },
   {
@@ -5147,7 +5831,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1fSjdBndVNVtPDNO5j8AEUj2T9VbRyHBh/view?usp=drivesdk"
   },
   {
@@ -5199,7 +5883,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1P7gDlOZ_m74VVTegM06zfBsdcqTsFIWs/view?usp=drivesdk"
   },
   {
@@ -5212,7 +5896,7 @@
       "Artes, Expresión y Creatividad",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1OMb_nTDZFWN8ohElj6fwDBl59q1gv0rR/view?usp=drivesdk"
   },
   {
@@ -5264,7 +5948,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1TJNoXIEEwTMIeMut_8y73kKFEkaWORGD/view?usp=drivesdk"
   },
   {
@@ -5277,7 +5961,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1qnSW_4yJWtDJjuPUTMtPbgd2IfrEFsZl/view?usp=drivesdk"
   },
   {
@@ -5285,10 +5969,13 @@
     "correo": "A01726808@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1sVhpNovh52VKSFEYkXFMbXcrgeqnJLrB/view?usp=drivesdk"
   },
   {
     "nombre": "Loretta López Alanís",
@@ -5300,7 +5987,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1RfWC2XHIvQrouiGcij72oslIngAPIaaI/view?usp=drivesdk"
   },
   {
@@ -5326,7 +6013,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1u8XWwE9WjbKcsOoArXjrZ61DYIfZhoIW/view?usp=drivesdk"
   },
   {
@@ -5334,30 +6021,39 @@
     "correo": "A01726128@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/13-4oD5SuI0iM5DQO--U9cXtS-BNiUBvi/view?usp=drivesdk"
   },
   {
     "nombre": "Regina García de la Vega",
     "correo": "A01726158@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1IVGQ9X92uBTKgWZJ9UpjHEmr6x-SSrqz/view?usp=drivesdk"
   },
   {
     "nombre": "Mariano Rodríguez Hernández",
     "correo": "A01726182@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1-97_pj2ldXL7pfZVmMcdEIcxqExko9Bc/view?usp=drivesdk"
   },
   {
     "nombre": "Marcelo Librado Castaño Montiel",
@@ -5377,250 +6073,325 @@
     "correo": "A01726211@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Lg-yiEPL3NHj_xM8Q52s-MGrv7Q7HwSz/view?usp=drivesdk"
   },
   {
     "nombre": "Alicia Reyes Knight",
     "correo": "A01726240@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1piKbto5_g2-Z93H9FUaGDdiV-ZgnUoQJ/view?usp=drivesdk"
   },
   {
     "nombre": "Camila Guzmán Rodríguez",
     "correo": "A01726266@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1vv5ZPu8Qpc-cVwbUZTvQiF63O3hjOQgx/view?usp=drivesdk"
   },
   {
     "nombre": "Valentina Rosiñol Matiella",
     "correo": "A01726293@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1gzXhoP_tgVNZ2kK4WVmfcmk8miE3boKl/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Marcelo Rodríguez Villarreal",
     "correo": "A01726330@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1UVPHWIeHv3HIWce4CA9k0-KXgZEv8x-F/view?usp=drivesdk"
   },
   {
     "nombre": "Paulina García Villarreal",
     "correo": "A01726358@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Zc9SliKueGAUQM1dGH7tcIhe03iLN4nU/view?usp=drivesdk"
   },
   {
     "nombre": "María Peñuelas Rochín",
     "correo": "A01726362@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1KgR3irlff2_ikIyd9ie33uC2XXucsGD0/view?usp=drivesdk"
   },
   {
     "nombre": "Lorenza Martínez Vielledent",
     "correo": "A01726409@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1BBlhxlXGrPt_2_TC7A5_Rt6RoJKDBcZM/view?usp=drivesdk"
   },
   {
     "nombre": "María Emilia Rodríguez Sánchez",
     "correo": "A01726419@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1f6rg9nMQhKdNGZ7L1HKlskxCoQvboRtJ/view?usp=drivesdk"
   },
   {
     "nombre": "Roberto León García Garza",
     "correo": "A01726428@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1sd4k2WzrcYwHJYZBVqLa54kb4wPCt9rH/view?usp=drivesdk"
   },
   {
     "nombre": "Isolda González Hernández",
     "correo": "A01726450@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1l3JWup12_SWZHQu45tGi2kDZjP65dQ-p/view?usp=drivesdk"
   },
   {
     "nombre": "William Zhou Liu",
     "correo": "A01726477@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1k5v1V74HLS3c4k6eNiPndbGl6uJYm2Db/view?usp=drivesdk"
   },
   {
     "nombre": "Mauricio de Villa Yesaki",
     "correo": "A01726502@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1K78waYglIUhmwAg5k845J5J6mespvx41/view?usp=drivesdk"
   },
   {
     "nombre": "Fernando Páez Montemayor",
     "correo": "A01726527@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1cHxyXtObGfO0MMAdT6EOq_WOw-kUANxk/view?usp=drivesdk"
   },
   {
     "nombre": "Mariana López De la Maza",
     "correo": "A01726534@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_RXw-3gJOgM8RPeMzLXlVGR9-r3GR4xg/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriel Chapa Farías",
     "correo": "A01726535@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1tH96miwWScoyeaKS0GvyNBoQFK7xjXwe/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriel Alanís Cárdenas",
     "correo": "A01726537@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1RiGKyj6LUUBgMoVmqeG4Y77Z-axyHIZA/view?usp=drivesdk"
   },
   {
     "nombre": "Daniel Campos Villarreal",
     "correo": "A01726553@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1uMwWbsk7ym-Elymk1fqM-1Nbc9M8XDh5/view?usp=drivesdk"
   },
   {
     "nombre": "Jimena Lozano Chaparro",
     "correo": "A01726576@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1KUfHgvJVEqgbzrBmhu_tO7At9Mjf_nOp/view?usp=drivesdk"
   },
   {
     "nombre": "Romina Galán González",
     "correo": "A01726594@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1i5GGugsB7hb5AXDbLl8E6Iyv95-BEtHT/view?usp=drivesdk"
   },
   {
     "nombre": "Luciana Cordero Guerra",
     "correo": "A01726633@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1mVO3lzDycNxMZn-MmwNayfWz0Im69GKD/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriel Andrés Zuazua Chapa",
     "correo": "A01726646@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1qLQ53tmmBIyHc3w2IKiSsJPkq3BTZbUz/view?usp=drivesdk"
   },
   {
     "nombre": "Cristina María Assad González",
     "correo": "A01726749@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/13AecHTSAT2CA_JedBC7MvZ_psz9-dL_h/view?usp=drivesdk"
   },
   {
     "nombre": "Diana Lucía Ramírez Guevara",
     "correo": "A01726841@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JP718J5xEnWimfCNfJEE90myBJKxAPYm/view?usp=drivesdk"
   },
   {
     "nombre": "Emiliano Reyes Duhne",
     "correo": "A01815859@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ZD2AgSegIajjdk_w0738JQw009RFc_qe/view?usp=drivesdk"
   },
   {
     "nombre": "Alexy Valentina Salas Escamilla",
@@ -5632,7 +6403,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1kacplwVCdkuD-Xd4Jlfz3BikycZpxX_w/view?usp=drivesdk"
   },
   {
@@ -5645,7 +6416,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1gOXRFSRkREdVlRmqO-LpQwdZXFsBYCqE/view?usp=drivesdk"
   },
   {
@@ -5706,20 +6477,26 @@
     "correo": "A01726217@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Vev0uNhzU8dUy2EovuBqpmgRbGHtWXm7/view?usp=drivesdk"
   },
   {
     "nombre": "Eva Mariana Montoya Valdez",
     "correo": "A01726235@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1LNgz3aHEs7YvYgXQJB70krO3H2aVSYMQ/view?usp=drivesdk"
   },
   {
     "nombre": "Lizeth Monserrat García Carvajal",
@@ -5781,7 +6558,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1bZxCfT4LgPLK3JyApZFwywl-13dDk1wN/view?usp=drivesdk"
   },
   {
@@ -5799,20 +6576,26 @@
     "correo": "A01726506@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1kU0oYnDOVb4uCXEglc6XcvMDSF8IjWFu/view?usp=drivesdk"
   },
   {
     "nombre": "Pablo Ortega Arriaga",
     "correo": "A01726555@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1g10StdeFFaUY0-vVRfK1jPFUPeC0BTkP/view?usp=drivesdk"
   },
   {
     "nombre": "Carla Nicole Laurence Yesaki",
@@ -5849,10 +6632,13 @@
     "correo": "A01726629@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1pDSSW_r2gs8yp7FXDyw4Hr53vHamhxX0/view?usp=drivesdk"
   },
   {
     "nombre": "América Andrea Salinas Correa",
@@ -5889,20 +6675,26 @@
     "correo": "A01726789@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1y5uCGE5ukWDHn2MovMfB3InLKMak3VGA/view?usp=drivesdk"
   },
   {
     "nombre": "Daniela Barrera Martínez",
     "correo": "A01726855@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/17ebKEfQ6v6Sg4bFiWld0LSW4D2b6M1OT/view?usp=drivesdk"
   },
   {
     "nombre": "Mariel Farías López",
@@ -5929,100 +6721,130 @@
     "correo": "A01726131@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Cf_n6Ug5VAUvUgzE48VmZ5lwvcHIFWhh/view?usp=drivesdk"
   },
   {
     "nombre": "Fabiana Lecea Garza",
     "correo": "A01726133@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1nJtN_go7yJyjPpjYad0kWZV7NThvEfyT/view?usp=drivesdk"
   },
   {
     "nombre": "Roberta González",
     "correo": "A01726151@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1hNVg3ziEOxAYafmQ8pUFfV7pz9DdNMqQ/view?usp=drivesdk"
   },
   {
     "nombre": "María Fernanda Milán Garza",
     "correo": "A01726161@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1SEkSnS1SO1aJTluenMxM3Pxmdhh15Z4J/view?usp=drivesdk"
   },
   {
     "nombre": "Mayte González Treviño",
     "correo": "A01726177@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1c5BD3l1zdGTsDzcPV3oRK7tF4DqBDNkN/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Villagómez Preciado",
     "correo": "A01726207@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1KcG2PBJcDgERBtvbYw2OJghWV45dmUbn/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriel Muñoz Torres",
     "correo": "A01726210@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ppn8Rs2RRbsi0BwlVxrF_JFiSSDBe4ZH/view?usp=drivesdk"
   },
   {
     "nombre": "Kenia Karolina Hinojosa Ortíz",
     "correo": "A01726214@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1_LTIF90VGwQM0CL-JDphqJGV3y0Q-Sky/view?usp=drivesdk"
   },
   {
     "nombre": "Lucía Cerdán Cavazos",
     "correo": "A01726216@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1WwGp0sg92h5wQRxZ8vNfCsupYBT34VvY/view?usp=drivesdk"
   },
   {
     "nombre": "Nicolás Medina Rocha",
     "correo": "A01726221@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1MjAer2mpencj_nfL3kv9VwcV6mgvtm_V/view?usp=drivesdk"
   },
   {
     "nombre": "Valentina Zertuche Araiza",
@@ -6039,120 +6861,156 @@
     "correo": "A01726225@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1peF07F5Xq5RuP8wNCswfwrj5tyeppX-Q/view?usp=drivesdk"
   },
   {
     "nombre": "Nicolás Sancho González",
     "correo": "A01726353@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1sWpON3e4bVYkLoi1FCwVmmM_EhiT3neh/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria Ibarra Rocha",
     "correo": "A01726383@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_G9BI6ZXWVwD3iplNeCxSRvbFzTSfjpv/view?usp=drivesdk"
   },
   {
     "nombre": "Eduardo Rendón Garza",
     "correo": "A01726392@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1v5fviBAf4IBblfzo7LIuzssKA2UGxFP5/view?usp=drivesdk"
   },
   {
     "nombre": "Elena Treviño Tenreiro",
     "correo": "A01726393@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1hADyd0CkbjU4bZINYkllByKimgF-fhtW/view?usp=drivesdk"
   },
   {
     "nombre": "Romina Valencia Hepo",
     "correo": "A01726399@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1z2iGYO8EZ_O-M9Yqei81jZCh3lpXZmM0/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Dávila Hernández",
     "correo": "A01726402@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/187bJLdOgmEZohRD49olAkm7yWKbpCQSw/view?usp=drivesdk"
   },
   {
     "nombre": "Alan Marcelo Todd Galindo",
     "correo": "A01726405@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1n6y1i_etuEsPDxXd8-3xkqz3M6Bwu2px/view?usp=drivesdk"
   },
   {
     "nombre": "Paola Madero Cantú",
     "correo": "A01726411@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1c2O30_7CZP9-rm27-VfalV90ikn51r8N/view?usp=drivesdk"
   },
   {
     "nombre": "Rodrigo España Muñoz",
     "correo": "A01726434@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/18cNYTsaBMGYJMtOkwbHCJoLimG8ILTA2/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriela Martínez Sánchez",
     "correo": "A01726457@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/19JDIgdEWTY3hf8JHNpUTxz50nE3GgFrn/view?usp=drivesdk"
   },
   {
     "nombre": "Patricio Thomae González",
     "correo": "A01726499@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ttqTfQ6VIqga_f3WofWXzP8iGkTDqyor/view?usp=drivesdk"
   },
   {
     "nombre": "Sebastián Rodríguez Lozano",
@@ -6169,300 +7027,390 @@
     "correo": "A01726562@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1XAHfcSEJsx5zKmOtD285CTMUGCI2whcM/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria Martínez Vásquez",
     "correo": "A01726591@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1AKGqdJ5q34pvSWYdYfcyJpKzTNK39YTG/view?usp=drivesdk"
   },
   {
     "nombre": "Roberta Romero Cota",
     "correo": "A01726615@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1VqOWB9zP9lGQYJ_VdujPoWAvZl2n14rp/view?usp=drivesdk"
   },
   {
     "nombre": "Gloria Martínez-Reding",
     "correo": "A01726624@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Qc_zrYk2hKl3-S2hPXOR60oc8Q59mSZq/view?usp=drivesdk"
   },
   {
     "nombre": "Victor Emilio Franco Olvera",
     "correo": "A01726868@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1bcLRCRDxXmLCi6htqsRRgrme3Yb4PM8X/view?usp=drivesdk"
   },
   {
     "nombre": "Aoi Kojima",
     "correo": "A01726878@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/17wlCfRB2fqM3ji-hq0SGom09vQOmrYVR/view?usp=drivesdk"
   },
   {
     "nombre": "Ricardo De Los Reyes Molina",
     "correo": "A01726150@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1fSkwhe-NSLonZEHoGPqpUBnEnZ_tQmhY/view?usp=drivesdk"
   },
   {
     "nombre": "Paola Rodríguez Cabezas",
     "correo": "A01726164@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ey0Q7bRsgfABg9C0z6nV8ksWP3EUB2Ub/view?usp=drivesdk"
   },
   {
     "nombre": "Javier Angel González López",
     "correo": "A01726189@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1RIg178dhHtSvhKMK7pMZ1XM-sihCfwij/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenio Saldívar Alanís",
     "correo": "A01726193@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/12u7eYzlP9zq-U1zdiGCytqnPtJnpVxSd/view?usp=drivesdk"
   },
   {
     "nombre": "Eduardo Garza Garza",
     "correo": "A01726194@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_HVos_y4AAW5QbYdhl94cotCGBJD4gaQ/view?usp=drivesdk"
   },
   {
     "nombre": "Natalia Guasque García",
     "correo": "A01726220@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1S2hONhuQhL-ehJ4OOZyRcs0MorNgGY55/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenio Boesch Villarreal",
     "correo": "A01726246@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1WwoY3wNDn3TFwAPZAjR5GzHehBKdqu5W/view?usp=drivesdk"
   },
   {
     "nombre": "Mariana Villarreal Villarreal",
     "correo": "A01726255@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1pmZWE6JYZIWv2dAgh6Ec6bV_I3yZXz_d/view?usp=drivesdk"
   },
   {
     "nombre": "Gustavo Salinas González",
     "correo": "A01726269@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1kXvXN7Camr3m_hNBkeQOUX9PsGgZHYM3/view?usp=drivesdk"
   },
   {
     "nombre": "Fernanda Chapa Caballero",
     "correo": "A01726278@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1XfoQzX61Tv5dEEh82OzvX3Gzj6JH1Bsu/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriel Jacob Garcia Zavala",
     "correo": "A01726280@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1nQsMPp3bmjAWi0t1FbKQaFqSCb-zwYiO/view?usp=drivesdk"
   },
   {
     "nombre": "Sergio Imaz Fuentes",
     "correo": "A01726320@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1AENHa62rvj_h2VEWrFT1MzZ6uZy5vYFZ/view?usp=drivesdk"
   },
   {
     "nombre": "Fernando González Franco",
     "correo": "A01726348@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1-ptW3tt9G0NF1BGL5V9hkj2SzY8QW3xk/view?usp=drivesdk"
   },
   {
     "nombre": "Iker González Lozano",
     "correo": "A01726350@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1uOFZ8GnjWBQg-UNEymmJgU4tfNu0gPpq/view?usp=drivesdk"
   },
   {
     "nombre": "Loreta Ayala Puente",
     "correo": "A01726361@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Xyb87ZImlFhwiz4iUMMJGSynpS_4unAX/view?usp=drivesdk"
   },
   {
     "nombre": "Alana González Rodríguez",
     "correo": "A01726368@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_TmWDfkQIMHY3i2Fv0QkZKUxxsBfK52e/view?usp=drivesdk"
   },
   {
     "nombre": "Cordelia Mendez Escamilla",
     "correo": "A01726378@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1IW3vL8vwTXHfvNjhmB_Zwm4pLlHJoWIX/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Abaroa De Zamacona",
     "correo": "A01726430@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1etGlpwVw7oz5L3g_7r2zOfeB3Kdc7U3k/view?usp=drivesdk"
   },
   {
     "nombre": "Mariana Garza Martínez",
     "correo": "A01726433@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/13VcvDEOY5I4ogioE-8z-264nB4i1ZJw4/view?usp=drivesdk"
   },
   {
     "nombre": "Isabel Andino Cantú",
     "correo": "A01726486@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/17fbE7IQFrLiUzrypkh6-oJjkd-NGgfa0/view?usp=drivesdk"
   },
   {
     "nombre": "Adriana Cantú Ulibarri",
     "correo": "A01726551@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1VCOR1ngK7zSQi-yUxdIp2XxwiMdyBMIN/view?usp=drivesdk"
   },
   {
     "nombre": "Gessler Delgado Chávez",
     "correo": "A01726571@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1rEG3ibRn5OiXskfLTjHDSFmgRGa2W9i2/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenio Lozano Cavazos",
     "correo": "A01726592@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1fPbU9-IYv-u6EUChYvzsYG3L9UCHNAWc/view?usp=drivesdk"
   },
   {
     "nombre": "Lourdes Villarreal Villarreal",
     "correo": "A01726619@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1vpDdW7YQQV_xPJs6eomgvUIf81IHTrNJ/view?usp=drivesdk"
   },
   {
     "nombre": "Roberta Salinas Chapa",
@@ -6479,50 +7427,65 @@
     "correo": "A01726677@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/11uIWEjXU75NjofQN2ZT4sRnC38pXmBHq/view?usp=drivesdk"
   },
   {
     "nombre": "Fernanda López Villarreal",
     "correo": "A01726714@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1WMWysnzTp_Uef8uw6zSnqFom-qfRciMQ/view?usp=drivesdk"
   },
   {
     "nombre": "Rocío Alanis Chapa",
     "correo": "A01726741@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1FZmryvKssZFUw4Kmf0ZSdGc5e4fTijM3/view?usp=drivesdk"
   },
   {
     "nombre": "Marcelo Guevara Treviño",
     "correo": "A01726765@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/13oEOOTVKnowJaT_H1RAWLzTZLINAOWUy/view?usp=drivesdk"
   },
   {
     "nombre": "Miguel Montalvo Martínez",
     "correo": "A01726833@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1dTyUBj_lXbcJDKFMRxQgppj_LkYLwplH/view?usp=drivesdk"
   },
   {
     "nombre": "Sofía Regina González Escoto",
@@ -6560,7 +7523,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/19FUeHmbMfYEg2rQWu5fvKNMK7i9krgee/view?usp=drivesdk"
   },
   {
@@ -6847,7 +7810,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/17382FPc1xlSQjmOe5gqCArc_p371K7uF/view?usp=drivesdk"
   },
   {
@@ -6899,7 +7862,7 @@
       "Ciencias Naturales y Experimentales",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1HQaMthO7dZmOq9AnLU7qa-2R2GMSeVVi/view?usp=drivesdk"
   },
   {
@@ -6951,7 +7914,7 @@
       "Artes, Expresión y Creatividad",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/14KAxi9Z5FBAUnWYl13LdC2O1PNjQ8Tc2/view?usp=drivesdk"
   },
   {
@@ -6964,7 +7927,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ajGHIyRagiXhBT6l8x6Rrf4qeJkb6r_6/view?usp=drivesdk"
   },
   {
@@ -7016,7 +7979,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1I0SDtfgWE8oiSJG4xogNck-svP9cohiA/view?usp=drivesdk"
   },
   {
@@ -7029,7 +7992,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1hzR8roppe06G-oVYjFLgfEsBg-SYIyek/view?usp=drivesdk"
   },
   {
@@ -7107,7 +8070,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/10v3rgDb9GlVylSG57V5TS0dAtdljj3HE/view?usp=drivesdk"
   },
   {
@@ -7120,7 +8083,7 @@
       "Individuos, Sociedad y Humanidades",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1H_gjB04C0EcKmm0M6BiHf-GEKqIjU5_7/view?usp=drivesdk"
   },
   {
@@ -7284,320 +8247,416 @@
     "correo": "A01726113@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1MLlScU8qHoluo3OqWTTVfZKjmbVD1kzj/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandro De la Garza Ortiz",
     "correo": "A01726231@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1xdDmnnnjiENzeWO2EGcNamrGaRx9t1AY/view?usp=drivesdk"
   },
   {
     "nombre": "Ana Isabella González Vilchez",
     "correo": "A01726241@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1yQDwaEoXH6u0uZLmRS-LBKTbTfrBpob0/view?usp=drivesdk"
   },
   {
     "nombre": "Cordelia Guzmán Benavides",
     "correo": "A01726242@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JhNMAnguDhgdrDREuieOvC4BGaxL4cRc/view?usp=drivesdk"
   },
   {
     "nombre": "Camille Buchanan Bermeo",
     "correo": "A01726267@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1PAHcJpOY5ZcJygtLE_ZSX-mhA2cMe4Ol/view?usp=drivesdk"
   },
   {
     "nombre": "Jesús Caballero Casillas",
     "correo": "A01726271@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1NKqCvrqkktVfwKSAJDuSx2on3wjbCNkQ/view?usp=drivesdk"
   },
   {
     "nombre": "Marala Lozano Franco",
     "correo": "A01726276@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/140JdFGkTF2fMG1qFBPv27nqqQOgUzoHx/view?usp=drivesdk"
   },
   {
     "nombre": "Rosely Cruz Olvera",
     "correo": "A01726287@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1MylAZp0MCQw0DPbE94c87fS-vwQcKUV3/view?usp=drivesdk"
   },
   {
     "nombre": "Cristina Centeno Mejia",
     "correo": "A01726335@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ZHpScWXYM__Mt5jxHZ5M-Zkhn4M_dQlK/view?usp=drivesdk"
   },
   {
     "nombre": "Fernando Macías García",
     "correo": "A01726339@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1UFpdJYv40dzPmbH-2IQk73fsON2chOeT/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandro Martínez Villarreal",
     "correo": "A01726371@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1KdbSISKGItg5t77lO8PuznrEGrAdTEWV/view?usp=drivesdk"
   },
   {
     "nombre": "Luciana Cantú Martínez",
     "correo": "A01726470@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1opaXhh_WawLkYRtbScErefRe43p73-qg/view?usp=drivesdk"
   },
   {
     "nombre": "Sergio Santiago Cavazos Diego",
     "correo": "A01726532@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1z6si5g9zZj0kDb0wqVszbdagYK0YgnA2/view?usp=drivesdk"
   },
   {
     "nombre": "Camila Treviño Galván",
     "correo": "A01726538@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1mX1NvEYDWfvGvyre1_ZiaKCfOwfbix46/view?usp=drivesdk"
   },
   {
     "nombre": "José Luis Treviño Elizondo",
     "correo": "A01726544@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_qRI9555iPNCjqMYB_ac0quitcbV3fQV/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria Pérez Vázquez",
     "correo": "A01726557@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1pATkuKAuMD_BECE0p5Fq9FqfSifSR0Tt/view?usp=drivesdk"
   },
   {
     "nombre": "José Andrés Villarreal Azcunaga",
     "correo": "A01726558@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1JpFriRRLS_84SLcjrRVtBrqRNX_FEzAX/view?usp=drivesdk"
   },
   {
     "nombre": "Eric Villarreal Treviño",
     "correo": "A01726561@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/17yMwjqnNds88psJm-DwAl2VkfUO10_tl/view?usp=drivesdk"
   },
   {
     "nombre": "Mauricio de la Garza Escamilla",
     "correo": "A01726563@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1OVOZptIxKHp2FLorbSDurIzAAbPLkMPF/view?usp=drivesdk"
   },
   {
     "nombre": "Marcelo García Garza",
     "correo": "A01726569@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Z5xTfcMDS5awlrTKY_2E8NIku6e8FNnI/view?usp=drivesdk"
   },
   {
     "nombre": "Eugenia Vargas Elizondo",
     "correo": "A01726602@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1IbI2QR_A7EiHtbS8OMKmEdxL83vl1hNQ/view?usp=drivesdk"
   },
   {
     "nombre": "Dominika Marcos Gattás",
     "correo": "A01726614@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1POfuCSm0ftuZFMqgwaYj2Q-_BmmdROiM/view?usp=drivesdk"
   },
   {
     "nombre": "Marian Cavazos Zapata",
     "correo": "A01726634@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1vxAgncrP1WWbasMb1DMGrwHRTKbPcik0/view?usp=drivesdk"
   },
   {
     "nombre": "Adrián Marcelo Lozano González",
     "correo": "A01726636@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1cfylZrlaPl94Wk0HC9L-3sPUTtt8MtYV/view?usp=drivesdk"
   },
   {
     "nombre": "Renata Enriquez Diaz de Leon",
     "correo": "A01726656@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1oUzHHZZ_g4QD3ka6TwCKmOpSNYSWP78O/view?usp=drivesdk"
   },
   {
     "nombre": "Eileen Araceli Isas Martínez",
     "correo": "A01726709@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1YZgV8RcU-8QpTEQU_rE0MzPYCP_FhIWE/view?usp=drivesdk"
   },
   {
     "nombre": "Gerardo González Rodríguez",
     "correo": "A01726715@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1dl0AW6NdTxtd2BiPjc5mcLdKbcsfFm0E/view?usp=drivesdk"
   },
   {
     "nombre": "Montserratt López Cordero",
     "correo": "A01726721@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/156tLkoSZWdwIxTwF_-X8mk7QPbBsvPsQ/view?usp=drivesdk"
   },
   {
     "nombre": "Sofia Garza Garza",
     "correo": "A01726730@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1wpj51TTbKA4WHyIME4PqpwrD4qcw-CLB/view?usp=drivesdk"
   },
   {
     "nombre": "Roberta González Lowry",
     "correo": "A01726746@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1kSGYqKEQuoYu2rjpcLbz9Z2e4scCfUTx/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Baigts Rosas",
     "correo": "A01726784@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1TEbC8yif96NMxCd9N1SB3wxaC4vDrhgx/view?usp=drivesdk"
   },
   {
     "nombre": "Sunghee Yoon",
     "correo": "A01726822@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1RNSekk-P-Te0Kl8dRJkQGo8HuiY3_Sf0/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Macías Rodríguez",
