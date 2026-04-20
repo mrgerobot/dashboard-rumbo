@@ -1107,7 +1107,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1PKMS9ty8yRGt2uOPsuBy8ycxQSSjqcs4/view?usp=drivesdk"
   },
   {
@@ -1146,7 +1146,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1-LX-cjnzmumonP_9o3wx8f3PFaXD9x0s/view?usp=drivesdk"
   },
   {
@@ -1159,7 +1159,7 @@
       "Artes, Expresión y Creatividad",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1I7myGwbZTlev6CawR94dsEdSvxG8w1RR/view?usp=drivesdk"
   },
   {
@@ -1211,7 +1211,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1LldJSvt23rhGO6droKOHe4wsxkQCBaAW/view?usp=drivesdk"
   },
   {
@@ -1315,7 +1315,7 @@
       "Artes, Expresión y Creatividad",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1zBXd9-CFy2fgstSjA0GhaC7qgeptroob/view?usp=drivesdk"
   },
   {
@@ -1341,7 +1341,7 @@
       "Individuos, Sociedad y Humanidades",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1_f19nOeyePE-jFvZFbK02AduudRR6xbR/view?usp=drivesdk"
   },
   {
@@ -1354,7 +1354,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1pVZ9LwjwB1zHD9m3DMAKE-LROqLsyFWa/view?usp=drivesdk"
   },
   {
@@ -1367,7 +1367,7 @@
       "Ciencias Naturales y Experimentales",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1XvWcCGWAoJRwS_TTpn6SSPguwx_oqFLo/view?usp=drivesdk"
   },
   {
@@ -1380,7 +1380,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ng7vMUpSq3KUlJmDvd5OjLwIA9Q2lWt4/view?usp=drivesdk"
   },
   {
@@ -1393,7 +1393,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1VWuhOExce7UQ-hWzGf5hJcf9DP5fEtBn/view?usp=drivesdk"
   },
   {
@@ -1419,7 +1419,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1xs_I1ehjZe7BYc-7OMGBJ2VlS27ld0tC/view?usp=drivesdk"
   },
   {
@@ -1518,40 +1518,52 @@
     "correo": "A01726116@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1bmIr6c0-my0dxO8Jn3gJAJq0w9ExJqAf/view?usp=drivesdk"
   },
   {
     "nombre": "Regina García Elizondo",
     "correo": "A01726159@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1wN4ttmtgN_HtwYD2gFQN3GnN6JgYU6nT/view?usp=drivesdk"
   },
   {
     "nombre": "Miroslava Villarreal Elizondo",
     "correo": "A01726162@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1WocDP5sWg7lb9a-6HESFsqiP8g9agHjn/view?usp=drivesdk"
   },
   {
     "nombre": "Marcela Natalia Pérez Álvarez",
     "correo": "A01726186@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/191v6bUfQMKPMNg6zPdnsIiYQWMz3zq_w/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria Quintanilla Salazar",
@@ -1563,7 +1575,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/16yDP7gUF6u4BMyZ0425vC4RnJe8aJi46/view?usp=drivesdk"
   },
   {
@@ -1576,7 +1588,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1wRVnLGQgjS1A-BFTvGeXN9avsoACYUxS/view?usp=drivesdk"
   },
   {
@@ -1589,7 +1601,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1hh2juODMe2zDURKyKWWRWKTL1ujNRHfT/view?usp=drivesdk"
   },
   {
@@ -1597,10 +1609,13 @@
     "correo": "A01726274@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1PFfXEkQQaAu6Jhzm3PhC3CC4L1XLNXb4/view?usp=drivesdk"
   },
   {
     "nombre": "Loretta Pérez Elizondo",
@@ -1612,7 +1627,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1VKRfnUdNs_gFqFyYPrqqc9qmISrOBJbo/view?usp=drivesdk"
   },
   {
@@ -1620,30 +1635,39 @@
     "correo": "A01726345@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/158OcIYqUOxLk--rQgzPya05Co7qBj9gg/view?usp=drivesdk"
   },
   {
     "nombre": "Emilio Rodal Regules",
     "correo": "A01726418@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1MEwUYKQYk3hO4gn2cu4eOl7quaDQBiBk/view?usp=drivesdk"
   },
   {
     "nombre": "Renata Elizabeth Martínez Reyna",
     "correo": "A01726425@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/12mdaMeCX-E0lcLRVdCndhnKepYCfZYO5/view?usp=drivesdk"
   },
   {
     "nombre": "Romina Guerra Moreno",
@@ -1655,7 +1679,7 @@
       "Artes, Expresión y Creatividad",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1XHOF3zb8N-sFhgbf54ky6aKt6lXXa9A1/view?usp=drivesdk"
   },
   {
@@ -1678,7 +1702,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1_vGFk1iOjd1FdFuQDFLZSXOxg3IwHYm2/view?usp=drivesdk"
   },
   {
@@ -1691,7 +1715,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/17B6vIolGPHl720xE_mg2fgpcdw_UwKuJ/view?usp=drivesdk"
   },
   {
@@ -1699,10 +1723,13 @@
     "correo": "A01726509@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/14rO9jxAk_VkQd2AoN56-pgvuyI2_k9tM/view?usp=drivesdk"
   },
   {
     "nombre": "Sergio Eugenio Meade González",
@@ -1714,7 +1741,7 @@
       "Ciencias Naturales y Experimentales",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1X9Igf_70sV1gA-Sys7oc3moURVfzZr2O/view?usp=drivesdk"
   },
   {
@@ -1748,10 +1775,13 @@
     "correo": "A01726610@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1JX0WL-Ca5iulUfQLclAjgO0zXg_kK-Ru/view?usp=drivesdk"
   },
   {
     "nombre": "Laura María Chow Vera",
@@ -1776,7 +1806,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1dhyczRuDrLxAeXzHrSZrb0u2yyzBs6KR/view?usp=drivesdk"
   },
   {
@@ -1784,20 +1814,26 @@
     "correo": "A01726680@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1qQDVec0MWLue9t1BInAjv8Qtc6acOmEd/view?usp=drivesdk"
   },
   {
     "nombre": "Adalberto Espinosa Ayala",
     "correo": "A01726684@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1yLqwJY-MnIwACKe6kGyzPATR9ANNQkkn/view?usp=drivesdk"
   },
   {
     "nombre": "David Merino Arróniz",
@@ -1809,7 +1845,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/19-m7q2pMeVn3aTJtrVPykOh4rUO5_U5A/view?usp=drivesdk"
   },
   {
@@ -1817,20 +1853,26 @@
     "correo": "A01726836@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/17_DGDzkqTJpw-vcElWojXLdlLbuxxYTC/view?usp=drivesdk"
   },
   {
     "nombre": "Fernanda Pastor Ortíz",
     "correo": "A01788199@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1V9nlP4ZI8B_wC9xDHc6IY8wNaB4NeCoe/view?usp=drivesdk"
   },
   {
     "nombre": "Valentina Arizpe Mendoza",
@@ -1842,7 +1884,7 @@
       "Artes, Expresión y Creatividad",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1gtNxK3W1CvVNE5xvwKSdP8j6Exf2rhaN/view?usp=drivesdk"
   },
   {
@@ -1855,7 +1897,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1q0K3BoyRvH7UW-XdTz3RCNAr1_ZOkio4/view?usp=drivesdk"
   },
   {
@@ -1868,7 +1910,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1FygTA4wBJznmvVW_YML0SBBxavvkrK48/view?usp=drivesdk"
   },
   {
@@ -1881,7 +1923,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1pB7k7eX4kzW8CXqakvs1W--XPCcWxrSw/view?usp=drivesdk"
   },
   {
@@ -1894,7 +1936,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/110h4F_RLya-_GH0BAmBc-CzoZ4H0HQxn/view?usp=drivesdk"
   },
   {
@@ -1907,7 +1949,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1nq6LlJve4vgL_GlArKSwQxWpzln31nVl/view?usp=drivesdk"
   },
   {
@@ -1920,7 +1962,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ttE7YcS6F0spAhCz_zOdSNW1F_Ry2MD_/view?usp=drivesdk"
   },
   {
@@ -1943,7 +1985,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/14vS-k0uUJC2OqpLRUM7vjUU448oOy25G/view?usp=drivesdk"
   },
   {
@@ -1956,7 +1998,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1fbOVQCHEGaMHuo5JWxfhVoH_Cy6LG4TX/view?usp=drivesdk"
   },
   {
@@ -1969,7 +2011,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1bG9T9tEGLe9EO9_1bRw86oDoJyFhauNE/view?usp=drivesdk"
   },
   {
@@ -1982,7 +2024,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1CwzOIqNwJ4C1L1WKg8exUxKjYxV5E8mG/view?usp=drivesdk"
   },
   {
@@ -1995,7 +2037,7 @@
       "Artes, Expresión y Creatividad",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1K_dM_7Nng2qynFuWPixBkOLdFLVMYGC3/view?usp=drivesdk"
   },
   {
@@ -2021,7 +2063,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1t7vE1eVrWuRyTUUX7I8dPAJiM481ipMa/view?usp=drivesdk"
   },
   {
@@ -2034,7 +2076,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/13P5RwB0t1yvA3l5mfUgSIXeqXZ2IkSyn/view?usp=drivesdk"
   },
   {
@@ -2047,7 +2089,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1leScaxrFAt6jcg_hDQOMk5PvbKGyPFfD/view?usp=drivesdk"
   },
   {
@@ -2060,7 +2102,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1lJ86kMhVsKMp0G9l1WPY60gbROJzPHxi/view?usp=drivesdk"
   },
   {
@@ -2073,7 +2115,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1U5jad0l0nlt04V4AtfIs7dkjhQyW-OvC/view?usp=drivesdk"
   },
   {
@@ -2086,7 +2128,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1xvL_0UoVifQTunAj6XGgrvzoBTUKE2mz/view?usp=drivesdk"
   },
   {
@@ -2099,7 +2141,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1a8MUb72f_g-n3jlYdaQX-vzY7Eapnz1d/view?usp=drivesdk"
   },
   {
@@ -2112,7 +2154,7 @@
       "Individuos, Sociedad y Humanidades",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1uwEBF-EscCejJpZ-ao73TihITjwzbksl/view?usp=drivesdk"
   },
   {
@@ -2125,7 +2167,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1tzjrVgY4qPfpdWblWF8O0dtUzJrVPPjR/view?usp=drivesdk"
   },
   {
@@ -2138,7 +2180,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1OsAmaLEOe1-1in-SKCr7M_e2QhJ2s1mr/view?usp=drivesdk"
   },
   {
@@ -2151,7 +2193,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ANZsQADIPJcMMHR4v_gJ-lZBz-uln2TF/view?usp=drivesdk"
   },
   {
@@ -2164,7 +2206,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1kwz6EFhsJyPY9y7AFvLKYTT5TCQozFM9/view?usp=drivesdk"
   },
   {
@@ -2177,7 +2219,7 @@
       "Artes, Expresión y Creatividad",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1n_Ia4qzcg8mI0cD36HRhaicHQrwa2bLh/view?usp=drivesdk"
   },
   {
@@ -2185,20 +2227,26 @@
     "correo": "A01726838@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1YCN1L-timYJsvJNt82uN1O6ZeE9f8Gec/view?usp=drivesdk"
   },
   {
     "nombre": "Jacobo Treviño Ovalle",
     "correo": "A01726849@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1RIz_6uF_aPra87QR4qC3T5ZGRZvHx0Hc/view?usp=drivesdk"
   },
   {
     "nombre": "Rebeca Alejandra Salgado Sánchez",
@@ -2210,7 +2258,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1dIuf355FrO5AK3CIce4l9lbnz8rrF8hH/view?usp=drivesdk"
   },
   {
@@ -2236,7 +2284,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1c07lrDW_bm_mTk88VzyQRfMtBZte5Th7/view?usp=drivesdk"
   },
   {
@@ -2275,7 +2323,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1uEbxpUWob8WQBRd3cGoQeeSn-EwRvCQX/view?usp=drivesdk"
   },
   {
@@ -2301,7 +2349,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Z9SqXf0-8u5Nfhygx5g4XMTpyZopiy7d/view?usp=drivesdk"
   },
   {
@@ -2327,7 +2375,7 @@
       "Individuos, Sociedad y Humanidades",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/18gFqijWRszcMBNlWZqFYKAp5H2YxxREK/view?usp=drivesdk"
   },
   {
@@ -2366,7 +2414,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1R6Bfmm3VZaHfVt43_C5ItQz9ynVfr-Ie/view?usp=drivesdk"
   },
   {
@@ -2405,7 +2453,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/19wJS4YiT8Oe3Tc4I8S83no-rGOP2aiyO/view?usp=drivesdk"
   },
   {
@@ -2418,7 +2466,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1wO3vRy8k2ZmQ9Bv0j-3YUxhR0TL4PUDg/view?usp=drivesdk"
   },
   {
@@ -2431,7 +2479,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/16j2IrnWjXjuZpTK0bsVSOzvbBiDHSK3-/view?usp=drivesdk"
   },
   {
@@ -2444,7 +2492,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1rryVcL7jkPQDW74VeLYyOxQBsOEshpkw/view?usp=drivesdk"
   },
   {
@@ -2457,7 +2505,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1KATvMK36sbVIo2frhr7OOz5SMOgVBrsC/view?usp=drivesdk"
   },
   {
@@ -2470,7 +2518,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1WQ2OsMuZwOsNt0zbczaPQ3BTfYcBNypV/view?usp=drivesdk"
   },
   {
@@ -2496,7 +2544,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/10MZMY9VMHG2j7pdZv4kbW11KhDRXsA_f/view?usp=drivesdk"
   },
   {
@@ -2896,7 +2944,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1xBc64h9mfLjQWnOQOcHFF-dXUS7az-6T/view?usp=drivesdk"
   },
   {
@@ -2932,7 +2980,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1gemITY-SmYg0-9R5KNpsNA3_WWH2UwpQ/view?usp=drivesdk"
   },
   {
@@ -2945,7 +2993,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1d6oN0ltDu5vUtwK1lmNjCsf2sdpsJEkx/view?usp=drivesdk"
   },
   {
@@ -2953,20 +3001,26 @@
     "correo": "A01726233@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1ot3PHq5SPqUHWTyXic_6MUDnybw6VdFj/view?usp=drivesdk"
   },
   {
     "nombre": "Anick Ruther Cruz",
     "correo": "A01726262@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1ZtAf2eNqQLmohU-TjRJ8smyPo3evEX8t/view?usp=drivesdk"
   },
   {
     "nombre": "Romina Sampogna Montemayor",
@@ -2978,7 +3032,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1OgIjkSC9f1negx41pQ7MkRGGDYyUqtMW/view?usp=drivesdk"
   },
   {
@@ -2991,7 +3045,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/10HSwZP5Xi2Noo2PCqNmen3_n7Q38bLmh/view?usp=drivesdk"
   },
   {
@@ -3004,7 +3058,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1gU134kkiekTOkLBECG9_zRm-SFhlqB-w/view?usp=drivesdk"
   },
   {
@@ -3017,7 +3071,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1VPSb7kt-a9XUfO5F-h-XGJJcw4FNIe81/view?usp=drivesdk"
   },
   {
@@ -3025,20 +3079,26 @@
     "correo": "A01726351@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1gBVfizRJbXo5Ykli3aAe0VbDCojzeKHC/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandra Luna Villarreal",
     "correo": "A01726370@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1DAPXVjO_Yx8RBmSfl6DKOXUoIH00fHEv/view?usp=drivesdk"
   },
   {
     "nombre": "Antonio Acuña Luévano",
@@ -3058,10 +3118,13 @@
     "correo": "A01726379@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1L4TYYrWoAt629UQ_Ykmev9Z4KDQdRVI5/view?usp=drivesdk"
   },
   {
     "nombre": "David Herrera Garza",
@@ -3073,7 +3136,7 @@
       "Individuos, Sociedad y Humanidades",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1F4sx2OumNKKMNVkZ4fXO8NUH-qdFHRsz/view?usp=drivesdk"
   },
   {
@@ -3086,7 +3149,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ylajOVbi4k9fqUVs7R-q5M5jevstEuJG/view?usp=drivesdk"
   },
   {
@@ -3099,7 +3162,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1YF4eBQLYshBOD-vdG67zgmI5L2uVVnWQ/view?usp=drivesdk"
   },
   {
@@ -3112,7 +3175,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1xuMBcIJbpZD1_o_3KBtA_JDLEc5U_Mah/view?usp=drivesdk"
   },
   {
@@ -3120,10 +3183,13 @@
     "correo": "A01726438@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1kvVy7bnkPUvNb7-3g2IH4g6VJC4lIe_3/view?usp=drivesdk"
   },
   {
     "nombre": "Carolina Guerra Peña",
@@ -3135,7 +3201,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/158TBx64Udy-Ey2UkltLf5acswYGXFWN8/view?usp=drivesdk"
   },
   {
@@ -3174,7 +3240,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1YZomkjNMnc-JyCLZLOrJPmtaTBZg20An/view?usp=drivesdk"
   },
   {
@@ -3195,10 +3261,13 @@
     "correo": "A01726654@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1gkWsCCrqn3FC_z8wfgSBLr3-1V_-HSHN/view?usp=drivesdk"
   },
   {
     "nombre": "Roxana Lizet Garza Treviño",
@@ -3210,7 +3279,7 @@
       "Individuos, Sociedad y Humanidades",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1lzOFwZvUt0tRMHp3EBhSublz66utftB1/view?usp=drivesdk"
   },
   {
@@ -3218,20 +3287,26 @@
     "correo": "A01726853@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1lg3SR2anRxVo9IJRvQEEsusH7AJRqfdZ/view?usp=drivesdk"
   },
   {
     "nombre": "Seongwon Ha",
     "correo": "A01726867@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Ana Fernanda De la Paz Martínez",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1ykMeWc5sMxp4RMb3blGsVS_9ghi_84uA/view?usp=drivesdk"
   },
   {
     "nombre": "Esteban Durán Cetina",
@@ -3256,7 +3331,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1knImM9wpkz3dJnU-Hb0ltVpfODqTF0wP/view?usp=drivesdk"
   },
   {
@@ -3295,7 +3370,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1wWmejgEvHiIa7B31U6dpDbnwIKdubZ2e/view?usp=drivesdk"
   },
   {
@@ -3303,10 +3378,13 @@
     "correo": "A01726281@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1DEWZ82DCXbdTSfEEtue2Lrh6bgxn58E7/view?usp=drivesdk"
   },
   {
     "nombre": "Rebeca Corona Licea",
@@ -3318,7 +3396,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1-IpJFVPjj95gMPzTVGyhCLEqnFOLaoJa/view?usp=drivesdk"
   },
   {
@@ -3409,7 +3487,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1s77UfTtSiuOjkZyzX4iK4FZPfVaUBE4l/view?usp=drivesdk"
   },
   {
@@ -3427,10 +3505,13 @@
     "correo": "A01726581@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1iMM90NjRtiXezdjJBLNlRVrNJR9XUK-K/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Noriega Leal",
@@ -3455,7 +3536,7 @@
       "Artes, Expresión y Creatividad",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1QbyAEJSZiMaeBsZ6DIrN3n6aE98rjBce/view?usp=drivesdk"
   },
   {
@@ -3476,10 +3557,13 @@
     "correo": "A01726655@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1BlxGsNH-jq7fsSivOeSkCTIi184x-dhA/view?usp=drivesdk"
   },
   {
     "nombre": "Carmina Brunell Gutiérrez",
@@ -3504,7 +3588,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ukNwb3deBqeqlSO2xgsVSYmT91KtyzwI/view?usp=drivesdk"
   },
   {
@@ -3525,20 +3609,26 @@
     "correo": "A01726768@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1uiH2izGpCt0JPLkKmPqSikFcPqpaJrmt/view?usp=drivesdk"
   },
   {
     "nombre": "Daniel González Guerra",
     "correo": "A01726779@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1nd6fqQFclKE0qKODsXU_0KuYV0dMWomB/view?usp=drivesdk"
   },
   {
     "nombre": "Juan Pablo Zamudio Salazar",
@@ -3584,10 +3674,13 @@
     "correo": "A01726823@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/141nV05YR9maBVolIfdHRygWd65nld21S/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Gabriel Ochoa Ortegón",
@@ -3607,10 +3700,13 @@
     "correo": "A01726139@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1T9ZKAMttob8nUgKLOVYVCxCLabBsLk4P/view?usp=drivesdk"
   },
   {
     "nombre": "Leonardo Garza Delgado",
@@ -3635,7 +3731,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ayEig1DVxoMiInO3MesICTjz7dMcVn1Q/view?usp=drivesdk"
   },
   {
@@ -3661,7 +3757,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1u-J1myNXFhv5fV9MCvKfmXacLCET13Yn/view?usp=drivesdk"
   },
   {
@@ -3687,7 +3783,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1jZGpKfaggcNWavA1EIYHdFuNL9NVSLaa/view?usp=drivesdk"
   },
   {
@@ -3708,10 +3804,13 @@
     "correo": "A01726374@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1zVxOq8UDMquFakT2Zj_mRN2m0FDZN3PS/view?usp=drivesdk"
   },
   {
     "nombre": "Regina Delgado González",
@@ -3772,7 +3871,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/14MUqQpwqncsZzUnBhDvR6h0UIz1SmFV9/view?usp=drivesdk"
   },
   {
@@ -3803,10 +3902,13 @@
     "correo": "A01726568@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Roberta Elizondo González",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/15Nf84W9YxAvki-DBfCmN6YQBrLwPOQ9J/view?usp=drivesdk"
   },
   {
     "nombre": "Carmen Estefanía Rey Sánchez",
@@ -3883,7 +3985,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1yUsHr3V_0Kja5sQzMN-JSOquN_hBTgrN/view?usp=drivesdk"
   },
   {
@@ -3896,7 +3998,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1IAnI25_M4-Fh3JHIZP8YHtw7Rq-W5nT-/view?usp=drivesdk"
   },
   {
@@ -3909,7 +4011,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1e_uCoNDGpWAEU9amSwRfmhzFMR5ppKUp/view?usp=drivesdk"
   },
   {
@@ -3935,7 +4037,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1CZo9_Jh8Ub3r5NqLT38eZGcfz342zqp0/view?usp=drivesdk"
   },
   {
@@ -3948,7 +4050,7 @@
       "Ciencias Naturales y Experimentales",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1WWrSbqBANGxhKQuGyf9GbTsMsP4Hh86t/view?usp=drivesdk"
   },
   {
@@ -3961,7 +4063,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1bj9QeeTP_9LAT5aglFbvHh5b7HdujkFp/view?usp=drivesdk"
   },
   {
@@ -3969,10 +4071,13 @@
     "correo": "A01179900@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1se1WfKXzy9r79xWbKV6sGraDDf108hve/view?usp=drivesdk"
   },
   {
     "nombre": "Ana Beatriz Tenorio Van Der Linden",
@@ -3997,7 +4102,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1vYm-Z6KO9jfuz-DhZXmwgI4jXQm6kJC3/view?usp=drivesdk"
   },
   {
@@ -4018,20 +4123,26 @@
     "correo": "A01726112@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1RVAj66qEuwPo7xuoPNp4tBIJ6ZUedH9f/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria Martínez Romero",
     "correo": "A01726153@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/14vVyScLYcb014lZHsq1A6hR-yilZpgiw/view?usp=drivesdk"
   },
   {
     "nombre": "Regina Sánchez Madero",
@@ -4051,10 +4162,13 @@
     "correo": "A01726171@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1z-h8F5jyLLNGdLvKdcTilrCA9ZzK0Zl8/view?usp=drivesdk"
   },
   {
     "nombre": "Valeria María Saenz",
@@ -4084,10 +4198,13 @@
     "correo": "A01726205@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1ll6OAZ3_gMOYgLBMvBRk7y2KI5-xoXmf/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Larraguibel Quiroga",
@@ -4099,7 +4216,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/111O85c49Twt4cLNKlUwubF4dJ_z6VYZz/view?usp=drivesdk"
   },
   {
@@ -4107,10 +4224,13 @@
     "correo": "A01726298@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Bbs37Z9h9o9w9HvMSFUb8LbLG4DXPmXh/view?usp=drivesdk"
   },
   {
     "nombre": "Roberto Noriega Abramo",
@@ -4122,7 +4242,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1YOaKzV4780dnyBiwNhdQsgBtlBL6nh-x/view?usp=drivesdk"
   },
   {
@@ -4135,7 +4255,7 @@
       "Artes, Expresión y Creatividad",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/11eNopftGDBkVCmvL-kKaEiO7r6WZLheV/view?usp=drivesdk"
   },
   {
@@ -4156,10 +4276,13 @@
     "correo": "A01726630@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/10qRDk1-GfyflAK6AQVQ3a1gR7rmRc1KH/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandra Marín González",
@@ -4184,7 +4307,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1zjqdhOLK0bqt5P_WGBdi6KaIt_5jgYy4/view?usp=drivesdk"
   },
   {
@@ -4192,10 +4315,13 @@
     "correo": "A01726695@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1TXg9yp_iSfFd5FdPhAT-uKu8mcphFHJF/view?usp=drivesdk"
   },
   {
     "nombre": "Roberta López de la Parra De la Garza",
@@ -4212,40 +4338,52 @@
     "correo": "A01726805@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1F24NhF1-2DKvukW-2JbPv2dsSq1tFXVt/view?usp=drivesdk"
   },
   {
     "nombre": "Grettel Fernández Gracida",
     "correo": "A01726814@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Au7vuMQN8XRtRLOeBWVwQfdkKFGHaLyU/view?usp=drivesdk"
   },
   {
     "nombre": "Fernanda Lozano Garza",
     "correo": "A01726824@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1q_DNzU67uF0Y9fXSwumilS978ZEKLCpg/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Plascencia Mulia",
     "correo": "A01726832@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Alejandra Guzmán Favela",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1o00hEE8lnGQrZ4MWVhIwktYrCdBHAi-8/view?usp=drivesdk"
   },
   {
     "nombre": "Nina García Karren",
@@ -4267,7 +4405,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1JY1dZhz0sWy-8pWiAZoCOEqjoe2YpbYz/view?usp=drivesdk"
   },
   {
@@ -4288,20 +4426,26 @@
     "correo": "A01726317@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1O8EN-lopmw-GURdODhiIc6k_zUHSF-Fo/view?usp=drivesdk"
   },
   {
     "nombre": "Fernando Sánchez Villarreal",
     "correo": "A01726340@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1irdulN74CbF1Z9kQoYDRtzZsblZynIje/view?usp=drivesdk"
   },
   {
     "nombre": "Sophia González Gutiérrez",
@@ -4318,10 +4462,13 @@
     "correo": "A01726424@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1d94J2fZYRvlEnji2qc62VCVcv8dp__8L/view?usp=drivesdk"
   },
   {
     "nombre": "Natalia Garza Galván",
@@ -4348,10 +4495,13 @@
     "correo": "A01726622@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1NXph91nV4Mz36I8pBIWcPvcrHQjRGaxt/view?usp=drivesdk"
   },
   {
     "nombre": "Camila Cantú Torres",
@@ -4363,7 +4513,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1KE09sevyBVgHKN3I9_ZGTKPXKgydDobm/view?usp=drivesdk"
   },
   {
@@ -4381,40 +4531,52 @@
     "correo": "A01726679@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1mOg4Lrq_50wH8w9JwiD0fOcOxsoZ91Eq/view?usp=drivesdk"
   },
   {
     "nombre": "Gabriel Zivec Miranda",
     "correo": "A01726686@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1-L4WfqT7KwCqzrK-tlLKlawDoOqivpty/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Ramírez Guevara",
     "correo": "A01726708@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ebYZYkVt8_oNC5oqoWbWegRd4adUmgv0/view?usp=drivesdk"
   },
   {
     "nombre": "Pablo Farías",
     "correo": "A01726712@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1unwKXFWzsSX-oBMU93qIwm6UiSm9eRZ1/view?usp=drivesdk"
   },
   {
     "nombre": "Samuel Peña Chapa",
@@ -4441,10 +4603,13 @@
     "correo": "A01726766@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1R5Y8P1VBeG4epmZ54K7hPTq-NNZIsPHY/view?usp=drivesdk"
   },
   {
     "nombre": "José Naeem Pannasiri Mendoza Carmona",
@@ -4456,7 +4621,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Qkt4qYqCz5LBiztBx6u0zT7EvStypU1w/view?usp=drivesdk"
   },
   {
@@ -4464,10 +4629,13 @@
     "correo": "A01726780@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Jwn_masaPOm39EqjYSuLN4t8wgqlaMu3/view?usp=drivesdk"
   },
   {
     "nombre": "Bruno Flores Yáñez",
@@ -4479,7 +4647,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1m7GZPmk6_kMp_FPlAwGTpZPN6lZMQW0c/view?usp=drivesdk"
   },
   {
@@ -4507,10 +4675,13 @@
     "correo": "A01726819@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1iwSok0ZvKRKpPGJ_s4qqYIKF2OA8UylG/view?usp=drivesdk"
   },
   {
     "nombre": "Rodrigo Emilio González De la Garza",
@@ -4522,7 +4693,7 @@
       "Lengua, Literatura y Comunicación",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1D9D_HRW8WeFa7PfIT6FS29ekQLNobAER/view?usp=drivesdk"
   },
   {
@@ -4540,10 +4711,13 @@
     "correo": "A01726877@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/13-rfe-7vFiXpLm7Y8x37Lc9czKsCwWfd/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Hernández Préstamo",
@@ -4565,7 +4739,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1CRt2mMn3pRsAuhjtNsYH7GI_jCKeMxqT/view?usp=drivesdk"
   },
   {
@@ -4578,7 +4752,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1owzNJOWwFznIGUmOgMxnBxZs75SbS25p/view?usp=drivesdk"
   },
   {
@@ -4756,10 +4930,13 @@
     "correo": "A01726696@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1n4NzqNTEJC4yV-9-0KNSGir5vIo8gxI3/view?usp=drivesdk"
   },
   {
     "nombre": "Valentina Flores Marroquín",
@@ -4789,10 +4966,13 @@
     "correo": "A01726718@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1gi8G-jXcKD_EG-RLqGN04uPxaD_XKbnd/view?usp=drivesdk"
   },
   {
     "nombre": "Daniela María Cueva Hernández",
@@ -4912,7 +5092,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1jVbaFm2A-2PlmzF-qtPDcmnAkXOcGpH3/view?usp=drivesdk"
   },
   {
@@ -4925,7 +5105,7 @@
       "Individuos, Sociedad y Humanidades",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1B0Dic34PZhL1vxE3ffjfcZv5lIZCkyA5/view?usp=drivesdk"
   },
   {
@@ -4951,7 +5131,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1EegSD3VD1NucnXHeEd_ZIvVIxd9fyvWX/view?usp=drivesdk"
   },
   {
@@ -4964,7 +5144,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1hZmsufjqKD_HgBgZtmkYDLwE2h5LkNIB/view?usp=drivesdk"
   },
   {
@@ -4977,7 +5157,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1rEMdeIWXEIep8SRWmwv86FD0J5mP8BMS/view?usp=drivesdk"
   },
   {
@@ -4990,7 +5170,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/11f26JW2N7VediH4cjZmhIHQby69qcv_A/view?usp=drivesdk"
   },
   {
@@ -5003,7 +5183,7 @@
       "Artes, Expresión y Creatividad",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1E-dL07pwma9iTBvAA9SZ1skH2NhgdzK3/view?usp=drivesdk"
   },
   {
@@ -5016,7 +5196,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1FXKFVScq4dImFu_qoDBZMtc5OL4pKJ18/view?usp=drivesdk"
   },
   {
@@ -5029,7 +5209,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1x4q_lLKEsxeZrmGsaxDJ0TVo4LQXCpzE/view?usp=drivesdk"
   },
   {
@@ -5055,7 +5235,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/18Vqq9er9cnnjnCDgm_stJXbXRqzQKAdH/view?usp=drivesdk"
   },
   {
@@ -5081,7 +5261,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1il9g-ZtFnUGKZ168jZdFktJ0eLh_jA7q/view?usp=drivesdk"
   },
   {
@@ -5094,7 +5274,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1UusD2NR8AAc7A3ALVeNeG4O2C5gRqxF7/view?usp=drivesdk"
   },
   {
@@ -5107,7 +5287,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/158-TFlbYRzh-_-HdDPTRD918a7C8Wxd_/view?usp=drivesdk"
   },
   {
@@ -5120,7 +5300,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1C_TOI_dYHp3I9aA5yKzL3lL5oFAyUh36/view?usp=drivesdk"
   },
   {
@@ -5146,7 +5326,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1XRqO1mvgyihfeE3DQqCR1JYix3I7gDMI/view?usp=drivesdk"
   },
   {
@@ -5159,7 +5339,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ySTYdcN2rK1L13JU3_Lirek63cv3cdb_/view?usp=drivesdk"
   },
   {
@@ -5172,7 +5352,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/14nduKg8mWL3Bdi53MM3h9LaL4QEEf5Xb/view?usp=drivesdk"
   },
   {
@@ -5211,7 +5391,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1C4ZnIHgiPrFgXK1g7DckIa4IdrKPWD91/view?usp=drivesdk"
   },
   {
@@ -5224,7 +5404,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/17a0MIu7iOgRjWzRxIXFNTf2W0Biu9rOm/view?usp=drivesdk"
   },
   {
@@ -5232,10 +5412,13 @@
     "correo": "A01726628@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1b-y8YuvnHiUjB9Dl_o4is9WTg6OpkGBf/view?usp=drivesdk"
   },
   {
     "nombre": "Miguel Angel Gonzalez Saldaña",
@@ -5247,7 +5430,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1V7Ar4RhGfj1Q2YOuwGnFZ557LPrRwNOQ/view?usp=drivesdk"
   },
   {
@@ -5260,7 +5443,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1EKiSZxbgivvv7jrb_JfoFbSRKiKsitg1/view?usp=drivesdk"
   },
   {
@@ -5273,7 +5456,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/108In4He01YQyn8-6NqDJ2Ivk9fzwbVD2/view?usp=drivesdk"
   },
   {
@@ -5286,7 +5469,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/19nF3cFle135yhBTpS8SMGWzkprU7V4g-/view?usp=drivesdk"
   },
   {
@@ -5294,10 +5477,13 @@
     "correo": "A01726142@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/10HwqmeRUG6KufZ3zK-9br3-9vSMUK23G/view?usp=drivesdk"
   },
   {
     "nombre": "André González Lojero",
@@ -5314,20 +5500,26 @@
     "correo": "A01726208@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Matemáticas y Pensamiento Lógico"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1yZkSN_vdrfFGg1Lk2jJlcuNANktHUWVK/view?usp=drivesdk"
   },
   {
     "nombre": "Daniel Narváez Nogal",
     "correo": "A01726223@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1hej_UVlHfNbZLSJ0zFv6AHDFU3e4_Lj_/view?usp=drivesdk"
   },
   {
     "nombre": "Alexa Gallardo Pozos",
@@ -5339,7 +5531,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ZKM59ZuiDFPdMs1xLRzmVY4qJb4vEfkX/view?usp=drivesdk"
   },
   {
@@ -5357,20 +5549,26 @@
     "correo": "A01726275@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/16PmycA1-6D-QR6o_9g3zFwI2Yx1g9Bc_/view?usp=drivesdk"
   },
   {
     "nombre": "Sofía Sada Urquiza",
     "correo": "A01726321@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1mFxCPI0SwbFhZpE0CN1Yh6HXtHolCjdl/view?usp=drivesdk"
   },
   {
     "nombre": "Soyoun Chung Kim",
@@ -5382,7 +5580,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1uUZH56OOCsVqtB3f4TblxntdctaaWzkT/view?usp=drivesdk"
   },
   {
@@ -5395,7 +5593,7 @@
       "Artes, Expresión y Creatividad",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1i8oRg2EjFGb1Wb99exQBcLkwN6WJUgDN/view?usp=drivesdk"
   },
   {
@@ -5403,10 +5601,13 @@
     "correo": "A01726367@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Cary35nmJvBoSaJ8COLYH4_Ymm6XUzHn/view?usp=drivesdk"
   },
   {
     "nombre": "Daniela Garza Salinas",
@@ -5418,7 +5619,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Zfrc5cDP6gv3fvIyzP78_fbW5Uj-7Iw3/view?usp=drivesdk"
   },
   {
@@ -5431,7 +5632,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1uaTiL5DgNLTgidJEALH3AZ7pW_JDHwi6/view?usp=drivesdk"
   },
   {
@@ -5439,10 +5640,13 @@
     "correo": "A01726442@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lengua, Literatura y Comunicación"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1QIy-sR97Xer7AuQgm-W1AUYJPlvk5Anz/view?usp=drivesdk"
   },
   {
     "nombre": "Victoria Castillo Ollé",
@@ -5454,7 +5658,7 @@
       "Individuos, Sociedad y Humanidades",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1uFQ2--KIGyq19WW0hhR0SllREJb_9X67/view?usp=drivesdk"
   },
   {
@@ -5462,20 +5666,26 @@
     "correo": "A01726446@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1McOLfCIr0eWSSsV3guP2RGjOQUmkTIUS/view?usp=drivesdk"
   },
   {
     "nombre": "Fernanda García Serna",
     "correo": "A01726455@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1NIudGVqTaFkCZOfIc1LABjCwVjGWFme5/view?usp=drivesdk"
   },
   {
     "nombre": "Alejandro Flores Flores",
@@ -5487,7 +5697,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1zWyCEHyfyULEQ1yupETmVswGOwZIHVn-/view?usp=drivesdk"
   },
   {
@@ -5495,10 +5705,13 @@
     "correo": "A01726528@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1lgWqKl4J0vd8Lv7-4y-xB0oGFgbEv3ce/view?usp=drivesdk"
   },
   {
     "nombre": "Eduardo Calderoni González",
@@ -5510,7 +5723,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1mNMuW2wBYbmX_L4J5omFaic4tKnoRFij/view?usp=drivesdk"
   },
   {
@@ -5538,70 +5751,91 @@
     "correo": "A01726650@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/12xjW6GXkMcHCCqB1Rg0xkK2z9vsf1jMP/view?usp=drivesdk"
   },
   {
     "nombre": "Dante Pérez Mireles",
     "correo": "A01726683@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1asFrQBaSIpCJMVuzZO1ijNNX2i-mLZHF/view?usp=drivesdk"
   },
   {
     "nombre": "Valentina Castaño Romo",
     "correo": "A01726732@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1cB0x3T6216EU1bWiQBPDyJ8Qe9uwJwN3/view?usp=drivesdk"
   },
   {
     "nombre": "Valentino Arreaga García",
     "correo": "A01726767@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1qF6j-duc7iBnnerC5I5K3pPbwagqx_Sl/view?usp=drivesdk"
   },
   {
     "nombre": "Mateo Martínez Ayala",
     "correo": "A01726782@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1SYmnUKy78nKO0IjOlJD3EU-Tgvu6cljm/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Ganem Stenner",
     "correo": "A01726826@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Matemáticas y Pensamiento Lógico"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ztgGudXESJak4TSzTPs1VV3nBGUWcV6G/view?usp=drivesdk"
   },
   {
     "nombre": "Guillermo López Sánchez",
     "correo": "A01726828@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Ciencias Naturales y Experimentales"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/17mWRvSQI23mb7KXqJgLduMVWMZ2BHn_1/view?usp=drivesdk"
   },
   {
     "nombre": "Roberto Martínez Cantú",
@@ -5613,7 +5847,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ut7Q5H3UCsmTwZGVwS9wqp5UJxDfqrxa/view?usp=drivesdk"
   },
   {
@@ -5621,10 +5855,13 @@
     "correo": "A01726835@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1E7rmUUcToxQjnScEWK8lFGDtge-7rSty/view?usp=drivesdk"
   },
   {
     "nombre": "Jongwoo Mun",
@@ -5701,7 +5938,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1T152XrkeHH-Ix4o0bYu-_EhaRRtqfKTD/view?usp=drivesdk"
   },
   {
@@ -5792,7 +6029,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/19KUKBT8oiY1ef3InsEiqq0Y_THDXwrDJ/view?usp=drivesdk"
   },
   {
@@ -5844,7 +6081,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1PDA1dgsukla17Fdip_XvUAmGfNTBZL5F/view?usp=drivesdk"
   },
   {
@@ -5870,7 +6107,7 @@
       "Individuos, Sociedad y Humanidades",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Y81gJLHK6lQLyj_ZJRkFZu32fozdxols/view?usp=drivesdk"
   },
   {
@@ -5909,7 +6146,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1JgpN_7K9RA0evWYWrnj6xADWO8jRpBDL/view?usp=drivesdk"
   },
   {
@@ -6026,7 +6263,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/13-4oD5SuI0iM5DQO--U9cXtS-BNiUBvi/view?usp=drivesdk"
   },
   {
@@ -6039,7 +6276,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1IVGQ9X92uBTKgWZJ9UpjHEmr6x-SSrqz/view?usp=drivesdk"
   },
   {
@@ -6078,7 +6315,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Lg-yiEPL3NHj_xM8Q52s-MGrv7Q7HwSz/view?usp=drivesdk"
   },
   {
@@ -6091,7 +6328,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1piKbto5_g2-Z93H9FUaGDdiV-ZgnUoQJ/view?usp=drivesdk"
   },
   {
@@ -6104,7 +6341,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1vv5ZPu8Qpc-cVwbUZTvQiF63O3hjOQgx/view?usp=drivesdk"
   },
   {
@@ -6117,7 +6354,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1gzXhoP_tgVNZ2kK4WVmfcmk8miE3boKl/view?usp=drivesdk"
   },
   {
@@ -6130,7 +6367,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1UVPHWIeHv3HIWce4CA9k0-KXgZEv8x-F/view?usp=drivesdk"
   },
   {
@@ -6143,7 +6380,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Zc9SliKueGAUQM1dGH7tcIhe03iLN4nU/view?usp=drivesdk"
   },
   {
@@ -6156,7 +6393,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1KgR3irlff2_ikIyd9ie33uC2XXucsGD0/view?usp=drivesdk"
   },
   {
@@ -6169,7 +6406,7 @@
       "Artes, Expresión y Creatividad",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1BBlhxlXGrPt_2_TC7A5_Rt6RoJKDBcZM/view?usp=drivesdk"
   },
   {
@@ -6182,7 +6419,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1f6rg9nMQhKdNGZ7L1HKlskxCoQvboRtJ/view?usp=drivesdk"
   },
   {
@@ -6208,7 +6445,7 @@
       "Artes, Expresión y Creatividad",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1l3JWup12_SWZHQu45tGi2kDZjP65dQ-p/view?usp=drivesdk"
   },
   {
@@ -6221,7 +6458,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1k5v1V74HLS3c4k6eNiPndbGl6uJYm2Db/view?usp=drivesdk"
   },
   {
@@ -6234,7 +6471,7 @@
       "Individuos, Sociedad y Humanidades",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1K78waYglIUhmwAg5k845J5J6mespvx41/view?usp=drivesdk"
   },
   {
@@ -6260,7 +6497,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1_RXw-3gJOgM8RPeMzLXlVGR9-r3GR4xg/view?usp=drivesdk"
   },
   {
@@ -6273,7 +6510,7 @@
       "Lengua, Literatura y Comunicación",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1tH96miwWScoyeaKS0GvyNBoQFK7xjXwe/view?usp=drivesdk"
   },
   {
@@ -6299,7 +6536,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1uMwWbsk7ym-Elymk1fqM-1Nbc9M8XDh5/view?usp=drivesdk"
   },
   {
@@ -6312,7 +6549,7 @@
       "Artes, Expresión y Creatividad",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1KUfHgvJVEqgbzrBmhu_tO7At9Mjf_nOp/view?usp=drivesdk"
   },
   {
@@ -6325,7 +6562,7 @@
       "Artes, Expresión y Creatividad",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1i5GGugsB7hb5AXDbLl8E6Iyv95-BEtHT/view?usp=drivesdk"
   },
   {
@@ -6351,7 +6588,7 @@
       "Individuos, Sociedad y Humanidades",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1qLQ53tmmBIyHc3w2IKiSsJPkq3BTZbUz/view?usp=drivesdk"
   },
   {
@@ -6364,7 +6601,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/13AecHTSAT2CA_JedBC7MvZ_psz9-dL_h/view?usp=drivesdk"
   },
   {
@@ -6377,7 +6614,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1JP718J5xEnWimfCNfJEE90myBJKxAPYm/view?usp=drivesdk"
   },
   {
@@ -6390,7 +6627,7 @@
       "Lenguas y Culturas Extranjeras",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ZD2AgSegIajjdk_w0738JQw009RFc_qe/view?usp=drivesdk"
   },
   {
@@ -6424,10 +6661,13 @@
     "correo": "A01726123@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_If7lyEz1Sbkt-xNZMhJYufZgsykuheh/view?usp=drivesdk"
   },
   {
     "nombre": "Renata Puente",
@@ -6467,10 +6707,13 @@
     "correo": "A01726201@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1VcE336Ut1LaFwdtNLba3zB_UNWTtpOvY/view?usp=drivesdk"
   },
   {
     "nombre": "Sofía Ocejo Garza",
@@ -6533,20 +6776,26 @@
     "correo": "A01726323@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1areQvJHPnyg4Zx6GwfV5PXm484bnBEvq/view?usp=drivesdk"
   },
   {
     "nombre": "Lorenzo De la Garza Garza",
     "correo": "A01726403@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1YMYkiyOPikcJY1JrEe_tkm3bCvfhnJ5N/view?usp=drivesdk"
   },
   {
     "nombre": "Rebeca Esmeralda Martínez Alanís",
@@ -6566,10 +6815,13 @@
     "correo": "A01726462@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1uUikkV_Mmdbk43kgTelEFkQzV0iP-m9r/view?usp=drivesdk"
   },
   {
     "nombre": "Carmina García Sánchez",
@@ -6602,30 +6854,39 @@
     "correo": "A01726578@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1-zeh57_HtXx5oJ_Nm1UNjT_tC4Gm3DmH/view?usp=drivesdk"
   },
   {
     "nombre": "Natalia Villarreal Flores",
     "correo": "A01726590@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Ub-soumTLhiiVcieQm4yRpaXXpjsDSvj/view?usp=drivesdk"
   },
   {
     "nombre": "Ariella Elizabeth Cantú Núñez",
     "correo": "A01726611@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Artes, Expresión y Creatividad",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1q02OcgZLLOi9BWfGNDyaQh4ZUgnsS7ol/view?usp=drivesdk"
   },
   {
     "nombre": "Eva Sada Mesta",
@@ -6645,8 +6906,11 @@
     "correo": "A01726643@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "En progreso",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
     "reporte": null
   },
@@ -6680,7 +6944,7 @@
       "Ciencias Naturales y Experimentales",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1y5uCGE5ukWDHn2MovMfB3InLKMak3VGA/view?usp=drivesdk"
   },
   {
@@ -6711,10 +6975,13 @@
     "correo": "A01816049@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1qPmUnyj_388NmY6RxQASDy_Qrt5YqdeV/view?usp=drivesdk"
   },
   {
     "nombre": "Elda Regina Garza Vázquez",
@@ -6726,7 +6993,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Cf_n6Ug5VAUvUgzE48VmZ5lwvcHIFWhh/view?usp=drivesdk"
   },
   {
@@ -6752,7 +7019,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1hNVg3ziEOxAYafmQ8pUFfV7pz9DdNMqQ/view?usp=drivesdk"
   },
   {
@@ -6804,7 +7071,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ppn8Rs2RRbsi0BwlVxrF_JFiSSDBe4ZH/view?usp=drivesdk"
   },
   {
@@ -6879,7 +7146,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1sWpON3e4bVYkLoi1FCwVmmM_EhiT3neh/view?usp=drivesdk"
   },
   {
@@ -6918,7 +7185,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1hADyd0CkbjU4bZINYkllByKimgF-fhtW/view?usp=drivesdk"
   },
   {
@@ -6931,7 +7198,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1z2iGYO8EZ_O-M9Yqei81jZCh3lpXZmM0/view?usp=drivesdk"
   },
   {
@@ -6944,7 +7211,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/187bJLdOgmEZohRD49olAkm7yWKbpCQSw/view?usp=drivesdk"
   },
   {
@@ -6970,7 +7237,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1c2O30_7CZP9-rm27-VfalV90ikn51r8N/view?usp=drivesdk"
   },
   {
@@ -6983,7 +7250,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/18cNYTsaBMGYJMtOkwbHCJoLimG8ILTA2/view?usp=drivesdk"
   },
   {
@@ -6996,7 +7263,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/19JDIgdEWTY3hf8JHNpUTxz50nE3GgFrn/view?usp=drivesdk"
   },
   {
@@ -7017,10 +7284,13 @@
     "correo": "A01726530@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Deborah Andrea Lozano Zubiate",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/10xGlzAxtclnHoBuehDpCIJu0cEnbAmcA/view?usp=drivesdk"
   },
   {
     "nombre": "Santiago Morton De la Rosa",
@@ -7032,7 +7302,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1XAHfcSEJsx5zKmOtD285CTMUGCI2whcM/view?usp=drivesdk"
   },
   {
@@ -7071,7 +7341,7 @@
       "Artes, Expresión y Creatividad",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Qc_zrYk2hKl3-S2hPXOR60oc8Q59mSZq/view?usp=drivesdk"
   },
   {
@@ -7084,7 +7354,7 @@
       "Lengua, Literatura y Comunicación",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1bcLRCRDxXmLCi6htqsRRgrme3Yb4PM8X/view?usp=drivesdk"
   },
   {
@@ -7097,7 +7367,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/17wlCfRB2fqM3ji-hq0SGom09vQOmrYVR/view?usp=drivesdk"
   },
   {
@@ -7110,7 +7380,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1fSkwhe-NSLonZEHoGPqpUBnEnZ_tQmhY/view?usp=drivesdk"
   },
   {
@@ -7123,7 +7393,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ey0Q7bRsgfABg9C0z6nV8ksWP3EUB2Ub/view?usp=drivesdk"
   },
   {
@@ -7136,7 +7406,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1RIg178dhHtSvhKMK7pMZ1XM-sihCfwij/view?usp=drivesdk"
   },
   {
@@ -7149,7 +7419,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/12u7eYzlP9zq-U1zdiGCytqnPtJnpVxSd/view?usp=drivesdk"
   },
   {
@@ -7162,7 +7432,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1_HVos_y4AAW5QbYdhl94cotCGBJD4gaQ/view?usp=drivesdk"
   },
   {
@@ -7175,7 +7445,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1S2hONhuQhL-ehJ4OOZyRcs0MorNgGY55/view?usp=drivesdk"
   },
   {
@@ -7188,7 +7458,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1WwoY3wNDn3TFwAPZAjR5GzHehBKdqu5W/view?usp=drivesdk"
   },
   {
@@ -7201,7 +7471,7 @@
       "Ciencias Naturales y Experimentales",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1pmZWE6JYZIWv2dAgh6Ec6bV_I3yZXz_d/view?usp=drivesdk"
   },
   {
@@ -7214,7 +7484,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1kXvXN7Camr3m_hNBkeQOUX9PsGgZHYM3/view?usp=drivesdk"
   },
   {
@@ -7227,7 +7497,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1XfoQzX61Tv5dEEh82OzvX3Gzj6JH1Bsu/view?usp=drivesdk"
   },
   {
@@ -7240,7 +7510,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1nQsMPp3bmjAWi0t1FbKQaFqSCb-zwYiO/view?usp=drivesdk"
   },
   {
@@ -7253,7 +7523,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1AENHa62rvj_h2VEWrFT1MzZ6uZy5vYFZ/view?usp=drivesdk"
   },
   {
@@ -7266,7 +7536,7 @@
       "Artes, Expresión y Creatividad",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1-ptW3tt9G0NF1BGL5V9hkj2SzY8QW3xk/view?usp=drivesdk"
   },
   {
@@ -7279,7 +7549,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1uOFZ8GnjWBQg-UNEymmJgU4tfNu0gPpq/view?usp=drivesdk"
   },
   {
@@ -7292,7 +7562,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Xyb87ZImlFhwiz4iUMMJGSynpS_4unAX/view?usp=drivesdk"
   },
   {
@@ -7305,7 +7575,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1_TmWDfkQIMHY3i2Fv0QkZKUxxsBfK52e/view?usp=drivesdk"
   },
   {
@@ -7318,7 +7588,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1IW3vL8vwTXHfvNjhmB_Zwm4pLlHJoWIX/view?usp=drivesdk"
   },
   {
@@ -7331,7 +7601,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1etGlpwVw7oz5L3g_7r2zOfeB3Kdc7U3k/view?usp=drivesdk"
   },
   {
@@ -7344,7 +7614,7 @@
       "Individuos, Sociedad y Humanidades",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/13VcvDEOY5I4ogioE-8z-264nB4i1ZJw4/view?usp=drivesdk"
   },
   {
@@ -7357,7 +7627,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/17fbE7IQFrLiUzrypkh6-oJjkd-NGgfa0/view?usp=drivesdk"
   },
   {
@@ -7383,7 +7653,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1rEG3ibRn5OiXskfLTjHDSFmgRGa2W9i2/view?usp=drivesdk"
   },
   {
@@ -7396,7 +7666,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1fPbU9-IYv-u6EUChYvzsYG3L9UCHNAWc/view?usp=drivesdk"
   },
   {
@@ -7409,7 +7679,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1vpDdW7YQQV_xPJs6eomgvUIf81IHTrNJ/view?usp=drivesdk"
   },
   {
@@ -7417,10 +7687,13 @@
     "correo": "A01726657@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Marianne Gil Saca",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Ciencias Naturales y Experimentales",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1qwEDNuczy5r30OkPFfdmBuaMWcM-wuFV/view?usp=drivesdk"
   },
   {
     "nombre": "Sofía Plancarte Gracia",
@@ -7432,7 +7705,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/11uIWEjXU75NjofQN2ZT4sRnC38pXmBHq/view?usp=drivesdk"
   },
   {
@@ -7445,7 +7718,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1WMWysnzTp_Uef8uw6zSnqFom-qfRciMQ/view?usp=drivesdk"
   },
   {
@@ -7471,7 +7744,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/13oEOOTVKnowJaT_H1RAWLzTZLINAOWUy/view?usp=drivesdk"
   },
   {
@@ -7484,7 +7757,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1dTyUBj_lXbcJDKFMRxQgppj_LkYLwplH/view?usp=drivesdk"
   },
   {
@@ -7544,30 +7817,39 @@
     "correo": "A01726199@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Ciencias Naturales y Experimentales"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1N64tzvzJyPResSFzXFst0oCgm6g0DqaB/view?usp=drivesdk"
   },
   {
     "nombre": "Nina Villarreal De Hoyos",
     "correo": "A01726200@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1ltSAE8mBXUZ9oMU-QgU5wmgsqMcC6ZcX/view?usp=drivesdk"
   },
   {
     "nombre": "Fernanda Martínez Austin",
     "correo": "A01726279@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1OHgzMYmpiORC3zoaWOH-YAqAGuc52Rxt/view?usp=drivesdk"
   },
   {
     "nombre": "Gonzalo Saenz Garza",
@@ -7579,7 +7861,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1c5ZFc7k3cEbnWaxag4ZlnY2npNaCXt4V/view?usp=drivesdk"
   },
   {
@@ -7600,10 +7882,13 @@
     "correo": "A01726338@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/12mYzYHOrIKfCxw159l7SF8OsgK6wkn1N/view?usp=drivesdk"
   },
   {
     "nombre": "Bárbara Viejo Villarreal",
@@ -7636,10 +7921,13 @@
     "correo": "A01726406@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1L25PMzaTWaItK67P_mef4iYTgGGnIluL/view?usp=drivesdk"
   },
   {
     "nombre": "Federico Haiek Cárdenas",
@@ -7666,10 +7954,13 @@
     "correo": "A01726517@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Matemáticas y Pensamiento Lógico",
+      "Lenguas y Culturas Extranjeras"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/157wQBteP7vD28LdXB8fxhvext3fNoZQT/view?usp=drivesdk"
   },
   {
     "nombre": "Daniela Guzmán De la Garma",
@@ -7686,20 +7977,26 @@
     "correo": "A01726550@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/14uRWkEDNKmPcLTOYOECagEkmG06n-OKD/view?usp=drivesdk"
   },
   {
     "nombre": "Daniel Alejandro González Cruz",
     "correo": "A01726570@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1BTVJJFMC24sf_uufPCCLuxny4kB5Xr3D/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Barison Elizondo",
@@ -7732,20 +8029,26 @@
     "correo": "A01726659@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Lengua, Literatura y Comunicación"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/12wGGUKAlxHhzPwGkOO_CGCtSM0KIn1ey/view?usp=drivesdk"
   },
   {
     "nombre": "Rocco Galán Hank",
     "correo": "A01726693@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Individuos, Sociedad y Humanidades",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1_NwxN8tLgmFwp3CrG19DtaGwFO5HtPRD/view?usp=drivesdk"
   },
   {
     "nombre": "Andrés Gracia Mier",
@@ -7785,8 +8088,11 @@
     "correo": "A01726840@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "En progreso",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
     "reporte": null
   },
@@ -8252,7 +8558,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1MLlScU8qHoluo3OqWTTVfZKjmbVD1kzj/view?usp=drivesdk"
   },
   {
@@ -8265,7 +8571,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1xdDmnnnjiENzeWO2EGcNamrGaRx9t1AY/view?usp=drivesdk"
   },
   {
@@ -8291,7 +8597,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1JhNMAnguDhgdrDREuieOvC4BGaxL4cRc/view?usp=drivesdk"
   },
   {
@@ -8304,7 +8610,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1PAHcJpOY5ZcJygtLE_ZSX-mhA2cMe4Ol/view?usp=drivesdk"
   },
   {
@@ -8317,7 +8623,7 @@
       "Lenguas y Culturas Extranjeras",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1NKqCvrqkktVfwKSAJDuSx2on3wjbCNkQ/view?usp=drivesdk"
   },
   {
@@ -8330,7 +8636,7 @@
       "Artes, Expresión y Creatividad",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/140JdFGkTF2fMG1qFBPv27nqqQOgUzoHx/view?usp=drivesdk"
   },
   {
@@ -8343,7 +8649,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1MylAZp0MCQw0DPbE94c87fS-vwQcKUV3/view?usp=drivesdk"
   },
   {
@@ -8356,7 +8662,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1ZHpScWXYM__Mt5jxHZ5M-Zkhn4M_dQlK/view?usp=drivesdk"
   },
   {
@@ -8369,7 +8675,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1UFpdJYv40dzPmbH-2IQk73fsON2chOeT/view?usp=drivesdk"
   },
   {
@@ -8382,7 +8688,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1KdbSISKGItg5t77lO8PuznrEGrAdTEWV/view?usp=drivesdk"
   },
   {
@@ -8395,7 +8701,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1opaXhh_WawLkYRtbScErefRe43p73-qg/view?usp=drivesdk"
   },
   {
@@ -8421,7 +8727,7 @@
       "Artes, Expresión y Creatividad",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1mX1NvEYDWfvGvyre1_ZiaKCfOwfbix46/view?usp=drivesdk"
   },
   {
@@ -8434,7 +8740,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1_qRI9555iPNCjqMYB_ac0quitcbV3fQV/view?usp=drivesdk"
   },
   {
@@ -8447,7 +8753,7 @@
       "Individuos, Sociedad y Humanidades",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1pATkuKAuMD_BECE0p5Fq9FqfSifSR0Tt/view?usp=drivesdk"
   },
   {
@@ -8460,7 +8766,7 @@
       "Lenguas y Culturas Extranjeras",
       "Lengua, Literatura y Comunicación"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1JpFriRRLS_84SLcjrRVtBrqRNX_FEzAX/view?usp=drivesdk"
   },
   {
@@ -8473,7 +8779,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/17yMwjqnNds88psJm-DwAl2VkfUO10_tl/view?usp=drivesdk"
   },
   {
@@ -8486,7 +8792,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1OVOZptIxKHp2FLorbSDurIzAAbPLkMPF/view?usp=drivesdk"
   },
   {
@@ -8499,7 +8805,7 @@
       "Lenguas y Culturas Extranjeras",
       "Ciencias Naturales y Experimentales"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Z5xTfcMDS5awlrTKY_2E8NIku6e8FNnI/view?usp=drivesdk"
   },
   {
@@ -8512,7 +8818,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1IbI2QR_A7EiHtbS8OMKmEdxL83vl1hNQ/view?usp=drivesdk"
   },
   {
@@ -8538,7 +8844,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1vxAgncrP1WWbasMb1DMGrwHRTKbPcik0/view?usp=drivesdk"
   },
   {
@@ -8551,7 +8857,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1cfylZrlaPl94Wk0HC9L-3sPUTtt8MtYV/view?usp=drivesdk"
   },
   {
@@ -8564,7 +8870,7 @@
       "Ciencias Naturales y Experimentales",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1oUzHHZZ_g4QD3ka6TwCKmOpSNYSWP78O/view?usp=drivesdk"
   },
   {
@@ -8577,7 +8883,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1YZgV8RcU-8QpTEQU_rE0MzPYCP_FhIWE/view?usp=drivesdk"
   },
   {
@@ -8590,7 +8896,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1dl0AW6NdTxtd2BiPjc5mcLdKbcsfFm0E/view?usp=drivesdk"
   },
   {
@@ -8603,7 +8909,7 @@
       "Matemáticas y Pensamiento Lógico",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/156tLkoSZWdwIxTwF_-X8mk7QPbBsvPsQ/view?usp=drivesdk"
   },
   {
@@ -8629,7 +8935,7 @@
       "Individuos, Sociedad y Humanidades",
       "Lenguas y Culturas Extranjeras"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1kSGYqKEQuoYu2rjpcLbz9Z2e4scCfUTx/view?usp=drivesdk"
   },
   {
@@ -8642,7 +8948,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1TEbC8yif96NMxCd9N1SB3wxaC4vDrhgx/view?usp=drivesdk"
   },
   {
@@ -8655,7 +8961,7 @@
       "Lengua, Literatura y Comunicación",
       "Matemáticas y Pensamiento Lógico"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1RNSekk-P-Te0Kl8dRJkQGo8HuiY3_Sf0/view?usp=drivesdk"
   },
   {
