@@ -8128,8 +8128,11 @@
     "correo": "A01726716@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "En progreso",
+    "areas": [
+      "Lengua, Literatura y Comunicación",
+      "Lenguas y Culturas Extranjeras"
+    ],
     "interaccion": "No interactuó",
     "reporte": null
   },
