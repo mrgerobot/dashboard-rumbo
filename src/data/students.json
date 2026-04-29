@@ -1728,7 +1728,7 @@
       "Lengua, Literatura y Comunicación",
       "Artes, Expresión y Creatividad"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/14rO9jxAk_VkQd2AoN56-pgvuyI2_k9tM/view?usp=drivesdk"
   },
   {
@@ -4646,7 +4646,7 @@
       "Lengua, Literatura y Comunicación",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1Jwn_masaPOm39EqjYSuLN4t8wgqlaMu3/view?usp=drivesdk"
   },
   {
@@ -5032,10 +5032,13 @@
     "correo": "A01726763@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1Y6b9NZn6umL2x1wqzhgwOp1KR7VgZH-c/view?usp=drivesdk"
   },
   {
     "nombre": "Luis Kirsch Melamed",
@@ -5094,10 +5097,13 @@
     "correo": "A01726858@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Mariana Estefanía Gutiérrez Guerrero",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1T-S9N-zVgXP8Wv0K6snrtLuNSFYNMR0G/view?usp=drivesdk"
   },
   {
     "nombre": "Diego Rodríguez Lobeira",
@@ -5761,13 +5767,13 @@
     "correo": "A01726589@tec.mx",
     "campus": "Santa Catarina - Tec",
     "mentor": "Regina Velasco Barragán",
-    "estado": "En progreso",
+    "estado": "Finalizado",
     "areas": [
       "Matemáticas y Pensamiento Lógico",
       "Lengua, Literatura y Comunicación"
     ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1oCS2SClYrjBHK1nTMVA6kVkDo04wtZWZ/view?usp=drivesdk"
   },
   {
     "nombre": "Federico Alonso Flores Gorena",
