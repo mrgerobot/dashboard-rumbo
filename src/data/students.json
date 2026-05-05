@@ -9389,20 +9389,26 @@
     "correo": "A01647881@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Artes, Expresión y Creatividad"
+    ],
     "interaccion": "No interactuó",
-    "reporte": null
+    "reporte": "https://drive.google.com/file/d/1aE9SHNunAOy9kyLkExNq9Qni_YMILTS8/view?usp=drivesdk"
   },
   {
     "nombre": "Marek Rodríguez Majdak",
     "correo": "A01648065@tec.mx",
     "campus": "Guadalajara - Tec",
     "mentor": "Susana Molina",
-    "estado": "Sin comenzar",
-    "areas": [],
-    "interaccion": "No interactuó",
-    "reporte": null
+    "estado": "Finalizado",
+    "areas": [
+      "Lenguas y Culturas Extranjeras",
+      "Individuos, Sociedad y Humanidades"
+    ],
+    "interaccion": "Interactuó",
+    "reporte": "https://drive.google.com/file/d/1JFgYiZi-oXotMbboBeRib9n6NltigNcV/view?usp=drivesdk"
   },
   {
     "nombre": "María Abril Currá Arce",
@@ -9414,7 +9420,7 @@
       "Lenguas y Culturas Extranjeras",
       "Individuos, Sociedad y Humanidades"
     ],
-    "interaccion": "No interactuó",
+    "interaccion": "Interactuó",
     "reporte": "https://drive.google.com/file/d/1TYHPyuK9gclvT4ph361vc60dj9Ttd6rB/view?usp=drivesdk"
   },
   {
